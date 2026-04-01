@@ -1,0 +1,463 @@
+@import 'slick-carousel/slick/slick-theme.css';
+@import "slick-carousel/slick/slick.css";
+
+
+/* 
+@font-face {
+  font-family: "San Francisco";
+  font-weight: 500;
+  src: url("https://applesocial.s3.amazonaws.com/assets/styles/fonts/sanfrancisco/sanfranciscodisplay-medium-webfont.woff");
+} */
+
+
+.press-start-2p-regular {
+  font-family: "Press Start 2P", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+
+@font-face {
+  font-family: 'digital';
+  src: url('../public/Fonts/Digital%20Dismay.otf') format('opentype');
+}
+
+/* @font-face {
+  font-family: 'artemus';
+  src: url('../public/Fonts/artemus/Artemus.otf') format('opentype');
+} */
+
+
+.App-Section {
+  font-family: 'digital';
+}
+
+.section4{
+  font-family: 'artemus';
+}
+::-webkit-scrollbar {
+  display: none;
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+ box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+  box-shadow: inset 0 0 6px rgba(141, 139, 139, 0.842);
+
+}
+
+
+.slick-dots li button:before {
+  color: gray !important;
+}
+
+.slick-dots li.slick-active button::before {
+  color: white !important;
+  /* Color for the active dot */
+}
+
+.apexcharts-menu {
+  color: black;
+}
+.apexcharts-tooltip {
+  color: black;
+}
+
+::-webkit-calendar-picker-indicator{
+  background-color: white;
+  padding: 3px;
+  border-radius: 3px;
+}
+
+.white-bullets ul {
+  list-style-type: disc;
+}
+
+.white-bullets ul li {
+  color: white;
+}
+
+
+.custom-phone-input-container .custom-phone-input {
+  width: 100% !important;
+  color: white !important; 
+  background-color: transparent !important; 
+  outline: none !important;
+  border: none !important; /* Remove border */
+  padding: none !important;
+
+}
+
+.custom-phone-input-container .custom-phone-dropdown-button {
+  background-color: transparent !important; /* Background color */
+  border: none !important; /* Remove border */
+  color: black !important; /* Text color */
+}
+
+.custom-phone-input-container .custom-phone-dropdown {
+  background-color: transparent !important; /* Dropdown background color */
+  max-height: 200px !important; /* Max height of dropdown */
+  overflow-y: auto !important; /* Scroll if content exceeds max height */
+}
+
+.custom-phone-input-container .custom-phone-dropdown .country {
+  padding: 10px !important; /* Padding for each dropdown item */
+  background-color: white;
+}
+
+.custom-phone-input-container .custom-phone-dropdown .country:hover {
+  background-color: lightgray !important; /* Hover background color */
+}
+
+.custom-phone-input-container .custom-phone-dropdown .country .country-name {
+  color: black !important; /* Text color for country names */
+}
+
+.react-tel-input .flag-dropdown.open .selected-flag {
+  background: transparent !important;
+  border-radius: 3px 0 0 0;
+}
+.react-tel-input .selected-flag:hover, .react-tel-input .selected-flag:focus {
+  background-color: transparent !important;
+}
+
+/* .container .wheel .number {
+  position: absolute;
+  width: 50%; 
+  height: 50%;
+  transform-origin: bottom right;
+  transform: rotate(calc(40deg * var(--i))); 
+  clip-path: polygon(0 0, 57% 0, 100% 100%, 0 57%);
+} */
+
+
+
+.container .wheel .number {
+  position: absolute;
+  width: 50%;
+  height: 50%;
+  transform-origin: bottom right;
+  transform: rotate(calc(360deg / var(--segments) * var(--i))); /* Dynamic rotation */
+  clip-path: polygon(0 0, 57% 0, 100% 100%, 0 57%);
+}
+
+
+.container .wheel .number span {
+  position: relative;
+  transform: rotate(360deg / var(--segments)); /* Adjusted to match new segment angle */
+}
+
+.wheel {
+  transition: all 2s ease-in-out;
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  80% {
+    transform: rotate(var(--rotation-angle));
+    animation-timing-function: cubic-bezier(0.8, 0, 0.3, 1);
+  }
+  100% {
+    transform: rotate(var(--rotation-angle));
+  }
+}
+
+.rotate-wheel {
+  animation: spin 10s ease-out forwards;
+}
+
+
+
+
+.countdown-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent;
+}
+
+.countdown-number {
+  opacity: 0;
+  transform: translateY(100%) scale(0.3);  
+  text-shadow: 0 0 8px #1ce7419a, 0 0 8px #1ce7419a, 0 0 8px #1ce7419a; /* Glowing effect */
+  animation: countdownUp 1s ease-out forwards;
+}
+
+@keyframes countdownUp {
+  0% {
+    transform: translateY(100%) scale(0.3); 
+    opacity: 0;
+  }
+
+  100% {
+    transform: translateY(-100%) scale(1.2); 
+    opacity: 1;
+  }
+}
+
+.animate-countdown {
+  animation: countdownUp 1s ease-out forwards;
+}
+
+
+
+ /* .fa-coins , .fa-gamepad, .fa-user-group, .fa-wallet, .fa-heart, .fa-gem, .fa-lock {
+  background: -webkit-linear-gradient(left,#1EEF32,#0285FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;  
+}
+
+.fa-house, .fa-gift {
+  background: -webkit-linear-gradient(bottom ,#1EEF32,#0285FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;  
+} */
+
+.menu-icon {
+  color: white !important;                /* force white */
+  background: none !important;            /* remove gradient */
+  -webkit-background-clip: initial !important;
+  -webkit-text-fill-color: white !important;
+}
+
+.menu-icon.active {
+  color: transparent !important;          /* make text transparent so gradient shows */
+  background: -webkit-linear-gradient(left, #1EEF32, #0285FF) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+}
+
+
+
+.inner-glow {
+  box-shadow: 0 0 10px 2px #1eef3388, inset 0 0 10px 2px #1eef3388;
+}
+
+.description {
+  animation:  fan--inf 10s linear infinite ;
+}
+
+.description span {
+  position: absolute;
+  height: 3rem;
+  top: calc(50% - 3rem); 
+  left: calc(50% - 0.2rem); 
+  transform-origin: bottom center;
+  transform: rotateZ(calc(var(--i) * (360deg / 15))); 
+}
+@keyframes fan {
+ 
+  to{
+    transform: rotateZ(360deg);;
+  }
+}
+@keyframes fan--inf {
+ 
+  to{
+    transform: rotateZ(360deg);;
+  }
+}
+
+.connectwallet{
+  background-color: aliceblue !important;
+}
+
+
+
+.slick-dots {
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  gap: 20px; /* Ensure spacing between dots */
+}
+
+.slick-dots li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Active dot - centered and wider */
+.slick-dots li.slick-active .user-dot {
+  width: 45px !important; /* Wider active dot */
+  background-color: #AAFFB3 !important; /* Bright Green */
+  transition: width 0.3s ease-in-out, background-color 0.3s ease-in-out;
+}
+
+.slick-dots {
+  width: "100%";
+  display: flex !important;
+  justify-content: center;
+  align-items: center;
+  gap: 10px; /* Ensure spacing between dots */
+}
+
+.slick-dots li {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Active dot - centered and wider */
+.slick-dots li.slick-active .mission-dot {
+  background-image: linear-gradient(to right, #1EEF32, #2670E9);
+  transition: width 0.3s ease-in-out, background-color 0.3s ease-in-out;
+}
+
+
+.custom-dot {
+  background-color: rgba(0, 0, 0, 0.4);
+  border: 3px solid rgba(162, 162, 162, 0.2);
+  transition: all 0.3s ease-in-out;
+}
+
+
+.custom-dot .dot-inner {
+  width: 12px;
+  height: 12px;
+  background-color: #999999;
+  border-radius: 50%;
+  transition: all 0.3s ease-in-out;
+}
+
+
+.slick-dots li.slick-active .custom-dot {
+  border: 3px solid #1EEF3280 !important;
+  box-shadow: 0 0 15px #1EEF3290;
+}
+
+
+.slick-dots li.slick-active .dot-inner {
+  background-color: #1FEA32 !important;
+}
+
+
+
+.custom-range {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 95%;
+  margin-left: 7px;
+  height: 5px;
+  border-radius: 10px;
+  outline: none;
+  cursor: pointer;
+  position: relative;
+  /* box-shadow: 0px 0px 10px #00ff99; */
+}
+
+/* Custom Track */
+.custom-range::-webkit-slider-runnable-track {
+  width: 90%;
+  margin: auto;
+  height: 2px;
+  border-radius: 10px;
+  background-color: #FFFFFF10;
+}
+
+/* Custom Thumb (Handle) */
+.custom-range::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 85px;
+  height: 5px;
+  /* background: #00ff99; */
+  background: linear-gradient(to right, #1EEF32, #2670E9);
+  transform: translateY(4px);
+  border-radius: 10px;
+  cursor: pointer;
+  /* box-shadow: 0 0 10px #00ff99; */
+  transition: transform 0.2s ease-in-out;
+  position: relative;
+  margin-top: -6px; /* Centers thumb */
+}
+
+/* .custom-range::-webkit-slider-thumb:hover {
+  transform: scale(1.2);
+  transform: translateY(5px);
+
+} */
+
+/* Thumb Active State */
+/* .custom-range:active::-webkit-slider-thumb {
+  transform: scale(1.3);
+} */
+
+/* Track for Firefox */
+.custom-range::-moz-range-track {
+  width: 100%;
+  height: 8px;
+  background: #0c1022;
+  border-radius: 10px;
+}
+
+
+.fa-linkedin-in,
+.fa-x-twitter,
+.fa-instagram,
+.fa-youtube,
+.fa-square-facebook,
+.fa-telegram,
+.fa-quote-left {
+  background: -webkit-linear-gradient(right, #0285FF, #1EEF32);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.footer-blur {
+  position: relative;
+  backdrop-filter: blur(10px);
+  z-index: 0;
+
+}
+
+.footer-blur::before {
+  content: "";
+  position: absolute;
+  z-index: -2;
+  width: 75%;
+  height: 60px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: linear-gradient(to right, #727272c0, #727272, #727272c0);
+  border-radius: 0 0 100% 100%;
+  opacity: 0.5;
+  filter: blur(25px);
+}
+
+
+.custom-slider .slick-list {
+  padding-left: 20px; 
+}
+
+@media print{
+  .pdfcontainer{
+    display: none;
+  }
+}
+
+
+.animate-pulse {
+  animation: pulse 1.5s infinite;
+}
+
+@keyframes pulse {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
+}

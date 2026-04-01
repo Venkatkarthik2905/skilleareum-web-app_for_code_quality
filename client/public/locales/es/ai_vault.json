@@ -1,0 +1,22 @@
+{
+  "ui": {
+    "welcome_to": "Bienvenido a",
+    "fact_vault_title": "Bóveda de datos de IA",
+    "get_started": "Empezar",
+    "yesterday": "Ayer",
+    "summary": "Resumen",
+    "facts_for_day": "Datos de IA del día.",
+    "claim_reward": "Reclamar recompensa",
+    "task_completed": "Tarea completada👏",
+    "explore_facts": "Explora los datos de",
+    "learn_earn": "Aprende más y gana más",
+    "keep_learning": "Sigue aprendiendo y ganando",
+    "joyride": "¡Aprende sobre la historia de la IA, curiosidades, el futuro y la actualidad y reclama 250 puntos de habilidad cada día! 📈"
+  },
+  "categories": {
+    "history": "Historia de la IA",
+    "fun_fact": "Curiosidad de IA",
+    "future": "Futuro de la IA",
+    "current_affairs": "Actualidad de la IA"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "loading": "Please wait Loading",
+  "home": "Home",
+  "aboutUs": "About us",
+  "community": "Community",
+  "whitepaper": "Whitepaper",
+  "contactUs": "Contact us",
+  "signIn": "Sign In",
+  "joinNow": "Join Now",
+  "getStarted": "Get Started",
+  "welcomeTo": "Welcome To",
+  "hiIAmYourSkillGene": "Hi I Am Your Skill Gene",
+  "footer": {
+    "followUs": "Follow Us On Social Media",
+    "links": {
+      "home": "Home",
+      "aboutUs": "About us",
+      "community": "Community"
+    },
+    "subLinks": {
+      "futureBenefits": "Future Benefits",
+      "learnEarn": "Learn & Earn",
+      "features": "Features",
+      "visionMission": "Vision and Mission",
+      "roadmap": "Roadmap",
+      "tokenomics": "Tokenomics",
+      "explore": "Explore",
+      "partnership": "Partnership",
+      "affiliateProgram": "Affiliate Program"
+    },
+    "newsletter": {
+      "title": "Join our newsletter",
+      "subtitle": "Keep up to date with everything Reflect",
+      "placeholder": "Enter your email",
+      "subscribe": "Subscribe",
+      "subscribing": "Subscribing..."
+    },
+    "rights": "@ Skilleareum {{year}}. All Rights Reserved.",
+    "version": "Version {{version}}",
+    "privacyPolicy": "Privacy Policy",
+    "termsConditions": "Terms & Conditions",
+    "cookiePolicy": "Cookie Policy"
+  },
+  "messages": {
+    "enterEmail": "Enter your email.",
+    "thanksSubscription": "Thanks for the subscription.",
+    "subscriptionDone": "Subscription already done."
+  },
+  "reward": {
+    "day_label": "DAY {{day}}",
+    "skill_points": "SKILL POINTS",
+    "earned": "EARNED",
+    "come_back": "COME BACK TOMORROW",
+    "collect": "COLLECT"
+  }
+}

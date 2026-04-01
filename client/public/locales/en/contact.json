@@ -1,0 +1,22 @@
+{
+  "title": "Get in touch with us.",
+  "subtitle": "Whether it’s a query, idea, or feedback — we’re all ears.",
+  "form": {
+    "name": "Your Name",
+    "email": "Email Address",
+    "phone": "Phone number (optional)",
+    "message": "Message",
+    "submit": "Leave us a Message",
+    "sending": "Sending..."
+  },
+  "validation": {
+    "nameRequired": "Name is required",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Email is not valid",
+    "messageRequired": "Message is required"
+  },
+  "messages": {
+    "success": "Message Sent",
+    "error": "Failed to send message."
+  }
+}

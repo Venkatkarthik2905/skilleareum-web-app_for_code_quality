@@ -1,0 +1,51 @@
+{
+  "rules": {
+    "title": "Cómo funciona este desafío",
+    "rule1": {
+      "title": "Formato de pregunta",
+      "points": ["Responderás a 5 mitos de la IA", "Cada mito es Verdadero o Falso"]
+    },
+    "rule2": {
+      "title": "Límite de tiempo",
+      "points": [
+        "10 segundos por mito",
+        "El temporizador comienza automáticamente para cada pregunta"
+      ]
+    },
+    "rule3": {
+      "title": "Regla de puntuación",
+      "points": ["Debes responder correctamente al menos 4 de 5 para aprobar"]
+    },
+    "lets_begin": "Empecemos"
+  },
+  "game": {
+    "title": "DESAFÍO DE MITOS DE IA",
+    "myth_info": "Mito {{current}} de {{total}}",
+    "question": "Pregunta {{number}}",
+    "true": "Verdadero",
+    "false": "Falso",
+    "correct": "Correcto",
+    "incorrect": "Incorrecto",
+    "correct_answer": "Respuesta correcta: ",
+    "next": "SIGUIENTE >>",
+    "loading": "Cargando preguntas...",
+    "error_loading": "Error al cargar las preguntas",
+    "no_questions": "No hay preguntas disponibles.",
+    "submitting": "Enviando tus respuestas...",
+    "submitted": "¡Enviado con éxito!",
+    "submission_failed": "Error en el envío",
+    "network_error": "Error de red durante el envío",
+    "claimed_redirect": "Has reclamado la recompensa. Redirigiendo..."
+  },
+  "results": {
+    "title": "Desafío completado",
+    "pass": "Aprobado",
+    "fail": "Reprobado",
+    "perfect": "¡Puntuación perfecta! ¡Maestro de la IA!",
+    "myths_correct": "Mitos correctos",
+    "outstanding": "¡Excelente! Tienes una comprensión completa de los conceptos y mitos de la IA.",
+    "great_job": "¡Buen trabajo! Tienes una base sólida sobre los conceptos de IA.",
+    "reinforcement": "Vas por el buen camino, pero algunos conceptos de IA necesitan refuerzo.",
+    "continue": "Continuar aprendiendo"
+  }
+}

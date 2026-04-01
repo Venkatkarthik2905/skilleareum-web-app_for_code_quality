@@ -1,0 +1,10 @@
+{
+  "ui": {
+    "introduction": "Introduction",
+    "real_world_examples": "Real World Examples",
+    "fun_fact": "Fun Fact",
+    "claim_points": "claim skill points",
+    "task_completed": "Task completed 👏",
+    "error_something_wrong": "Something went wrong!"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "rules": {
+    "title": "Wie diese Herausforderung funktioniert",
+    "rule1": {
+      "title": "Kampfformat",
+      "points": [
+        "Ein Anwendungsfall aus der Praxis",
+        "Zwei KI-Tools präsentiert",
+        "Wählen Sie die beste Lösung"
+      ]
+    },
+    "rule2": {
+      "title": "Zeitlimit",
+      "points": [
+        "15 Sekunden pro Kampf"
+      ]
+    },
+    "rule3": {
+      "title": "Bewertungsregel",
+      "points": [
+        "Mindestens 4 von 5 richtigen Antworten, um die Arena-Herausforderung zu bestehen."
+      ]
+    },
+    "lets_begin": "Lass uns anfangen"
+  },
+  "game": {
+    "title": "KI-Tool-Arena",
+    "battle_info": "Kampf {{current}} von {{total}}",
+    "submit_answer": "Antwort absenden",
+    "correct_insight": "Richtige Erkenntnis",
+    "incorrect": "Falsch",
+    "correct_answer": "Richtige Antwort: ",
+    "next_case": "NÄCHSTER FALL >>",
+    "view_results": "ERGEBNISSE ANSEHEN >>",
+    "loading": "Kämpfe werden geladen...",
+    "redirecting": "Weiterleitung...",
+    "no_battles": "Keine Kämpfe verfügbar.",
+    "tool_label": "Tool {{id}}",
+    "reward_credited": "Belohnung gutgeschrieben!",
+    "submitted": "Erfolgreich eingereicht!",
+    "network_error": "Netzwerkfehler",
+    "submitting": "Wird eingereicht..."
+  },
+  "results": {
+    "title": "Arena-Ergebnisse",
+    "pass": "Bestanden",
+    "fail": "Nicht bestanden",
+    "perfect": "Perfekte Punktzahl! KI-Meister!",
+    "battles_won": "Gewonnene Kämpfe",
+    "excellent": "Hervorragende Arbeit! Sie haben alle KI-Anwendungsfälle richtig analysiert und jedes Mal die richtigen Tools ausgewählt.",
+    "misconceptions": "Sie haben erfolgreich gängige KI-Fehlvorstellungen identifiziert und korrigiert.",
+    "good_progress": "Gute Fortschritte! Sie verstehen, wie man die richtigen KI-Tools auswählt, aber ein paar Fälle benötigen noch mehr Aufmerksamkeit.",
+    "good_start": "Das ist ein guter Anfang. Sehen Sie sich die Fälle noch einmal an, um besser zu verstehen, wann und wie KI eingesetzt werden sollte.",
+    "continue": "Weiter lernen"
+  }
+}

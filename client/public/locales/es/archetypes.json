@@ -1,0 +1,117 @@
+{
+  "title": "Tu arquetipo de aprendizaje",
+  "next_steps": {
+    "title": "¿Qué sigue?",
+    "description": {
+      "type1": "Ahora que entendemos cómo aprendes, comprendamos qué tan familiarizado estás con los conceptos de IA. Esto nos ayuda a personalizar aún mejor tu viaje de aprendizaje.",
+      "type2": "Antes de crear tu hoja de ruta personalizada, evaluaremos tus conocimientos actuales de IA para que coincidan con tu ritmo y motivación.",
+      "type3": "Evaluaremos tus conocimientos de IA para crear desafíos que coincidan con tu velocidad y estilo de aprendizaje orientado a tareas.",
+      "type4": "Evaluaremos tus conocimientos de IA para crear desafíos que coincidan con tu velocidad y estilo de aprendizaje orientado a tareas."
+    },
+    "start_journey": "Comienza tu viaje"
+  },
+  "how_you_learn": "Cómo aprendes mejor",
+  "behavior_breakdown": "Desglose del comportamiento de aprendizaje",
+  "learning_identity": "Identidad de aprendizaje",
+  "what_happens_next": "¿Qué pasa después?",
+  "labels": {
+    "visual": "Visual",
+    "analytical": "Analítico",
+    "sequential": "Secuencial",
+    "accuracy": "Precisión",
+    "task_driven": "Orientado a tareas",
+    "intuitive": "Intuitivo",
+    "speed_focused": "Enfocado en la velocidad",
+    "reward_driven": "Impulsado por recompensas",
+    "exploratory": "Exploratorio",
+    "kinesthetic": "Kinestésico",
+    "reward": "Recompensa"
+  },
+  "features": {
+    "analytical_thinking": "Pensamiento analítico",
+    "goal_oriented": "Orientado a objetivos",
+    "accuracy_first": "La precisión es lo primero",
+    "step_by_step": "Aprendizaje paso a paso"
+  },
+  "behaviors": {
+    "see": {
+      "title": "Ver",
+      "desc": "Los patrones visuales te ayudan a comprender conceptos rápidamente."
+    },
+    "follow": {
+      "title": "Seguir",
+      "desc": "Una secuencia clara mantiene el aprendizaje cómodo y enfocado."
+    },
+    "act_fast": {
+      "title": "Actuar rápido",
+      "desc": "Prefieres decisiones rápidas y progreso veloz."
+    },
+    "get_rewarded": {
+      "title": "Obtener recompensas",
+      "desc": "Los patrones visuales te ayudan a comprender conceptos rápidamente."
+    }
+  },
+  "descriptions": {
+    "type1": "Prefieres experiencias de aprendizaje estructuradas, lógicas y bien organizadas. Te desempeñas mejor cuando los conceptos se desglosan paso a paso, lo que permite un tiempo para la comprensión profunda y la precisión. Te motiva el progreso significativo y los objetivos claros más que la velocidad o las recompensas externas.",
+    "type2": "Prosperas en entornos de aprendizaje que combinan la claridad visual con el razonamiento lógico y las tareas reales. Prefieres moverte rápido y mantenerte productivo a través de acciones y resultados claramente definidos.",
+    "type3": "Prosperas en entornos de aprendizaje que combinan la claridad visual con el razonamiento lógico y las tareas reales. Prefieres moverte rápido y mantenerte productivo a través de acciones y resultados claramente definidos.",
+    "type4": "Prosperas en entornos de aprendizaje que combinan la claridad visual con el razonamiento lógico y las tareas reales. Prefieres moverte rápido y mantenerte productivo a través de acciones y resultados claramente definidos."
+  },
+  "roadmap": {
+    "title": "Tu hoja de ruta de aprendizaje de IA personalizada",
+    "subtitle": "Un plan paso a paso diseñado en torno a cómo aprendes mejor",
+    "loading": "Cargando tu hoja de ruta personalizada...",
+    "how_it_works": {
+      "title": "Cómo funciona esta hoja de ruta",
+      "description": "Esta hoja de ruta organiza las actividades de aprendizaje en un orden que coincide con tu estilo de aprendizaje y tu preparación para la IA. Cada actividad se basa en la anterior para garantizar claridad, retención y confianza."
+    },
+    "learning_journey": "Tu viaje de aprendizaje",
+    "step_label": "Paso {{step}}",
+    "goal_label": "Objetivo: {{goal}}",
+    "ai_assessment_result": "Resultado del control de conocimientos de IA",
+    "foundational": "Fundamental",
+    "foundational_desc": "Basado en tus respuestas de evaluación, actualmente demuestras una comprensión fundamental de los conceptos de inteligencia artificial. Esta etapa se centra en generar claridad, precisión y confianza a través del aprendizaje estructurado.",
+    "beginner": "Principiante",
+    "beginner_desc": "Basado en tus respuestas de evaluación, actualmente demuestras una comprensión de nivel principiante de los conceptos de inteligencia artificial. Esta etapa se centra en ampliar tus conocimientos y familiarizarte de forma práctica con las herramientas de IA.",
+    "intermediate": "Intermedio",
+    "intermediate_desc": "Basado en tus respuestas de evaluación, actualmente demuestras una comprensión de nivel intermedio de los conceptos de inteligencia artificial. Esta etapa se centra en profundizar tu base técnica y en la aplicación de la IA en el mundo real.",
+    "advanced": "Avanzado",
+    "advanced_desc": "Basado en tus respuestas de evaluación, actualmente demuestras una comprensión avanzada de los conceptos de inteligencia artificial. Esta etapa se centra en la resolución de problemas complejos y en la estrategia e implementación avanzada de la IA.",
+    "what_this_means": {
+      "title": "Qué significa esto",
+      "description": "En esta etapa, estás construyendo una base sólida en conceptos de IA. Aprendes mejor cuando el contenido está secuenciado lógicamente, explicado claramente y reforzado a través de la acción."
+    },
+    "typically": "Normalmente tú:",
+    "typically_points": [
+      "Construyes la comprensión paso a paso",
+      "Prefieres la orientación antes que la exploración",
+      "Aprendes viendo, escuchando, leyendo y haciendo juntos"
+    ],
+    "duration_roadmap": "Hoja de ruta de aprendizaje de IA de {{days}} días",
+    "phase_label": "Fase {{step}} — ",
+    "start_ai_journey": "Comienza tu viaje de IA",
+    "steps": {
+      "f1": {
+        "title": "Fundamentos de IA",
+        "goal": "Desarrollar conciencia básica y modelos mentales"
+      },
+      "f2": {
+        "title": "Cómo funciona la IA y dónde se utiliza",
+        "goal": "Comprender la IA conceptualmente sin profundidad técnica"
+      },
+      "f3": {
+        "title": "Interacción con la IA de forma eficaz",
+        "goal": "Generar confianza en el uso correcto de la IA"
+      },
+      "f4": {
+        "title": "Uso responsable y práctico",
+        "goal": "Aplicar la IA de forma reflexiva y responsable"
+      }
+    },
+    "tooltips": {
+      "best_for": "Lo mejor para",
+      "what_you_do": "Qué haces",
+      "why_it_matters": "Por qué es importante"
+    }
+  }
+}

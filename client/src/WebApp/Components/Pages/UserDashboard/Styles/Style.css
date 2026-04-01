@@ -1,0 +1,25 @@
+@keyframes glow {
+    0%, 100% {
+      filter: brightness(0.9);
+    }
+    50% {
+      filter: brightness(1.2);
+    }
+  }
+  
+  .glow-animation {
+    animation: glow 20s ease-in-out infinite;
+  }
+  
+  
+ .fa-gamepad, .fa-user-group, .fa-wallet, .fa-heart, .fa-gem, .fa-lock, .fa-gear, .fa-clipboard-list, .fa-users {
+  background: -webkit-linear-gradient(left,#1EEF32,#0285FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;  
+}
+
+.fa-house, .fa-gift {
+  background: -webkit-linear-gradient(bottom ,#1EEF32,#0285FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;  
+}

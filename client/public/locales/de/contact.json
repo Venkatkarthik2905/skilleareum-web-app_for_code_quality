@@ -1,0 +1,22 @@
+{
+  "title": "Kontaktieren Sie uns.",
+  "subtitle": "Ob Frage, Idee oder Feedback — wir haben ein offenes Ohr.",
+  "form": {
+    "name": "Ihr Name",
+    "email": "E-Mail-Adresse",
+    "phone": "Telefonnummer (optional)",
+    "message": "Nachricht",
+    "submit": "Hinterlassen Sie uns eine Nachricht",
+    "sending": "Wird gesendet..."
+  },
+  "validation": {
+    "nameRequired": "Name ist erforderlich",
+    "emailRequired": "E-Mail ist erforderlich",
+    "emailInvalid": "E-Mail ist ungültig",
+    "messageRequired": "Nachricht ist erforderlich"
+  },
+  "messages": {
+    "success": "Nachricht gesendet",
+    "error": "Nachricht konnte nicht gesendet werden."
+  }
+}

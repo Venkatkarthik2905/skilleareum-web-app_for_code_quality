@@ -1,0 +1,26 @@
+.inner-gradient-shadow {
+  position: relative;
+  background: #080b12;
+  border-radius: 12px;
+}
+
+.inner-gradient-shadow::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  pointer-events: none;
+  box-shadow:
+    inset 0 0 10px #0285FF50,
+    inset 0 0 20px #1EEF3250;
+}
+
+.outer-shadow{
+  box-shadow: 0px 0px 6px 5px rgba(255, 255, 255, 0.2);
+}
+
+.fa-circle-check, .fa-check, .fa-lock, .fa-arrow-right-to-bracket, .fa-graduation-cap, .fa-calendar, .fa-language, .fa-microphone, .fa-eye, .fa-comment, .fa-brain, .fa-image, .fa-chart-line, .fa-cog, .fa-bolt{
+   background: -webkit-linear-gradient(left,#1EEF32,#0285FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+}

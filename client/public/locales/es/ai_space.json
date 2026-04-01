@@ -1,0 +1,232 @@
+{
+  "categories": {
+    "all": "Todo",
+    "text_gen": "Generación y resumen de texto",
+    "image_gen": "Generación y edición de imágenes",
+    "audio_editing": "Edición de audio",
+    "ai_art": "Arte y gráficos por IA",
+    "ai_chatbots": "Chatbots de IA",
+    "ai_writing": "Asistentes de escritura por IA",
+    "voice_to_text": "Voz a texto",
+    "video_editing": "Edición y creación de video"
+  },
+  "ui": {
+    "task_completed": "Tarea completada 👏.",
+    "mission_joyride": "Explora y usa más de 49 herramientas de IA y gana 50 puntos de habilidad cada día que las uses y practiques",
+    "todays_mission": "MISIÓN DE HOY",
+    "about_app": "Acerca de la aplicación:",
+    "conditions_title": "Condiciones para los puntos de habilidad:",
+    "conditions": [
+      "1. Los usuarios deben interactuar con una nueva herramienta de IA cada 4 horas para ganar 50 puntos.",
+      "2. Solo la primera interacción dentro de cada ventana de 4 horas contará para los puntos.",
+      "3. Se permite el uso repetido de la misma herramienta, pero solo el primer uso dentro de la ventana ganará puntos.",
+      "4. Los usuarios pueden ganar un máximo de 300 puntos por día con una sola herramienta de IA.",
+      "5. Para seguir ganando puntos, los usuarios deben cambiar a una herramienta de IA diferente cada 4 horas."
+    ],
+    "launch_app": "Iniciar aplicación",
+    "welcome_to": "Bienvenido a",
+    "ai_space_title": "Espacio IA",
+    "tool_label": "Herramienta",
+    "category_label": "Categoría",
+    "lets_begin": "COMENCEMOS",
+    "earn_points_msg": "Gana 50 puntos de habilidad por usar la herramienta una vez.",
+    "compare_text_msg": "Compara el texto original y el parafraseado.",
+    "claimed": "RECLAMADO",
+    "claim": "RECLAMAR",
+    "get_started": "COMENZAR"
+  },
+  "tools": {
+    "73": {
+      "title": "Edit Pad",
+      "content": "Edit Pad es un editor de texto en línea simple para escribir y editar rápidamente, ofreciendo una plataforma accesible para tomar notas, generar ideas y redactar borradores sin necesidad de instalación de software."
+    },
+    "74": {
+      "title": "Excel",
+      "content": "Microsoft Excel es un programa de hojas de cálculo versátil que permite el análisis de datos, la visualización y la automatización, ampliamente utilizado para tareas de productividad tanto personales como profesionales."
+    },
+    "75": {
+      "title": "AppliTools",
+      "content": "AppliTools es una plataforma de monitoreo y pruebas visuales por IA que automatiza las pruebas de interfaz de usuario y garantiza interfaces perfectas en todos los dispositivos y navegadores."
+    },
+    "76": {
+      "title": "ElevenLabs",
+      "content": "ElevenLabs es una plataforma líder de síntesis de voz impulsada por IA que ofrece voz realista y personalizable para audiolibros, juegos y otros proyectos creativos."
+    },
+    "77": {
+      "title": "Functionze",
+      "content": "Functionze es una solución de pruebas impulsada por IA que automatiza las pruebas funcionales, visuales y de rendimiento para aplicaciones web y móviles."
+    },
+    "78": {
+      "title": "Grammarly",
+      "content": "Grammarly es un asistente de escritura por IA ampliamente utilizado que ayuda a mejorar la gramática, la ortografía, el tono y la claridad en tiempo real, tanto para escritores ocasionales como profesionales."
+    },
+    "79": {
+      "title": "Kapwing",
+      "content": "Kapwing es una plataforma de edición de video e imagen en línea que ofrece herramientas impulsadas por IA para crear, redimensionar y mejorar contenido multimedia con facilidad."
+    },
+    "80": {
+      "title": "OpusClip",
+      "content": "OpusClip utiliza IA para transformar videos de formato largo en clips cortos y atractivos optimizados para plataformas de redes sociales, aumentando el alcance y la participación."
+    },
+    "81": {
+      "title": "Photopea",
+      "content": "Photopea es un editor de fotos en línea gratuito con funciones avanzadas similares a Photoshop, compatible con PSD, AI y otros formatos de imagen populares."
+    },
+    "82": {
+      "title": "Recraft",
+      "content": "Recraft es una herramienta de diseño impulsada por IA para generar ilustraciones, iconos y gráficos de alta calidad adaptados a tus necesidades creativas."
+    },
+    "83": {
+      "title": "Alphasense",
+      "content": "Alphasense es una plataforma de inteligencia de mercado impulsada por IA que ayuda a las empresas a analizar datos, descubrir perspectivas y tomar decisiones informadas."
+    },
+    "84": {
+      "title": "BeepBox",
+      "content": "BeepBox es una herramienta de creación de música en línea fácil de usar que permite a los usuarios componer y compartir melodías de estilo chiptune directamente desde su navegador."
+    },
+    "85": {
+      "title": "ChatGPT",
+      "content": "ChatGPT es un chatbot de IA avanzado de OpenAI que puede responder preguntas, generar contenido y ayudar con tareas utilizando la comprensión del lenguaje natural."
+    },
+    "86": {
+      "title": "Claude",
+      "content": "Claude es un asistente de IA de Anthropic diseñado para conversaciones reflexivas, escritura creativa y resolución de problemas, con un enfoque en la seguridad y la confiabilidad."
+    },
+    "87": {
+      "title": "Compass",
+      "content": "Compass es una herramienta de Atlassian que proporciona perspectivas, documentación y coordinación de equipos para proyectos de software, mejorando la productividad y la colaboración."
+    },
+    "88": {
+      "title": "Dall-E 3",
+      "content": "DALL·E 3 es el modelo avanzado de generación de imágenes de OpenAI, capaz de producir visuales detallados y de alta calidad a partir de indicaciones en lenguaje natural."
+    },
+    "89": {
+      "title": "DeepSeek",
+      "content": "DeepSeek es una plataforma de búsqueda e investigación impulsada por IA que analiza grandes conjuntos de datos para extraer perspectivas precisas y procesables."
+    },
+    "90": {
+      "title": "Descript",
+      "content": "Descript es una plataforma de edición de audio y video todo en uno con herramientas de IA para transcripción, doblaje y edición fácil de arrastrar y soltar."
+    },
+    "91": {
+      "title": "Firefly",
+      "content": "Adobe Firefly es una herramienta de IA generativa que crea imágenes impresionantes, efectos de texto y diseños adaptados para profesionales creativos."
+    },
+    "92": {
+      "title": "FlexClip",
+      "content": "FlexClip es un creador y editor de video en línea con plantillas, animaciones y efectos impulsados por IA para crear videos de calidad profesional sin esfuerzo."
+    },
+    "93": {
+      "title": "Frase IO",
+      "content": "Frase IO es una plataforma de escritura y optimización SEO por IA que ayuda a crear, investigar y optimizar contenido para mejores clasificaciones de búsqueda."
+    },
+    "94": {
+      "title": "Gemini",
+      "content": "Gemini es el modelo de IA multimodal de Google DeepMind, diseñado para manejar tareas de texto, imagen y código con alta precisión y eficiencia."
+    },
+    "95": {
+      "title": "GitHub Copilot",
+      "content": "GitHub Copilot es un asistente de codificación por IA impulsado por OpenAI, que proporciona sugerencias de código en tiempo real y acelera el desarrollo de software."
+    },
+    "96": {
+      "title": "Gretel",
+      "content": "Gretel ofrece herramientas de generación de datos sintéticos y anonimización impulsadas por IA para crear conjuntos de datos que preservan la privacidad."
+    },
+    "97": {
+      "title": "Grok",
+      "content": "Grok es un chatbot de IA desarrollado por xAI, diseñado para interacciones con humor, perspicaces y conscientes del contexto en X (anteriormente Twitter)."
+    },
+    "98": {
+      "title": "Gumloop",
+      "content": "Gumloop es una herramienta de automatización de flujos de trabajo de IA sin código que conecta varias aplicaciones y modelos de IA para agilizar las aplicaciones de tareas."
+    },
+    "99": {
+      "title": "IBM Watson",
+      "content": "IBM Watson es una suite de servicios, aplicaciones y herramientas de IA listas para empresas para construir flujos de trabajo y soluciones inteligentes."
+    },
+    "100": {
+      "title": "Jasper",
+      "content": "Jasper es un asistente de escritura por IA que crea textos de marketing, blogs y contenido social atractivos y adaptados a la voz de tu marca."
+    },
+    "101": {
+      "title": "Midjourney",
+      "content": "Midjourney es una herramienta de generación de imágenes por IA que transforma indicaciones de texto en visuales altamente artísticos y detallados."
+    },
+    "102": {
+      "title": "N8n",
+      "content": "N8n es una herramienta de automatización de flujos de trabajo de código abierto que integra APIs y servicios, permitiendo flujos de trabajo complejos con una codificación mínima."
+    },
+    "103": {
+      "title": "Notion AI",
+      "content": "Notion AI mejora el espacio de trabajo de Notion con funciones de IA para escribir, resumir, generar ideas y gestionar la información de manera eficiente."
+    },
+    "104": {
+      "title": "Path AI",
+      "content": "Path AI desarrolla herramientas de patología impulsadas por IA para ayudar a los médicos a diagnosticar enfermedades de manera más precisa y eficiente."
+    },
+    "105": {
+      "title": "Perplexity AI",
+      "content": "Perplexity AI es un motor de búsqueda conversacional que utiliza IA para proporcionar respuestas directas, citadas y conscientes del contexto a las preguntas."
+    },
+    "106": {
+      "title": "Pinetools",
+      "content": "Pinetools ofrece una variedad de herramientas simples en línea para editar imágenes, textos y números directamente desde el navegador."
+    },
+    "107": {
+      "title": "Pixlr",
+      "content": "Pixlr es un editor de fotos profesional y rápido en línea gratuito con herramientas asistidas por IA para una edición de imágenes rápida."
+    },
+    "108": {
+      "title": "Resoomer",
+      "content": "Resoomer es una herramienta de resumen por IA que condensa textos largos en resúmenes claros y concisos para una comprensión más rápida."
+    },
+    "109": {
+      "title": "Runway ML",
+      "content": "Runway ML es una suite creativa de IA que ofrece herramientas para edición de video, generación de imágenes y otros proyectos multimedia."
+    },
+    "110": {
+      "title": "Slick Write",
+      "content": "Slick Write es un corrector gramatical y de estilo en línea que ayuda a mejorar la claridad, estructura y legibilidad de la escritura."
+    },
+    "111": {
+      "title": "Smodin",
+      "content": "Smodin es una plataforma de escritura impulsada por IA que ofrece herramientas para parafrasear, resumir y generar contenido multilingüe."
+    },
+    "112": {
+      "title": "Stable Diffusion",
+      "content": "Stable Diffusion es un modelo de IA de código abierto que genera imágenes de alta calidad a partir de indicaciones en lenguaje natural."
+    },
+    "113": {
+      "title": "Synthesia",
+      "content": "Synthesia es una plataforma de creación de video por IA que genera avatares parlantes para capacitación, marketing y presentaciones."
+    },
+    "114": {
+      "title": "Tableau",
+      "content": "Tableau es una plataforma líder de visualización de datos que ayuda a crear paneles interactivos y compartibles a partir de diversas fuentes de datos."
+    },
+    "115": {
+      "title": "Testim",
+      "content": "Testim utiliza IA para acelerar las pruebas de software mediante la automatización de la creación, ejecución y mantenimiento de pruebas."
+    },
+    "116": {
+      "title": "Textfx",
+      "content": "Textfx es una herramienta de IA de Google diseñada para experimentar con el lenguaje, ofreciendo transformaciones y generación de texto creativo."
+    },
+    "117": {
+      "title": "Tome",
+      "content": "Tome es una herramienta de narración por IA que ayuda a crear presentaciones y documentos visualmente atractivos de forma rápida."
+    },
+    "118": {
+      "title": "UI Path",
+      "content": "UiPath es una plataforma líder de automatización robótica de procesos (RPA) que utiliza IA para automatizar tareas comerciales repetitivas."
+    },
+    "119": {
+      "title": "You.com",
+      "content": "You.com es un motor de búsqueda impulsado por IA que responde consultas directamente, integra chat y proporciona resultados resumidos."
+    },
+    "120": {
+      "title": "Zapier Agents",
+      "content": "Zapier Agents te permite crear bots de automatización impulsados por IA que interactúan perfectamente con aplicaciones, APIs y flujos de trabajo."
+    }
+  }
+}

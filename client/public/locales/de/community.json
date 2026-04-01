@@ -1,0 +1,50 @@
+{
+  "section1": {
+    "title": "Entdecken Sie mit uns die Zukunft der KI",
+    "subtitle": "Und werden Sie Teil eines florierenden Ökosystems",
+    "description": "wo KI-Lernen auf grenzenlose Web3-",
+    "description2": "Möglichkeiten trifft.",
+    "labels": {
+      "affiliate": "AFFILIATE",
+      "internship": "PRAKTIKUM",
+      "investment": "INVESTITION",
+      "career": "KARRIERE"
+    }
+  },
+  "section2": {
+    "title": "Investieren Sie in die Zukunft, indem Sie KI lernen",
+    "description": "Bei Skilleareum beginnt die Investition mit dem Lernen. Um Zugang zu zukünftigen SKLRM-Token-Belohnungen zu erhalten, müssen Sie sich zuerst auf unsere KI-Lernreise einlassen. Durch die Teilnahme an KI-gestützten Herausforderungen, das Abschließen von Quests und die Validierung über unsere Plattform verdienen Sie Skill Points und schalten Investitionsmöglichkeiten in SKLRM-Token frei — so positionieren Sie sich für den zukünftigen Erfolg in der sich entwickelnden Web3-Wirtschaft.",
+    "investNow": "Jetzt investieren"
+  },
+  "section3": {
+    "title": "Wachstum fördern",
+    "subtitle": "Durch Partnerschaften"
+  },
+  "section4": {
+    "title": "Werden Sie Teil der Vision: Kontakt für zukünftige Praktika",
+    "q1": "Möchten Sie Ihre Karriere in KI, Web3 und Blockchain-Innovation starten?",
+    "p1": "Obwohl unser Praktikumsprogramm derzeit nicht offen ist, freuen wir uns immer darauf, mit leidenschaftlichen Lernenden und zukünftigen Führungskräften in Kontakt zu treten, die Teil des Skilleareum-Ökosystems werden möchten.",
+    "p2": "Kontaktieren Sie uns, um über zukünftige Öffnungen, Kooperationen und Möglichkeiten zur Mitwirkung an der Skilleareum-Reise informiert zu bleiben. Gemeinsam bauen wir die Zukunft des spielerischen KI-Lernens.",
+    "stayConnected": "In Kontakt bleiben"
+  },
+  "section5": {
+    "title": "Verdienen Sie mit uns! Treten Sie unserem Partnerprogramm bei",
+    "description": "Wir bei Skilleareum glauben, dass Wachstum belohnt werden sollte — nicht nur für uns, sondern für jeden Partner, der uns hilft, die Zukunft der KI-gestützten Bildung aufzubauen.",
+    "features": {
+      "highGrowth": "Wachstumsstarker Markt",
+      "unlimited": "Unbegrenztes Verdienstpotenzial",
+      "impact": "Wirkungsorientiertes passives Einkommen",
+      "milestone": "Meilenstein-Boni",
+      "referral": "Direkter Empfehlungsbonus",
+      "subscription": "Abonnementbasierte Einnahmen"
+    },
+    "becomeAffiliate": "Partner werden"
+  },
+  "section6": {
+    "title": "Aktuelle Stellenangebote",
+    "applyBefore": "Bewerben bis",
+    "jobTitle": "Leitender Produktdesigner",
+    "jobDesc": "Werden Sie Teil unseres Teams als E-Mail-Marketing-Spezialist und leiten Sie unsere digitalen Outreach-Bemühungen.",
+    "loading": "Möglichkeiten werden geladen... Bleiben Sie dran!"
+  }
+}

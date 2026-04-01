@@ -1,0 +1,91 @@
+{
+  "section1": {
+    "vision": {
+      "title": "NUESTRA VISIÓN",
+      "desc1": "Crear un mundo donde la ",
+      "highlight1": "educación en IA",
+      "desc2": " sea accesible para todos, combinando el aprendizaje gamificado con recompensas reales para que la mejora de las habilidades sea fácil y emocionante. ",
+      "highlight2": "Skilleareum ",
+      "desc3": "está construyendo un ecosistema global sostenible donde cualquiera puede aprender IA fácilmente, ganar tokens criptográficos y crecer juntos a través del poder de Web3 y la innovación impulsada por blockchain."
+    },
+    "mission": {
+      "title": "NUESTRA MISIÓN",
+      "desc": "Nuestra misión es empoderar a más de 1 millón de estudiantes en todo el mundo haciendo que la educación en IA sea simple, accesible y gratificante a través de experiencias de aprendizaje gamificadas e incentivos potenciados por blockchain.",
+      "explore": "Explorar"
+    },
+    "ecosystem": "ECOSISTEMA ZK-POL",
+    "incubating": {
+      "title": "Características de próximo nivel en incubación",
+      "explore": "Explorar"
+    }
+  },
+  "section2": {
+    "title": "Fundadores y Equipo",
+    "subtitle": "Nuestra innovación habla por nosotros",
+    "roles": {
+      "ceo": "CEO y Cofundador",
+      "mentor": "Mentor Principal",
+      "cmo": "CMO y Cofundador",
+      "cto": "CTO",
+      "leadDev": "Desarrollador Principal",
+      "smartContract": "Desarrollador de Smart Contracts",
+      "uiux": "Líder de UI / UX"
+    }
+  },
+  "section3": {
+    "title": "Nuestra Hoja de Ruta",
+    "subtitle": "Vea los hitos que nos trajeron aquí y eche un vistazo a lo que viene a continuación.",
+    "request": "¿Tiene alguna solicitud de función? ¡Únase a nuestro Telegram y cuéntenos más!",
+    "milestones": {
+      "m1": "Hito 1",
+      "m2": "Hito 2",
+      "m3": "Hito 3",
+      "m4": "Hito 4",
+      "premium": "Versión Premium"
+    },
+    "details": {
+      "v011": "Idea para alcanzar una valoración de 1 millón",
+      "v022": "Versión MVP Alpha, agosto de 24",
+      "v033": "Versión MVP Beta, septiembre de 24",
+      "v034": "Versión Premium, diciembre de 24",
+      "comingSoon": "Próximamente",
+      "nft": "Introducción de IA NFT, Q1 25",
+      "tge": "Evento de Generación de Tokens, Q1 25"
+    }
+  },
+  "section4": {
+    "title": "Hitos Notables",
+    "descriptionLabel": "Descripción",
+    "m1": {
+      "title": "La primera ola de primeros usuarios y estudiantes premium",
+      "desc": "Se incorporaron con éxito más de 2.000 miembros activos de la comunidad, con 30 estudiantes de pago que se unieron a nuestro exclusivo Plan AI Genesis. Esto marca el comienzo de nuestra misión de ofrecer educación en IA accesible y gamificada y recompensas criptográficas reales a través de un próspero ecosistema Web3."
+    },
+    "m2": {
+      "title": "Lanzamiento oficial - El aprendizaje gamificado se pone en marcha",
+      "desc": "Activación de la plataforma completa de Skilleareum, introduciendo módulos de IA interactivos que transforman el aprendizaje tradicional en una experiencia impulsada por recompensas, preparando el escenario para una mejora de habilidades sin problemas potenciada por Web3."
+    },
+    "m3": {
+      "title": "Reconocimiento de la industria: pioneros en la educación en IA Web3",
+      "desc": "Skilleareum se estableció como un líder reconocido en el aprendizaje de IA gamificado, ofreciendo una mezcla única de educación, innovación en blockchain y oportunidades de ganancias en tiempo real para una base de usuarios global."
+    },
+    "m4": {
+      "title": "Expansión a través de asociaciones poderosas",
+      "desc": "Se consiguieron colaboraciones con 4 comunidades prósperas, ampliando nuestro impacto para llegar a nuevas audiencias de estudiantes e innovadores de IA, fomentando nuevos canales para que los estudiantes se conecten, colaboren y crezcan dentro del ecosistema de Skilleareum."
+    }
+  },
+  "section5": {
+    "title": "Tokenomics",
+    "totalTokenSupply": "Suministro total de tokens",
+    "oneBillion": "1 mil millones",
+    "distribution": {
+      "sms": "Sistema de Minería Inteligente",
+      "team": "Equipo, Junta e Inversores",
+      "marketing": "Marketing",
+      "liquidity": "Listado y Liquidez",
+      "ecosystem": "Ecosistema y Tesorería",
+      "rewards": "Recompensas y Airdrops",
+      "reserve": "Reserva",
+      "staking": "Staking"
+    }
+  }
+}

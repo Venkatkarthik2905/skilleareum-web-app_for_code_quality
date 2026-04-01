@@ -1,0 +1,22 @@
+{
+  "ui": {
+    "welcome_to": "स्वागत है",
+    "fact_vault_title": "AI फैक्ट वॉल्ट",
+    "get_started": "शुरू करें",
+    "yesterday": "कल",
+    "summary": "सारांश",
+    "facts_for_day": "दिन के AI फैक्ट्स।",
+    "claim_reward": "पुरस्कार का दावा करें",
+    "task_completed": "कार्य पूरा हुआ👏",
+    "explore_facts": "इसके तथ्यों को एक्सप्लोर करें",
+    "learn_earn": "अधिक सीखें और अधिक कमाएं",
+    "keep_learning": "सीखना और कमाना जारी रखें",
+    "joyride": "AI इतिहास, मजेदार फैक्ट्स, भविष्य और समसामयिक विषयों के बारे में जानें और हर दिन 250 स्किल पॉइंट्स का दावा करें! 📈"
+  },
+  "categories": {
+    "history": "AI इतिहास",
+    "fun_fact": "AI मजेदार फैक्ट",
+    "future": "AI भविष्य",
+    "current_affairs": "AI वर्तमान मामले"
+  }
+}

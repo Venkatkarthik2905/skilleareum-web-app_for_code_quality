@@ -1,0 +1,47 @@
+{
+  "rules": {
+    "title": "How the Investigation Works",
+    "rule1": {
+      "title": "Mandatory Reading",
+      "points": [
+        "Each story must be fully read",
+        "Scrolling or minimum reading time is enforced"
+      ]
+    },
+    "rule2": {
+      "title": "Reflection Question",
+      "points": [
+        "One question per story: “Why did this AI fail?"
+      ]
+    },
+    "lets_begin": "Let's Begin"
+  },
+  "game": {
+    "title": "AI Failure Files",
+    "failure_info": "Failure File {{current}} of {{total}}",
+    "question_header": "Case Analysis {{number}}",
+    "submit_answer": "Submit Answer",
+    "correct_analysis": "Correct Analysis",
+    "incorrect": "Incorrect",
+    "correct_answer": "Correct Answer: ",
+    "next_case": "NEXT CASE >>",
+    "view_results": "VIEW RESULTS >>",
+    "loading": "Loading failure cases...",
+    "no_cases": "No failure cases available.",
+    "claimed_redirect": "You are claimed Reward Redirecting...",
+    "submitting": "Submitting your answers...",
+    "submitted": "Submitted successfully!",
+    "submission_failed": "Submission failed",
+    "network_error": "Network error during submission",
+    "loading_error": "Failed to load case studies. Please try again."
+  },
+  "results": {
+    "title": "Investigation Complete",
+    "cases_count": "{{score}}/{{total}} Cases",
+    "all_analyzed": "You've analyzed all AI failure cases",
+    "strong_effort": "Strong effort! One more case to go.",
+    "good_start": "Good start! Continue exploring to strengthen your understanding.",
+    "get_started": "Get started by exploring your first AI failure case.",
+    "continue": "Continue Learning"
+  }
+}

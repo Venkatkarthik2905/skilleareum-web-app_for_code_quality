@@ -1,0 +1,94 @@
+{
+  "intro": {
+    "title": "Evaluación de aprendizaje de IA personalizada",
+    "description": "Prepárate para descubrir tu estilo de aprendizaje, tu enfoque de pensamiento y tus conocimientos de IA, todo en un flujo sencillo y guiado.",
+    "start_button": "Iniciar evaluación",
+    "types": {
+      "vark": {
+        "title": "VARK",
+        "description": "Descubre la mejor manera de aprender: visualmente, escuchando, leyendo o de forma práctica. Esto nos ayuda a ofrecerte formatos de contenido de aprendizaje que realmente funcionen para ti."
+      },
+      "cps": {
+        "title": "CSP",
+        "description": "Comprende tu proceso cognitivo: cómo analizas, resuelves e interpretas. Esto define cómo te guiamos a través de las actividades."
+      },
+      "ai_knowledge": {
+        "title": "Conocimiento de IA",
+        "description": "Comprobamos lo que ya sabes, para que empieces en el nivel adecuado. Sin presión: solo preguntas rápidas para personalizar tu experiencia."
+      }
+    },
+    "how_it_works": {
+      "title": "Cómo funciona",
+      "step1": "Responde preguntas cortas basadas en escenarios, cada una centrada en un aspecto único de cómo aprendes y piensas.",
+      "step2": "Completa todo en un flujo continuo. No hay respuestas correctas o incorrectas: cada respuesta define tu camino personalizado.",
+      "step3": "Tus resultados instantáneos desbloquean un viaje de aprendizaje de IA a medida creado solo para ti."
+    },
+    "why_matters": {
+      "title": "Por qué es importante",
+      "description": "Se ha demostrado que el aprendizaje personalizado aumenta la retención y la motivación."
+    },
+    "better_engagement": {
+      "title": "Mejor compromiso",
+      "description": "Obtienes contenido que se adapta a tus necesidades, manteniéndote interesado, no abrumado."
+    },
+    "faster_progress": {
+      "title": "Progreso más rápido",
+      "description": "Sin pasos en falso. Sin repetir lo que ya sabes."
+    },
+    "ready_to_start": "¿Listo para empezar?",
+    "ready_subtitle": "Realiza la evaluación y mira tus recomendaciones personalizadas al instante.",
+    "vark_completed": "VARK completado",
+    "cps_completed": "CSP completado"
+  },
+  "common": {
+    "question_progress": "Pregunta {{current}} de {{total}}",
+    "next": "Siguiente",
+    "previous": "Anterior",
+    "complete": "Completar",
+    "loading": "Cargando evaluación...",
+    "error_loading": "Error al cargar la evaluación",
+    "submission_failed": "Error en el envío",
+    "no_questions": "No hay preguntas disponibles",
+    "submission_success": "¡Evaluación enviada con éxito!"
+  },
+  "journey_start": {
+    "title": "Personaliza tu viaje de aprendizaje",
+    "cps_title": "¿Cómo piensas y resuelves problemas?",
+    "ai_title": "Control de conocimientos de IA",
+    "subtitle1": "Responde unas cuantas preguntas rápidas para que podamos adaptar el aprendizaje solo para ti.",
+    "cps_subtitle": "A continuación, veremos cómo procesas la información, cómo abordas los desafíos y cómo mantienes la motivación mientras aprendes.",
+    "ai_subtitle": "Esta breve evaluación nos ayuda a comprender tu familiaridad actual con la IA. Tus respuestas se usarán solo para adaptar el nivel de aprendizaje y los ejemplos para ti.",
+    "choose_most_like_you": "Solo elige lo que sientas que se parece más a ti.",
+    "ai_points": {
+      "point1": "Evalúa tu estilo de aprendizaje, no tus conocimientos",
+      "point2": "Respuestas de opción múltiple",
+      "point3": "Responde basándote en tu comprensión actual",
+      "point4": "Preguntas sencillas basadas en escenarios"
+    },
+    "start_problem_scenarios": "Iniciar escenarios de problemas",
+    "footer_note": "Tus respuestas nos ayudan a personalizar tu experiencia.",
+    "subtitle2": "Realiza esta evaluación para descubrir tu estilo de aprendizaje de IA"
+  },
+  "ui": {
+    "answer_is": "La respuesta es",
+    "attempted_questions": "Preguntas intentadas",
+    "continue": "Continuar",
+    "correct_answers": "Respuestas correctas",
+    "day": "Día",
+    "double_tap": "Toca dos veces para girar",
+    "false": "Falso",
+    "gain_points": "Gana puntos de habilidad por tus conocimientos de IA",
+    "go_to_dashboard": "Ir al panel",
+    "loading": "Cargando...",
+    "next": "Siguiente",
+    "no": "No",
+    "overall_result": "Resultado general",
+    "question_label": "Pregunta",
+    "skill_points": "Puntos de habilidad",
+    "start_assessment": "Iniciar evaluación",
+    "submit": "Enviar",
+    "title": "Búsqueda de Habilidades IA",
+    "true": "Verdadero",
+    "yes": "Sí"
+  }
+}

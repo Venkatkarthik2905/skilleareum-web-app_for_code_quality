@@ -1,0 +1,41 @@
+{
+  "title": "Wie Skilleareum funktioniert",
+  "subtitle": "Schritt-für-Schritt-Produkttour",
+  "intro": "Dieser kurze Leitfaden erklärt, wie SkillEareum Ihren Lernstil bewertet und einen personalisierten Lernplan erstellt, der genau auf Sie zugeschnitten ist.",
+  "steps": {
+    "1": {
+      "title": "Anmelden",
+      "description": "Greifen Sie sicher auf Ihr Konto zu, um mit dem Onboarding-Prozess zu beginnen. Ihre Reise zum personalisierten KI-Lernen beginnt hier."
+    },
+    "2": {
+      "title": "VARK-Lernbewertung",
+      "description": "Identifizieren Sie Ihren bevorzugten Lernstil (Visuell, Auditiv, Lesen/Schreiben oder Kinästhetisch), um die Inhaltsbereitstellung an Ihre einzigartige Art der Informationsaufnahme anzupassen."
+    },
+    "3": {
+      "title": "Cognitive Style Profiling (CSP)",
+      "description": "Analysieren Sie, wie Sie Informationen verarbeiten, Strukturen folgen und während des Lernens logische Schlussfolgerungen ziehen, um ein optimales Erlebnis zu schaffen."
+    },
+    "4": {
+      "title": "KI-Wissensbewertung",
+      "description": "Bewerten Sie Ihr aktuelles Verständnis von KI-Konzepten, um Sie auf der entsprechenden Einstiegsstufe einzustufen und sicherzustellen, dass die Inhalte weder zu einfach noch zu fortgeschritten sind."
+    },
+    "5": {
+      "title": "37-Tage-Lern-Roadmap",
+      "description": "Basierend auf Ihren Bewertungsergebnissen wird eine personalisierte Lehrplan-Roadmap erstellt, die Sie von Ihrem aktuellen Niveau zur KI-Kompetenz führt.",
+      "items": {
+        "pilot": "7 Tage Pilotprogramm",
+        "genesis": "30 Tage - AI Genesis"
+      }
+    },
+    "6": {
+      "title": "Interaktive Lernaktivitäten",
+      "description": "Vertiefen Sie das Gelernte mit kurzen, interaktiven Formaten, die auf Engagement und Behalten ausgelegt sind. Machen Sie das Lernen unterhaltsam und effektiv."
+    }
+  },
+  "stepPrefix": "Schritt",
+  "footer": {
+    "title": "Starten Sie Ihre Reise",
+    "description": "Beginnen Sie noch heute Ihr personalisiertes Lernerlebnis und entfalten Sie Ihr volles Potenzial in der künstlichen Intelligenz.",
+    "button": "Meine Bewertung beginnen →"
+  }
+}

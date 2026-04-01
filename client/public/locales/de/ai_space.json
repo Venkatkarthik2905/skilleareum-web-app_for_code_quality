@@ -1,0 +1,232 @@
+{
+  "categories": {
+    "all": "Alle",
+    "text_gen": "Texterstellung und Zusammenfassung",
+    "image_gen": "Bilderstellung und -bearbeitung",
+    "audio_editing": "Audiobearbeitung",
+    "ai_art": "KI-Kunst und Grafiken",
+    "ai_chatbots": "KI-Chatbots",
+    "ai_writing": "KI-Schreibassistenten",
+    "voice_to_text": "Sprache-zu-Text",
+    "video_editing": "Videobearbeitung und -erstellung"
+  },
+  "ui": {
+    "task_completed": "Aufgabe erledigt 👏.",
+    "mission_joyride": "Entdecken & nutzen Sie über 49 KI-Tools und verdienen Sie täglich 50 Skill Points bei jeder Nutzung und Übung",
+    "todays_mission": "HEUTIGE MISSION",
+    "about_app": "Über die App:",
+    "conditions_title": "Bedingungen für Skill Points:",
+    "conditions": [
+      "1. Benutzer müssen alle 4 Stunden mit einem neuen KI-Tool interagieren, um 50 Punkte zu verdienen.",
+      "2. Nur die erste Interaktion innerhalb jedes 4-Stunden-Fensters wird für Punkte gezählt.",
+      "3. Wiederholte Nutzung desselben Tools ist erlaubt, aber nur die erste Nutzung innerhalb des Fensters bringt Punkte.",
+      "4. Benutzer können maximal 300 Punkte pro Tag mit einem einzigen KI-Tool verdienen.",
+      "5. Um weiterhin Punkte zu verdienen, müssen Benutzer alle 4 Stunden zu einem anderen KI-Tool wechseln."
+    ],
+    "launch_app": "App starten",
+    "welcome_to": "Willkommen bei",
+    "ai_space_title": "KI Bereich",
+    "tool_label": "Werkzeug",
+    "category_label": "Kategorie",
+    "lets_begin": "LASS UNS BEGINNEN",
+    "earn_points_msg": "Verdienen Sie 50 Skill Points für die einmalige Nutzung des Tools.",
+    "compare_text_msg": "Vergleichen Sie den Originaltext und den paraphrasierten Text.",
+    "claimed": "BEANSPRUCHT",
+    "claim": "BEANSPRUCHEN",
+    "get_started": "ERSTE SCHRITTE"
+  },
+  "tools": {
+    "73": {
+      "title": "Edit Pad",
+      "content": "Edit Pad ist ein einfacher Online-Texteditor für schnelles Schreiben und Bearbeiten, der eine zugängliche Plattform für Notizen, Brainstorming und Entwürfe bietet, ohne dass eine Softwareinstallation erforderlich ist."
+    },
+    "74": {
+      "title": "Excel",
+      "content": "Microsoft Excel ist ein vielseitiges Tabellenkalkulationsprogramm, das Datenanalyse, Visualisierung und Automatisierung ermöglicht und weithin für persönliche und berufliche Produktivitätsaufgaben eingesetzt wird."
+    },
+    "75": {
+      "title": "AppliTools",
+      "content": "AppliTools ist eine visuelle KI-Test- und Überwachungsplattform, die UI-Tests automatisiert und pixelgenaue Benutzeroberflächen auf verschiedenen Geräten und Browsern sicherstellt."
+    },
+    "76": {
+      "title": "ElevenLabs",
+      "content": "ElevenLabs ist eine führende KI-gestützte Sprachsyntheseplattform, die lebensechte, anpassbare Sprache für Hörbücher, Spiele und andere kreative Projekte liefert."
+    },
+    "77": {
+      "title": "Functionze",
+      "content": "Functionze ist eine KI-gestützte Testlösung, die funktionale, visuelle und Leistungstests für Web- und mobile Anwendungen automatisiert."
+    },
+    "78": {
+      "title": "Grammarly",
+      "content": "Grammarly ist ein weit verbreiteter KI-Schreibassistent, der hilft, Grammatik, Rechtschreibung, Tonfall und Klarheit in Echtzeit zu verbessern, sowohl für Gelegenheits- als auch für professionelle Autoren."
+    },
+    "79": {
+      "title": "Kapwing",
+      "content": "Kapwing ist eine Online-Video- und Bildbearbeitungsplattform, die KI-gestützte Tools zum einfachen Erstellen, Ändern der Größe und Verbessern von Multimedia-Inhalten bietet."
+    },
+    "80": {
+      "title": "OpusClip",
+      "content": "OpusClip nutzt KI, um lange Videos in kurze, ansprechende Clips zu verwandeln, die für Social-Media-Plattformen optimiert sind und so Reichweite und Engagement steigern."
+    },
+    "81": {
+      "title": "Photopea",
+      "content": "Photopea ist ein kostenloser Online-Bildeditor mit erweiterten Funktionen ähnlich wie Photoshop, der PSD, AI und andere beliebte Bildformate unterstützt."
+    },
+    "82": {
+      "title": "Recraft",
+      "content": "Recraft ist ein KI-gestütztes Designtool zur Erstellung hochwertiger Illustrationen, Symbole und Grafiken, die auf Ihre kreativen Bedürfnisse zugeschnitten sind."
+    },
+    "83": {
+      "title": "Alphasense",
+      "content": "Alphasense ist eine KI-gesteuerte Market-Intelligence-Plattform, die Unternehmen hilft, Daten zu analysieren, Erkenntnisse zu gewinnen und fundierte Entscheidungen zu treffen."
+    },
+    "84": {
+      "title": "BeepBox",
+      "content": "BeepBox ist ein einfach zu bedienendes Online-Musik-Erstellungstool, mit dem Benutzer Chiptune-Melodien direkt in ihrem Browser komponieren und teilen können."
+    },
+    "85": {
+      "title": "ChatGPT",
+      "content": "ChatGPT ist ein fortschrittlicher KI-Chatbot von OpenAI, der Fragen beantworten, Inhalte erstellen und Aufgaben mithilfe eines natürlichen Sprachverständnisses unterstützen kann."
+    },
+    "86": {
+      "title": "Claude",
+      "content": "Claude ist ein KI-Assistent von Anthropic, der für durchdachte Konversationen, kreatives Schreiben und Problemlösungen konzipiert wurde, wobei der Schwerpunkt auf Sicherheit und Zuverlässigkeit liegt."
+    },
+    "87": {
+      "title": "Compass",
+      "content": "Compass ist ein Atlassian-Tool, das Einblicke, Dokumentation und Teamkoordination für Softwareprojekte bietet und so Produktivität und Zusammenarbeit verbessert."
+    },
+    "88": {
+      "title": "Dall-E 3",
+      "content": "DALL·E 3 ist das fortschrittliche Bilderzeugungsmodell von OpenAI, das in der Lage ist, detaillierte, hochwertige Grafiken aus Eingaben in natürlicher Sprache zu erstellen."
+    },
+    "89": {
+      "title": "DeepSeek",
+      "content": "DeepSeek ist eine KI-gestützte Such- und Forschungsplattform, die große Datensätze analysiert, um präzise und umsetzbare Erkenntnisse zu gewinnen."
+    },
+    "90": {
+      "title": "Descript",
+      "content": "Descript ist eine All-in-One-Audio- und Videobearbeitungsplattform mit KI-Tools für Transkription, Overdubbing und einfache Drag-and-Drop-Bearbeitung."
+    },
+    "91": {
+      "title": "Firefly",
+      "content": "Adobe Firefly ist ein generatives KI-Tool, das beeindruckende Bilder, Texteffekte und Designs für Kreativprofis erstellt."
+    },
+    "92": {
+      "title": "FlexClip",
+      "content": "FlexClip ist ein Online-Videoersteller und -editor mit KI-gestützten Vorlagen, Animationen und Effekten für die mühelose Erstellung professioneller Videos."
+    },
+    "93": {
+      "title": "Frase IO",
+      "content": "Frase IO ist eine KI-Schreib- und SEO-Optimierungsplattform, die hilft, Inhalte zu erstellen, zu recherchieren und für bessere Suchrankings zu optimieren."
+    },
+    "94": {
+      "title": "Gemini",
+      "content": "Gemini ist das multimodale KI-Modell von Google DeepMind, das für Text-, Bild- und Code-Aufgaben mit hoher Genauigkeit und Effizienz entwickelt wurde."
+    },
+    "95": {
+      "title": "GitHub Copilot",
+      "content": "GitHub Copilot ist ein KI-Coding-Assistent von OpenAI, der Code-Vorschläge in Echtzeit liefert und die Softwareentwicklung beschleunigt."
+    },
+    "96": {
+      "title": "Gretel",
+      "content": "Gretel bietet KI-gestützte Tools zur Erzeugung synthetischer Daten und zur Anonymisierung für die Erstellung datenschutzkonformer Datensätze."
+    },
+    "97": {
+      "title": "Grok",
+      "content": "Grok ist ein von xAI entwickelter KI-Chatbot für humorvolle, einsichtsvolle und kontextbewusste Interaktionen auf X (ehemals Twitter)."
+    },
+    "98": {
+      "title": "Gumloop",
+      "content": "Gumloop ist ein No-Code-KI-Workflow-Automatisierungstool, das verschiedene Apps und KI-Modelle verbindet, um Aufgaben-Apps zu optimieren."
+    },
+    "99": {
+      "title": "IBM Watson",
+      "content": "IBM Watson ist eine Suite von unternehmensfertigen KI-Diensten, Anwendungen und Tools für den Aufbau intelligenter Workflows und Lösungen."
+    },
+    "100": {
+      "title": "Jasper",
+      "content": "Jasper ist ein KI-Schreibassistent, der ansprechende Werbetexte, Blogs und Social-Media-Inhalte erstellt, die auf Ihre Markenstimme zugeschnitten sind."
+    },
+    "101": {
+      "title": "Midjourney",
+      "content": "Midjourney ist ein KI-Bilderzeugungstool, das Texteingaben in hochgradig künstlerische und detaillierte Grafiken verwandelt."
+    },
+    "102": {
+      "title": "N8n",
+      "content": "N8n ist ein Open-Source-Workflow-Automatisierungstool, das APIs und Dienste integriert und komplexe Workflows mit minimaler Kodierung ermöglicht."
+    },
+    "103": {
+      "title": "Notion AI",
+      "content": "Notion AI erweitert den Notion-Arbeitsbereich mit KI-Funktionen zum Schreiben, Zusammenfassen, Brainstormen und effizienten Verwalten von Informationen."
+    },
+    "104": {
+      "title": "Path AI",
+      "content": "Path AI entwickelt KI-gestützte Pathologie-Tools, um Ärzte bei der Diagnose von Krankheiten genauer und effizienter zu unterstützen."
+    },
+    "105": {
+      "title": "Perplexity AI",
+      "content": "Perplexity AI ist eine konversationsbasierte Suchmaschine, die KI nutzt, um direkte, zitierte und kontextbezogene Antworten auf Fragen zu geben."
+    },
+    "106": {
+      "title": "Pinetools",
+      "content": "Pinetools bietet eine Vielzahl einfacher Online-Tools zur Bearbeitung von Bildern, Texten und Zahlen direkt im Browser."
+    },
+    "107": {
+      "title": "Pixlr",
+      "content": "Pixlr ist ein kostenloser Online-Bildeditor mit KI-gestützten Tools für schnelle und professionelle Bildbearbeitung."
+    },
+    "108": {
+      "title": "Resoomer",
+      "content": "Resoomer ist ein KI-Zusammenfassungstool, das lange Texte in klare, prägnante Zusammenfassungen für ein schnelleres Verständnis verdichtet."
+    },
+    "109": {
+      "title": "Runway ML",
+      "content": "Runway ML ist eine KI-Kreativ-Suite mit Tools für Videobearbeitung, Bilderzeugung und andere Multimedia-Projekte."
+    },
+    "110": {
+      "title": "Slick Write",
+      "content": "Slick Write ist eine Online-Grammatik- und Stilprüfung, die hilft, die Klarheit, Struktur und Lesbarkeit von Texten zu verbessern."
+    },
+    "111": {
+      "title": "Smodin",
+      "content": "Smodin ist eine KI-gestützte Schreibplattform mit Tools zum Paraphrasieren, Zusammenfassen und Erzeugen mehrsprachiger Inhalte."
+    },
+    "112": {
+      "title": "Stable Diffusion",
+      "content": "Stable Diffusion ist ein Open-Source-KI-Modell, das hochwertige Bilder aus Eingaben in natürlicher Sprache erzeugt."
+    },
+    "113": {
+      "title": "Synthesia",
+      "content": "Synthesia ist eine KI-Videoerstellungsplattform, die sprechende Avatare für Schulungen, Marketing und Präsentationen generiert."
+    },
+    "114": {
+      "title": "Tableau",
+      "content": "Tableau ist eine führende Datenvisualisierungsplattform, die hilft, interaktive und teilbare Dashboards aus verschiedenen Datenquellen zu erstellen."
+    },
+    "115": {
+      "title": "Testim",
+      "content": "Testim nutzt KI, um Softwaretests durch die Automatisierung von Testerstellung, -ausführung und -wartung zu beschleunigen."
+    },
+    "116": {
+      "title": "Textfx",
+      "content": "Textfx ist ein KI-Tool von Google zum Experimentieren mit Sprache, das kreative Texttransformationen und -erzeugungen bietet."
+    },
+    "117": {
+      "title": "Tome",
+      "content": "Tome ist ein KI-Storytelling-Tool, mit dem sich schnell visuell ansprechende Präsentationen und Dokumente erstellen lassen."
+    },
+    "118": {
+      "title": "UI Path",
+      "content": "UiPath ist eine führende Plattform für die robotergestützte Prozessautomatisierung (RPA), die KI einsetzt, um repetitive Geschäftsaufgaben zu automatisieren."
+    },
+    "119": {
+      "title": "You.com",
+      "content": "You.com ist eine KI-gestützte Suchmaschine, die Anfragen direkt beantwortet, Chats integriert und zusammengefasste Ergebnisse liefert."
+    },
+    "120": {
+      "title": "Zapier Agents",
+      "content": "Zapier Agents ermöglicht die Erstellung KI-gestützter Automatisierungs-Bots, die nahtlos mit Apps, APIs und Workflows interagieren."
+    }
+  }
+}

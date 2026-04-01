@@ -1,0 +1,636 @@
+.gradientborder{
+    border: 2px solid;
+    border-image-source: linear-gradient(#1DEC38BF,#0388F8BF);
+    border-image-slice: 1;
+}
+
+.countdown-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+  }
+  
+  .countdown-number {
+    opacity: 0;
+    transform: translateY(100%) scale(0.3);  
+    text-shadow: 0 0 8px #1ce7419a, 0 0 8px #1ce7419a, 0 0 8px #1ce7419a; /* Glowing effect */
+    animation: countdownUp 1s ease-out forwards;
+  }
+  
+  
+  @keyframes countdownUp {
+    0% {
+      transform: translateY(100%) scale(0.3); 
+      opacity: 0;
+    }
+  
+    100% {
+      transform: translateY(-100%) scale(1.2); 
+      opacity: 1;
+    }
+  }
+  
+  
+  .animate-countdown {
+    animation: countdownUp 1s ease-out forwards;
+  }
+  
+  .description {
+    animation:  fan--inf 10s linear infinite ;
+  }
+  
+  .description span {
+    position: absolute;
+    height: 3rem;
+    top: calc(50% - 3rem); 
+    left: calc(50% - 0.2rem); 
+    transform-origin: bottom center;
+    transform: rotateZ(calc(var(--i) * (360deg / 15))); 
+  }
+  
+  @keyframes fan {
+   
+    to{
+      transform: rotateZ(360deg);;
+    }
+  }
+  
+  @keyframes fan--inf {
+   
+    to{
+      transform: rotateZ(360deg);;
+    }
+  }
+  
+  
+  /* TESTING FOR LETTERS ANIMATION */
+  
+  @keyframes moveUp {
+      16%, 48%, 78% {
+        top: 300px;
+        animation-timing-function: ease-out;
+      }
+  }
+
+  
+  .circle {
+    position: absolute;
+    bottom: -10px;
+  }
+
+ 
+  
+  .circle:nth-child(1){
+    --transform-origin-x: 150%;
+    --translate-x-mid: 1rem;
+    --translate-x-end: 6rem;
+    animation: anim 5s 1s forwards;
+  }
+  
+  .circle:nth-child(2){
+    --transform-origin-x: 200%;
+    --translate-x-mid: 4rem;
+    --translate-x-end: 6rem;
+    animation: anim 5s 2s forwards;
+  }
+  
+  .circle:nth-child(3) {
+     --transform-origin-x: 250%;
+    --translate-x-mid: 1rem;
+    --translate-x-end: 2rem;
+    animation: anim 5s 3s forwards;
+  }
+  
+  .circle:nth-child(4) {
+     --transform-origin-x: -100%;
+    --translate-x-mid: -5rem;
+    --translate-x-end: -7rem;
+    animation: anim 5s 4s forwards;
+  }
+  
+  .circle:nth-child(5) {
+     --transform-origin-x: -250%;
+    --translate-x-mid: -3rem;
+    --translate-x-end: -5rem;
+    animation: anim 5s 5s forwards;
+  }
+  .circle:nth-child(6) {
+     --transform-origin-x: 200%;
+    --translate-x-mid: -6rem;
+    --translate-x-end: -7rem;
+    animation: anim 5s 5s forwards;
+  }
+  .circle:nth-child(7) {
+     --transform-origin-x: 200%;
+    --translate-x-mid: -3rem;
+    --translate-x-end: -6rem;
+   animation: anim 5s 5s forwards;
+  }
+  .circle:nth-child(8) {
+     --transform-origin-x: 200%;
+    --translate-x-mid: 2rem;
+    --translate-x-end: 8rem;
+   animation: anim 5s 8s forwards;
+  }
+  .circle:nth-child(9) {
+     --transform-origin-x: 150%;
+    --translate-x-mid: 1rem;
+    --translate-x-end: 6rem;
+   animation: anim 5s 9s forwards;
+  }
+  .circle:nth-child(10) {
+     --transform-origin-x: 200%;
+    --translate-x-mid: 4rem;
+    --translate-x-end: 6rem;
+   animation: anim 5s 10s forwards;
+  }
+  .circle:nth-child(11) {
+     --transform-origin-x: 250%;
+    --translate-x-mid: 1rem;
+    --translate-x-end: 2rem;
+   animation: anim 5s 11s forwards;
+  }
+  .circle:nth-child(12) {
+     --transform-origin-x: -150%;
+    --translate-x-mid: -5rem;
+    --translate-x-end: -7rem;
+   animation: anim 5s 12s forwards;
+  }
+  .circle:nth-child(13) {
+     --transform-origin-x: -250%;
+    --translate-x-mid: -3rem;
+    --translate-x-end: -5rem;
+   animation: anim 5s 13s forwards;
+  }
+  .circle:nth-child(14) {
+     --transform-origin-x: 200%;
+    --translate-x-mid: -6rem;
+    --translate-x-end: -7rem;
+   animation: anim 5s 14s forwards;
+  }
+  .circle:nth-child(15) {
+     --transform-origin-x: 150%;
+    --translate-x-mid: 1rem;
+    --translate-x-end: 6rem;
+   animation: anim 5s 15s forwards;
+  }
+  .circle:nth-child(16) {
+     --transform-origin-x: 200%;
+    --translate-x-mid: 4rem;
+    --translate-x-end: 6rem;
+   animation: anim 5s 16s forwards;
+  }
+  .circle:nth-child(17) {
+     --transform-origin-x: 250%;
+    --translate-x-mid: 1rem;
+    --translate-x-end: 2rem;
+   animation: anim 5s 17s forwards;
+  }
+  .circle:nth-child(18) {
+     --transform-origin-x: 100%;
+    --translate-x-mid: -5rem;
+    --translate-x-end: -7rem;
+   animation: anim 5s 18s forwards;
+  }
+  .circle:nth-child(19) {
+     --transform-origin-x: 250%;
+    --translate-x-mid: -3rem;
+    --translate-x-end: -5rem;
+   animation: anim 5s 19s forwards;
+  }
+  .circle:nth-child(20) {
+     --transform-origin-x: 200%;
+    --translate-x-mid: -6rem;
+    --translate-x-end: -7rem;
+   animation: anim 5s 20s forwards;
+  }
+  .circle:nth-child(21) {
+     --transform-origin-x: 200%;
+    --translate-x-mid: -3rem;
+    --translate-x-end: -6rem;
+   animation: anim 5s 21s forwards;
+  }
+  .circle:nth-child(22) {
+     --transform-origin-x: 200%;
+    --translate-x-mid: 2rem;
+    --translate-x-end: 8rem;
+   animation: anim 5s 22s forwards;
+  }
+  .circle:nth-child(23) {
+     --transform-origin-x: 150%;
+    --translate-x-mid: 1rem;
+    --translate-x-end: 6rem;
+   animation: anim 5s 23s forwards;
+  }
+  .circle:nth-child(24) {
+     --transform-origin-x: 200%;
+    --translate-x-mid: 4rem;
+    --translate-x-end: 6rem;
+   animation: anim 5s 24s forwards;
+  }
+  .circle:nth-child(25) {
+     --transform-origin-x: 250%;
+    --translate-x-mid: 1rem;
+    --translate-x-end: 2rem;
+   animation: anim 5s 25s forwards;
+  }
+  .circle:nth-child(26) {
+    --transform-origin-x: -150%;
+    --translate-x-mid: -5rem;
+    --translate-x-end: -7rem;
+   animation: anim 5s 26s forwards;
+  }
+
+
+  .circle:nth-child(27){
+    --transform-origin-x: 150%;
+    --translate-x-mid: 1rem;
+    --translate-x-end: 6rem;
+    animation: anim 5s 27s forwards;
+  }
+  
+  .circle:nth-child(28){
+    --transform-origin-x: 200%;
+    --translate-x-mid: 4rem;
+    --translate-x-end: 6rem;
+    animation: anim 5s 28s forwards;
+  }
+  
+  .circle:nth-child(29) {
+     --transform-origin-x: 250%;
+    --translate-x-mid: 1rem;
+    --translate-x-end: 2rem;
+    animation: anim 5s 29s forwards;
+  }
+  
+  .circle:nth-child(30) {
+     --transform-origin-x: -100%;
+    --translate-x-mid: -5rem;
+    --translate-x-end: -7rem;
+    animation: anim 5s 30s forwards;
+  }
+  
+  .circle:nth-child(31) {
+     --transform-origin-x: -250%;
+    --translate-x-mid: -3rem;
+    --translate-x-end: -5rem;
+    animation: anim 5s 31s forwards;
+  }
+  .circle:nth-child(32) {
+     --transform-origin-x: 200%;
+    --translate-x-mid: -6rem;
+    --translate-x-end: -7rem;
+    animation: anim 5s 32s forwards;
+  }
+  .circle:nth-child(33) {
+     --transform-origin-x: 200%;
+    --translate-x-mid: -3rem;
+    --translate-x-end: -6rem;
+   animation: anim 5s 33s forwards;
+  }
+  .circle:nth-child(34) {
+     --transform-origin-x: 200%;
+    --translate-x-mid: 2rem;
+    --translate-x-end: 8rem;
+   animation: anim 5s 34s forwards;
+  }
+  .circle:nth-child(35) {
+     --transform-origin-x: 150%;
+    --translate-x-mid: 1rem;
+    --translate-x-end: 6rem;
+   animation: anim 5s 35s forwards;
+  }
+  .circle:nth-child(36) {
+     --transform-origin-x: 200%;
+    --translate-x-mid: 4rem;
+    --translate-x-end: 6rem;
+   animation: anim 5s 36s forwards;
+  }
+  .circle:nth-child(37) {
+     --transform-origin-x: 250%;
+    --translate-x-mid: 1rem;
+    --translate-x-end: 2rem;
+   animation: anim 5s 37s forwards;
+  }
+  .circle:nth-child(38) {
+     --transform-origin-x: -150%;
+    --translate-x-mid: -5rem;
+    --translate-x-end: -7rem;
+   animation: anim 5s 38s forwards;
+  }
+  .circle:nth-child(39) {
+     --transform-origin-x: -250%;
+    --translate-x-mid: -3rem;
+    --translate-x-end: -5rem;
+   animation: anim 5s 39s forwards;
+  }
+  .circle:nth-child(40) {
+     --transform-origin-x: 200%;
+    --translate-x-mid: -6rem;
+    --translate-x-end: -7rem;
+   animation: anim 5s 40s forwards;
+  }
+  .circle:nth-child(41) {
+     --transform-origin-x: 150%;
+    --translate-x-mid: 1rem;
+    --translate-x-end: 6rem;
+   animation: anim 5s 41s forwards;
+  }
+  .circle:nth-child(42) {
+     --transform-origin-x: 200%;
+    --translate-x-mid: 4rem;
+    --translate-x-end: 6rem;
+   animation: anim 5s 42s forwards;
+  }
+  .circle:nth-child(43) {
+     --transform-origin-x: 250%;
+    --translate-x-mid: 1rem;
+    --translate-x-end: 2rem;
+   animation: anim 5s 43s forwards;
+  }
+  .circle:nth-child(44) {
+     --transform-origin-x: 100%;
+    --translate-x-mid: -5rem;
+    --translate-x-end: -7rem;
+   animation: anim 5s 44s forwards;
+  }
+  .circle:nth-child(45) {
+     --transform-origin-x: 250%;
+    --translate-x-mid: -3rem;
+    --translate-x-end: -5rem;
+   animation: anim 5s 45s forwards;
+  }
+  .circle:nth-child(46) {
+     --transform-origin-x: 200%;
+    --translate-x-mid: -6rem;
+    --translate-x-end: -7rem;
+   animation: anim 5s 46s forwards;
+  }
+  .circle:nth-child(47) {
+     --transform-origin-x: 200%;
+    --translate-x-mid: -3rem;
+    --translate-x-end: -6rem;
+   animation: anim 5s 47s forwards;
+  }
+  .circle:nth-child(48) {
+     --transform-origin-x: 200%;
+    --translate-x-mid: 2rem;
+    --translate-x-end: 8rem;
+   animation: anim 5s 48s forwards;
+  }
+  .circle:nth-child(49) {
+     --transform-origin-x: 150%;
+    --translate-x-mid: 1rem;
+    --translate-x-end: 6rem;
+   animation: anim 5s 49s forwards;
+  }
+  .circle:nth-child(50) {
+     --transform-origin-x: 200%;
+    --translate-x-mid: 4rem;
+    --translate-x-end: 6rem;
+   animation: anim 5s 50s forwards;
+  }
+  .circle:nth-child(51) {
+     --transform-origin-x: 250%;
+    --translate-x-mid: 1rem;
+    --translate-x-end: 2rem;
+   animation: anim 5s 51s forwards;
+  }
+  .circle:nth-child(52) {
+    --transform-origin-x: -150%;
+    --translate-x-mid: -5rem;
+    --translate-x-end: -7rem;
+   animation: anim 5s 52s forwards;
+  }
+  .circle:nth-child(53) {
+    --transform-origin-x: 200%;
+   --translate-x-mid: -6rem;
+   --translate-x-end: -7rem;
+  animation: anim 5s 53s forwards;
+ }
+ .circle:nth-child(54) {
+    --transform-origin-x: 150%;
+   --translate-x-mid: 1rem;
+   --translate-x-end: 6rem;
+  animation: anim 5s 54s forwards;
+ }
+ .circle:nth-child(55) {
+    --transform-origin-x: 200%;
+   --translate-x-mid: 4rem;
+   --translate-x-end: 6rem;
+  animation: anim 5s 55s forwards;
+ }
+ .circle:nth-child(56) {
+    --transform-origin-x: 250%;
+   --translate-x-mid: 1rem;
+   --translate-x-end: 2rem;
+  animation: anim 5s 56s forwards;
+ }
+ .circle:nth-child(57) {
+    --transform-origin-x: 100%;
+   --translate-x-mid: -5rem;
+   --translate-x-end: -7rem;
+  animation: anim 5s 57s forwards;
+ }
+ .circle:nth-child(58) {
+    --transform-origin-x: 250%;
+   --translate-x-mid: -3rem;
+   --translate-x-end: -5rem;
+  animation: anim 5s 58s forwards;
+ }
+ .circle:nth-child(59) {
+    --transform-origin-x: 200%;
+   --translate-x-mid: -6rem;
+   --translate-x-end: -7rem;
+  animation: anim 5s 59s forwards;
+ }
+ .circle:nth-child(60) {
+    --transform-origin-x: 200%;
+   --translate-x-mid: -3rem;
+   --translate-x-end: -6rem;
+  animation: anim 5s 60s forwards;
+ }
+ .circle:nth-child(61) {
+    --transform-origin-x: 200%;
+   --translate-x-mid: 2rem;
+   --translate-x-end: 8rem;
+  animation: anim 5s 61s forwards;
+ }
+ .circle:nth-child(62) {
+    --transform-origin-x: 150%;
+   --translate-x-mid: 1rem;
+   --translate-x-end: 6rem;
+  animation: anim 5s 62s forwards;
+ }
+ .circle:nth-child(63) {
+    --transform-origin-x: 200%;
+   --translate-x-mid: 4rem;
+   --translate-x-end: 6rem;
+  animation: anim 5s 63s forwards;
+ }
+ .circle:nth-child(64) {
+  --transform-origin-x: 200%;
+ --translate-x-mid: 2rem;
+ --translate-x-end: 8rem;
+animation: anim 5s 64s forwards;
+}
+.circle:nth-child(65) {
+  --transform-origin-x: 150%;
+ --translate-x-mid: 1rem;
+ --translate-x-end: 6rem;
+animation: anim 5s 65s forwards;
+}
+.circle:nth-child(66) {
+  --transform-origin-x: 200%;
+ --translate-x-mid: 4rem;
+ --translate-x-end: 6rem;
+animation: anim 5s 66s forwards;
+}
+.circle:nth-child(67) {
+  --transform-origin-x: 250%;
+ --translate-x-mid: 1rem;
+ --translate-x-end: 2rem;
+animation: anim 5s 67s forwards;
+}
+.circle:nth-child(68) {
+  --transform-origin-x: -150%;
+ --translate-x-mid: -5rem;
+ --translate-x-end: -7rem;
+animation: anim 5s 68s forwards;
+}
+.circle:nth-child(69) {
+  --transform-origin-x: -250%;
+ --translate-x-mid: -3rem;
+ --translate-x-end: -5rem;
+animation: anim 5s 69s forwards;
+}
+.circle:nth-child(70) {
+  --transform-origin-x: 200%;
+ --translate-x-mid: -6rem;
+ --translate-x-end: -7rem;
+animation: anim 5s 70s forwards;
+}
+.circle:nth-child(71) {
+  --transform-origin-x: 150%;
+ --translate-x-mid: 1rem;
+ --translate-x-end: 6rem;
+animation: anim 5s 71s forwards;
+}
+.circle:nth-child(72) {
+  --transform-origin-x: 200%;
+ --translate-x-mid: 4rem;
+ --translate-x-end: 6rem;
+animation: anim 5s 72s forwards;
+}
+.circle:nth-child(73) {
+  --transform-origin-x: 250%;
+ --translate-x-mid: 1rem;
+ --translate-x-end: 2rem;
+animation: anim 5s 73s forwards;
+}
+.circle:nth-child(74) {
+  --transform-origin-x: 100%;
+ --translate-x-mid: -5rem;
+ --translate-x-end: -7rem;
+animation: anim 5s 74s forwards;
+}
+.circle:nth-child(75) {
+  --transform-origin-x: 250%;
+ --translate-x-mid: -3rem;
+ --translate-x-end: -5rem;
+animation: anim 5s 75s forwards;
+}
+.circle:nth-child(76) {
+  --transform-origin-x: 200%;
+ --translate-x-mid: -6rem;
+ --translate-x-end: -7rem;
+animation: anim 5s 76s forwards;
+}
+.circle:nth-child(77) {
+  --transform-origin-x: 200%;
+ --translate-x-mid: 4rem;
+ --translate-x-end: 6rem;
+animation: anim 5s 77s forwards;
+}
+.circle:nth-child(78) {
+  --transform-origin-x: 250%;
+ --translate-x-mid: 1rem;
+ --translate-x-end: 2rem;
+animation: anim 5s 78s forwards;
+}
+.circle:nth-child(79) {
+  --transform-origin-x: 100%;
+ --translate-x-mid: -5rem;
+ --translate-x-end: -7rem;
+animation: anim 5s 79s forwards;
+}
+.circle:nth-child(80) {
+  --transform-origin-x: 250%;
+ --translate-x-mid: -3rem;
+ --translate-x-end: -5rem;
+animation: anim 5s 80s forwards;
+}
+.circle:nth-child(81) {
+  --transform-origin-x: 200%;
+ --translate-x-mid: -6rem;
+ --translate-x-end: -7rem;
+animation: anim 5s 81s forwards;
+}
+.circle:nth-child(82) {
+  --transform-origin-x: 200%;
+ --translate-x-mid: 4rem;
+ --translate-x-end: 6rem;
+animation: anim 5s 82s forwards;
+}
+.circle:nth-child(83) {
+  --transform-origin-x: 250%;
+ --translate-x-mid: 1rem;
+ --translate-x-end: 2rem;
+animation: anim 5s 83s forwards;
+}
+.circle:nth-child(84) {
+  --transform-origin-x: 100%;
+ --translate-x-mid: -5rem;
+ --translate-x-end: -7rem;
+animation: anim 5s 84s forwards;
+}
+.circle:nth-child(85) {
+  --transform-origin-x: 250%;
+ --translate-x-mid: -3rem;
+ --translate-x-end: -5rem;
+animation: anim 5s 85s forwards;
+}
+
+  
+
+
+  :root {
+    --transform-origin-x: 150%;
+    --translate-x-end: 6rem;
+    --translate-x-mid: 1rem;
+  }
+  
+  @keyframes anim {
+    0% {
+      z-index: 20;
+      opacity: 1;
+      transform-origin: var(--transform-origin-x) 50%;
+      transform: rotate(0) scale(0.5) translateX(0) translateY(0);
+    }
+    75% {
+      z-index: 20;
+      opacity: 1;
+      transform-origin: var(--transform-origin-x) 50%;
+      transform: scale(1.2) translateX(var(--translate-x-mid)) translateY(-7rem);
+    }
+    100% {
+      z-index: 0;
+      opacity: 0;
+      transform-origin: var(--transform-origin-x) 50%;
+      transform: scale(1.5) translateX(var(--translate-x-end)) translateY(-7rem);
+    }
+  }
+
+  
+  

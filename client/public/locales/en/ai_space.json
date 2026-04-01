@@ -1,0 +1,232 @@
+{
+  "categories": {
+    "all": "All",
+    "text_gen": "Text Generation and Summarization",
+    "image_gen": "Image Generation and Editing",
+    "audio_editing": "Audio Editing",
+    "ai_art": "AI Art and Graphics",
+    "ai_chatbots": "AI Chatbots",
+    "ai_writing": "AI Writing Assistants",
+    "voice_to_text": "Voice to Text",
+    "video_editing": "Video Editing and Creation"
+  },
+  "ui": {
+    "task_completed": "Task Completed 👏.",
+    "mission_joyride": "Explore & Use 49+ AI Tools and Earn 50 Skill Points everyday you use and practice",
+    "todays_mission": "TODAY’S MISSION",
+    "about_app": "About the App:",
+    "conditions_title": "Conditions for Skill Points:",
+    "conditions": [
+      "1. Users must interact with a new AI tool every 4 hours to earn 50 points.",
+      "2. Only the first interaction within each 4-hour window will be counted towards points.",
+      "3. Repeated use of the same tool is allowed, but only the first use within the window will earn points.",
+      "4. Users can earn a maximum of 300 points per day from a single AI tool.",
+      "5. To continue earning points, users must switch to a different AI tool every 4 hours."
+    ],
+    "launch_app": "Launch App",
+    "welcome_to": "Welcome To",
+    "ai_space_title": "AI space",
+    "tool_label": "Tool",
+    "category_label": "Category",
+    "lets_begin": "LET’S BEGIN",
+    "earn_points_msg": "Earn 50 Skill Points for one time usage of the tool.",
+    "compare_text_msg": "Compare the original and paraphrased text.",
+    "claimed": "CLAIMED",
+    "claim": "CLAIM",
+    "get_started": "GET STARTED"
+  },
+  "tools": {
+    "73": {
+      "title": "Edit Pad",
+      "content": "Edit Pad is a simple online text editor for quick writing and editing, offering an accessible platform for note-taking, brainstorming, and drafting without the need for software installation."
+    },
+    "74": {
+      "title": "Excel",
+      "content": "Microsoft Excel is a versatile spreadsheet program that enables data analysis, visualization, and automation, widely used for both personal and professional productivity tasks."
+    },
+    "75": {
+      "title": "AppliTools",
+      "content": "AppliTools is a visual AI testing and monitoring platform that automates UI testing and ensures pixel-perfect interfaces across devices and browsers."
+    },
+    "76": {
+      "title": "ElevenLabs",
+      "content": "ElevenLabs is a leading AI-powered voice synthesis platform that delivers lifelike, customizable speech for audiobooks, games, and other creative projects."
+    },
+    "77": {
+      "title": "Functionze",
+      "content": "Functionze is an AI-powered testing solution that automates functional, visual, and performance testing for web and mobile applications."
+    },
+    "78": {
+      "title": "Grammarly",
+      "content": "Grammarly is a widely used AI writing assistant that helps improve grammar, spelling, tone, and clarity in real time, catering to both casual and professional writers."
+    },
+    "79": {
+      "title": "Kapwing",
+      "content": "Kapwing is an online video and image editing platform that offers AI-powered tools for creating, resizing, and enhancing multimedia content with ease."
+    },
+    "80": {
+      "title": "OpusClip",
+      "content": "OpusClip uses AI to transform long-form videos into short, engaging clips optimized for social media platforms, boosting reach and engagement."
+    },
+    "81": {
+      "title": "Photopea",
+      "content": "Photopea is a free online photo editor with advanced features similar to Photoshop, supporting PSD, AI, and other popular image formats."
+    },
+    "82": {
+      "title": "Recraft",
+      "content": "Recraft is an AI-powered design tool for generating high-quality illustrations, icons, and graphics tailored to your creative needs."
+    },
+    "83": {
+      "title": "Alphasense",
+      "content": "Alphasense is an AI-driven market intelligence platform that helps businesses analyze data, discover insights, and make informed decisions."
+    },
+    "84": {
+      "title": "BeepBox",
+      "content": "BeepBox is an easy-to-use online music creation tool that lets users compose and share chiptune-style melodies directly from their browser."
+    },
+    "85": {
+      "title": "ChatGPT",
+      "content": "ChatGPT is an advanced AI chatbot by OpenAI that can answer questions, generate content, and assist with tasks using natural language understanding."
+    },
+    "86": {
+      "title": "Claude",
+      "content": "Claude is an AI assistant by Anthropic designed for thoughtful conversation, creative writing, and problem-solving, with a focus on safety and reliability."
+    },
+    "87": {
+      "title": "Compass",
+      "content": "Compass is an Atlassian tool that provides insights, documentation, and team coordination for software projects, enhancing productivity and collaboration."
+    },
+    "88": {
+      "title": "Dall-E 3",
+      "content": "DALL·E 3 is OpenAI’s advanced image generation model, capable of producing detailed, high-quality visuals from natural language prompts."
+    },
+    "89": {
+      "title": "DeepSeek",
+      "content": "DeepSeek is an AI-powered search and research platform that analyzes large datasets to extract precise, actionable insights."
+    },
+    "90": {
+      "title": "Descript",
+      "content": "Descript is an all-in-one audio and video editing platform with AI tools for transcription, overdubbing, and easy drag-and-drop editing."
+    },
+    "91": {
+      "title": "Firefly",
+      "content": "Adobe Firefly is a generative AI tool that creates stunning images, text effects, and designs tailored for creative professionals."
+    },
+    "92": {
+      "title": "FlexClip",
+      "content": "FlexClip is an online video maker and editor with AI-powered templates, animations, and effects for creating professional-quality videos effortlessly."
+    },
+    "93": {
+      "title": "Frase IO",
+      "content": "Frase IO is an AI writing and SEO optimization platform that helps create, research, and optimize content for better search rankings."
+    },
+    "94": {
+      "title": "Gemini",
+      "content": "Gemini is Google DeepMind's multimodal AI model, designed to handle text, image, and code tasks with high accuracy and efficiency."
+    },
+    "95": {
+      "title": "GitHub Copilot",
+      "content": "GitHub Copilot is an AI coding assistant powered by OpenAI, providing real-time code suggestions and accelerating software development."
+    },
+    "96": {
+      "title": "Gretel",
+      "content": "Gretel offers AI-powered synthetic data generation and anonymization tools for creating privacy-preserving datasets."
+    },
+    "97": {
+      "title": "Grok",
+      "content": "Grok is an AI chatbot developed by xAI, designed for humor-infused, insightful, and context-aware interactions on X (formerly Twitter)."
+    },
+    "98": {
+      "title": "Gumloop",
+      "content": "Gumloop is a no-code AI workflow automation tool that connects various apps and AI models to streamline tasks app."
+    },
+    "99": {
+      "title": "IBM Watson",
+      "content": "IBM Watson is a suite of enterprise-ready AI services, applications, and tools for building intelligent workflows and solutions."
+    },
+    "100": {
+      "title": "Jasper",
+      "content": "Jasper is an AI writing assistant that creates engaging marketing copy, blogs, and social content tailored to your brand voice."
+    },
+    "101": {
+      "title": "Midjourney",
+      "content": "Midjourney is an AI image generation tool that transforms text prompts into highly artistic and detailed visuals."
+    },
+    "102": {
+      "title": "N8n",
+      "content": "N8n is an open-source workflow automation tool that integrates APIs and services, enabling complex workflows with minimal coding."
+    },
+    "103": {
+      "title": "Notion AI",
+      "content": "Notion AI enhances the Notion workspace with AI features for writing, summarizing, brainstorming, and managing information efficiently."
+    },
+    "104": {
+      "title": "Path AI",
+      "content": "Path AI develops AI-powered pathology tools to assist doctors in diagnosing diseases more accurately and efficiently."
+    },
+    "105": {
+      "title": "Perplexity AI",
+      "content": "Perplexity AI is a conversational search engine that uses AI to provide direct, cited, and context-aware answers to questions."
+    },
+    "106": {
+      "title": "Pinetools",
+      "content": "Pinetools offers a variety of simple online tools for editing images, texts, and numbers directly from the browser."
+    },
+    "107": {
+      "title": "Pixlr",
+      "content": "Pixlr is a free online photo editor with AI-assisted tools for quick and professional image editing."
+    },
+    "108": {
+      "title": "Resoomer",
+      "content": "Resoomer is an AI summarization tool that condenses long texts into clear, concise summaries for faster understanding."
+    },
+    "109": {
+      "title": "Runway ML",
+      "content": "Runway ML is an AI creative suite offering tools for video editing, image generation, and other multimedia projects."
+    },
+    "110": {
+      "title": "Slick Write",
+      "content": "Slick Write is an online grammar and style checker that helps improve clarity, structure, and readability of writing."
+    },
+    "111": {
+      "title": "Smodin",
+      "content": "Smodin is an AI-powered writing platform offering tools for paraphrasing, summarizing, and multilingual content generation."
+    },
+    "112": {
+      "title": "Stable Diffusion",
+      "content": "Stable Diffusion is an open-source AI model that generates high-quality images from natural language prompts."
+    },
+    "113": {
+      "title": "Synthesia",
+      "content": "Synthesia is an AI video creation platform that generates talking avatars for training, marketing, and presentations."
+    },
+    "114": {
+      "title": "Tableau",
+      "content": "Tableau is a leading data visualization platform that helps create interactive and shareable dashboards from various data sources."
+    },
+    "115": {
+      "title": "Testim",
+      "content": "Testim uses AI to accelerate software testing by automating test creation, execution, and maintenance."
+    },
+    "116": {
+      "title": "Textfx",
+      "content": "Textfx is an AI tool from Google designed for experimenting with language, offering creative text transformations and generation."
+    },
+    "117": {
+      "title": "Tome",
+      "content": "Tome is an AI storytelling tool that helps create visually engaging presentations and documents quickly."
+    },
+    "118": {
+      "title": "UI Path",
+      "content": "UiPath is a leading robotic process automation (RPA) platform that uses AI to automate repetitive business tasks."
+    },
+    "119": {
+      "title": "You.com",
+      "content": "You.com is an AI-powered search engine that answers queries directly, integrates chat, and provides summarized results."
+    },
+    "120": {
+      "title": "Zapier Agents",
+      "content": "Zapier Agents lets you create AI-powered automation bots that interact with apps, APIs, and workflows seamlessly."
+    }
+  }
+}

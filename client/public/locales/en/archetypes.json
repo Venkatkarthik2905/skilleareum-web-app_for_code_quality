@@ -1,0 +1,117 @@
+{
+  "title": "Your Learning Archetype",
+  "next_steps": {
+    "title": "What's Next?",
+    "description": {
+      "type1": "Now that we understand how you learn, let's understand how familiar you are with AI concepts. This helps us personalize your learning journey even better.",
+      "type2": "Before creating your personalized roadmap, we'll evaluate your current AI knowledge to match your pace and motivation.",
+      "type3": "We'll assess your AI knowledge to create challenges that match your speed and task-driven learning style.",
+      "type4": "We'll assess your AI knowledge to create challenges that match your speed and task-driven learning style."
+    },
+    "start_journey": "Start your Journey"
+  },
+  "how_you_learn": "How You Learn Best",
+  "behavior_breakdown": "Learning Behavior Breakdown",
+  "learning_identity": "Learning Identity",
+  "what_happens_next": "What Happens Next?",
+  "labels": {
+    "visual": "Visual",
+    "analytical": "Analytical",
+    "sequential": "Sequential",
+    "accuracy": "Accuracy",
+    "task_driven": "Task-driven",
+    "intuitive": "Intuitive",
+    "speed_focused": "Speed-Focused",
+    "reward_driven": "Reward-Driven",
+    "exploratory": "Exploratory",
+    "kinesthetic": "Kinesthetic",
+    "reward": "Reward"
+  },
+  "features": {
+    "analytical_thinking": "Analytical Thinking",
+    "goal_oriented": "Goal-Oriented",
+    "accuracy_first": "Accuracy First",
+    "step_by_step": "Step-by-step Learning"
+  },
+  "behaviors": {
+    "see": {
+      "title": "See",
+      "desc": "Visual patterns help you grasp concepts quickly."
+    },
+    "follow": {
+      "title": "Follow",
+      "desc": "A clear sequence keeps learning comfortable and focused."
+    },
+    "act_fast": {
+      "title": "Act Fast",
+      "desc": "You prefer quick decisions and rapid progress."
+    },
+    "get_rewarded": {
+      "title": "Get Rewarded",
+      "desc": "Visual patterns help you grasp concepts quickly."
+    }
+  },
+  "descriptions": {
+    "type1": "You prefer learning experiences that are structured, logical, and well-organized. You perform best when concepts are broken down step by step, allowing time for deep understanding and accuracy. You are motivated by meaningful progress and clear goals rather than speed or external rewards.",
+    "type2": "You thrive in learning environments that combine visual clarity with logical reasoning and real tasks. You prefer moving quickly and staying productive through clearly defined actions and outcomes.",
+    "type3": "You thrive in learning environments that combine visual clarity with logical reasoning and real tasks. You prefer moving quickly and staying productive through clearly defined actions and outcomes.",
+    "type4": "You thrive in learning environments that combine visual clarity with logical reasoning and real tasks. You prefer moving quickly and staying productive through clearly defined actions and outcomes."
+  },
+  "roadmap": {
+    "title": "Your Personalized AI Learning Roadmap",
+    "subtitle": "A step-by-step plan designed around how you learn best",
+    "loading": "Loading your personalized roadmap...",
+    "how_it_works": {
+      "title": "How This Roadmap Works",
+      "description": "This roadmap organizes learning activities in an order that matches your learning style and AI readiness. Each activity builds on the previous one to ensure clarity, retention, and confidence."
+    },
+    "learning_journey": "Your Learning Journey",
+    "step_label": "Step {{step}}",
+    "goal_label": "Goal: {{goal}}",
+    "ai_assessment_result": "AI Knowledge Check Result",
+    "foundational": "Foundational",
+    "foundational_desc": "Based on your assessment responses, you currently demonstrate a foundational understanding of artificial intelligence concepts. This stage focuses on building clarity, accuracy, and confidence through structured learning.",
+    "beginner": "Beginner",
+    "beginner_desc": "Based on your assessment responses, you currently demonstrate a beginner understanding of artificial intelligence concepts. This stage focuses on expanding your knowledge and practical familiarization with AI tools.",
+    "intermediate": "Intermediate",
+    "intermediate_desc": "Based on your assessment responses, you currently demonstrate an intermediate understanding of artificial intelligence concepts. This stage focuses on deepening your technical grasp and real-world application of AI.",
+    "advanced": "Advanced",
+    "advanced_desc": "Based on your assessment responses, you currently demonstrate an advanced understanding of artificial intelligence concepts. This stage focuses on complex problem solving and advanced AI strategy and implementation.",
+    "what_this_means": {
+      "title": "What This Means",
+      "description": "At this stage, you are building a strong foundation in AI concepts. You learn best when content is logically sequenced, clearly explained, and reinforced through action."
+    },
+    "typically": "You Typically:",
+    "typically_points": [
+      "Build understanding step-by-step",
+      "Prefer guidance before exploration",
+      "Learn through seeing, hearing, reading, and doing together"
+    ],
+    "duration_roadmap": "{{days}}-Day AI Learning Roadmap",
+    "phase_label": "Phase {{step}} — ",
+    "start_ai_journey": "Start Your AI Journey",
+    "steps": {
+      "f1": {
+        "title": "AI Foundations",
+        "goal": "Build basic awareness and mental models"
+      },
+      "f2": {
+        "title": "How AI Works & Where It’s Used",
+        "goal": "Understand AI conceptually without technical depth"
+      },
+      "f3": {
+        "title": "Interacting with AI Effectively",
+        "goal": "Build confidence using AI correctly"
+      },
+      "f4": {
+        "title": "Responsible & Practical Use",
+        "goal": "Apply AI thoughtfully and responsibly"
+      }
+    },
+    "tooltips": {
+      "best_for": "Best For",
+      "what_you_do": "What You Do",
+      "why_it_matters": "Why It Matters"
+    }
+  }
+}

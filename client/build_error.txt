@@ -1,0 +1,70 @@
+
+> skilleareum@0.1.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+[plugin:vite:esbuild] [plugin vite:esbuild] src/Admin panelTelegram/AIlearning.jsx: Duplicate key "day" in object literal
+160|          setEditedData({
+161|              day: "",
+162|              day: "",
+   |              ^
+163|              topic_name: "",
+164|              description: "",
+
+Browserslist: browsers data (caniuse-lite) is 8 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+node_modules/viem/node_modules/ox/_esm/core/Address.js (6:21): A comment
+
+"/*#__PURE__*/"
+
+in "node_modules/viem/node_modules/ox/_esm/core/Address.js" contains an annotation that Rollup cannot interpret due to the position of the comment. The comment will be removed to avoid issues.
+node_modules/viem/node_modules/ox/_esm/core/internal/cursor.js (2:21): A comment
+
+"/*#__PURE__*/"
+
+in "node_modules/viem/node_modules/ox/_esm/core/internal/cursor.js" contains an annotation that Rollup cannot interpret due to the position of the comment. The comment will be removed to avoid issues.
+node_modules/@walletconnect/universal-provider/node_modules/ox/_esm/core/Address.js (6:21): A comment
+
+"/*#__PURE__*/"
+
+in "node_modules/@walletconnect/universal-provider/node_modules/ox/_esm/core/Address.js" contains an annotation that Rollup cannot interpret due to the position of the comment. The comment will be removed to avoid issues.
+node_modules/@walletconnect/universal-provider/node_modules/ox/_esm/core/internal/cursor.js (2:21): A comment
+
+"/*#__PURE__*/"
+
+in "node_modules/@walletconnect/universal-provider/node_modules/ox/_esm/core/internal/cursor.js" contains an annotation that Rollup cannot interpret due to the position of the comment. The comment will be removed to avoid issues.
+node_modules/@walletconnect/sign-client/node_modules/ox/_esm/core/Address.js (6:21): A comment
+
+"/*#__PURE__*/"
+
+in "node_modules/@walletconnect/sign-client/node_modules/ox/_esm/core/Address.js" contains an annotation that Rollup cannot interpret due to the position of the comment. The comment will be removed to avoid issues.
+node_modules/@walletconnect/sign-client/node_modules/ox/_esm/core/internal/cursor.js (2:21): A comment
+
+"/*#__PURE__*/"
+
+in "node_modules/@walletconnect/sign-client/node_modules/ox/_esm/core/internal/cursor.js" contains an annotation that Rollup cannot interpret due to the position of the comment. The comment will be removed to avoid issues.
+✓ 4210 modules transformed.
+x Build failed in 16.58s
+error during build:
+src/WebApp/Components/Pages/UserDashboard/DashboardPages/CommonPages/MyRewardsWeb.jsx (26:9): "Subscription_ABI" is not exported by "src/ABI.js", imported by "src/WebApp/Components/Pages/UserDashboard/DashboardPages/CommonPages/MyRewardsWeb.jsx".
+file: /home/Jaga/Pictures/DEV services/skilleareum-web-app/client/src/WebApp/Components/Pages/UserDashboard/DashboardPages/CommonPages/MyRewardsWeb.jsx:26:9
+
+24: // import Rewardswelcome from "./Onboarding/Rewardswelcome";
+25: import { debounce } from "lodash";
+26: import { Subscription_ABI } from "../../../../../../ABI";
+             ^
+27: import {
+28:   SERVER_URL,
+
+    at getRollupError (file:///home/Jaga/Pictures/DEV%20services/skilleareum-web-app/client/node_modules/vite/node_modules/rollup/dist/es/shared/parseAst.js:402:41)
+    at error (file:///home/Jaga/Pictures/DEV%20services/skilleareum-web-app/client/node_modules/vite/node_modules/rollup/dist/es/shared/parseAst.js:398:42)
+    at Module.error (file:///home/Jaga/Pictures/DEV%20services/skilleareum-web-app/client/node_modules/vite/node_modules/rollup/dist/es/shared/node-entry.js:17040:16)
+    at Module.traceVariable (file:///home/Jaga/Pictures/DEV%20services/skilleareum-web-app/client/node_modules/vite/node_modules/rollup/dist/es/shared/node-entry.js:17452:29)
+    at ModuleScope.findVariable (file:///home/Jaga/Pictures/DEV%20services/skilleareum-web-app/client/node_modules/vite/node_modules/rollup/dist/es/shared/node-entry.js:15070:39)
+    at ReturnValueScope.findVariable (file:///home/Jaga/Pictures/DEV%20services/skilleareum-web-app/client/node_modules/vite/node_modules/rollup/dist/es/shared/node-entry.js:5673:38)
+    at FunctionBodyScope.findVariable (file:///home/Jaga/Pictures/DEV%20services/skilleareum-web-app/client/node_modules/vite/node_modules/rollup/dist/es/shared/node-entry.js:5673:38)
+    at ReturnValueScope.findVariable (file:///home/Jaga/Pictures/DEV%20services/skilleareum-web-app/client/node_modules/vite/node_modules/rollup/dist/es/shared/node-entry.js:5673:38)
+    at FunctionBodyScope.findVariable (file:///home/Jaga/Pictures/DEV%20services/skilleareum-web-app/client/node_modules/vite/node_modules/rollup/dist/es/shared/node-entry.js:5673:38)
+    at BlockScope.findVariable (file:///home/Jaga/Pictures/DEV%20services/skilleareum-web-app/client/node_modules/vite/node_modules/rollup/dist/es/shared/node-entry.js:5673:38)

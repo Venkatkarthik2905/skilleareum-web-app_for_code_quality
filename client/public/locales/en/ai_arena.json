@@ -1,0 +1,56 @@
+{
+  "rules": {
+    "title": "How This Challenge Works",
+    "rule1": {
+      "title": "Battle Format",
+      "points": [
+        "One real-world use case",
+        "Two AI tools presented",
+        "Select the best fit"
+      ]
+    },
+    "rule2": {
+      "title": "Time Limit",
+      "points": [
+        "15 seconds per battle"
+      ]
+    },
+    "rule3": {
+      "title": "Scoring Rule",
+      "points": [
+        "Minimum 4 out of 5 correct answers to pass the arena challenge."
+      ]
+    },
+    "lets_begin": "Let's Begin"
+  },
+  "game": {
+    "title": "AI Tool Arena",
+    "battle_info": "Battle {{current}} of {{total}}",
+    "submit_answer": "Submit Answer",
+    "correct_insight": "Correct Insight",
+    "incorrect": "Incorrect",
+    "correct_answer": "Correct Answer: ",
+    "next_case": "NEXT CASE >>",
+    "view_results": "VIEW RESULTS >>",
+    "loading": "Loading battles...",
+    "redirecting": "Redirecting...",
+    "no_battles": "No battles available.",
+    "tool_label": "Tool {{id}}",
+    "reward_credited": "Reward credited!",
+    "submitted": "Submitted successfully!",
+    "network_error": "Network error",
+    "submitting": "Submitting..."
+  },
+  "results": {
+    "title": "Arena Results",
+    "pass": "Pass",
+    "fail": "Fail",
+    "perfect": "Perfect Score! AI Master!",
+    "battles_won": "Battles Won",
+    "excellent": "Excellent work! You correctly analyzed all AI use cases and chose the right tools every time.",
+    "misconceptions": "You successfully identified and corrected common AI misconceptions.",
+    "good_progress": "Good progress! You’re understanding how to choose the right AI tools, but a few cases need more attention.",
+    "good_start": "This is a good start. Revisit the cases to better understand when and how AI should be used.",
+    "continue": "Continue Learning"
+  }
+}

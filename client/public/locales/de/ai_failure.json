@@ -1,0 +1,47 @@
+{
+  "rules": {
+    "title": "Wie die Untersuchung funktioniert",
+    "rule1": {
+      "title": "Pflichtlektüre",
+      "points": [
+        "Jede Geschichte muss vollständig gelesen werden",
+        "Scrollen oder eine Mindestlesedauer wird erzwungen"
+      ]
+    },
+    "rule2": {
+      "title": "Reflexionsfrage",
+      "points": [
+        "Eine Frage pro Geschichte: „Warum ist diese KI gescheitert?“"
+      ]
+    },
+    "lets_begin": "Lass uns anfangen"
+  },
+  "game": {
+    "title": "KI-Fehlerdateien",
+    "failure_info": "Fehlerdatei {{current}} von {{total}}",
+    "question_header": "Fallanalyse {{number}}",
+    "submit_answer": "Antwort absenden",
+    "correct_analysis": "Richtige Analyse",
+    "incorrect": "Falsch",
+    "correct_answer": "Richtige Antwort: ",
+    "next_case": "NÄCHSTER FALL >>",
+    "view_results": "ERGEBNISSE ANSEHEN >>",
+    "loading": "Fehlerfälle werden geladen...",
+    "no_cases": "Keine Fehlerfälle verfügbar.",
+    "claimed_redirect": "Belohnung beansprucht. Weiterleitung...",
+    "submitting": "Ihre Antworten werden übermittelt...",
+    "submitted": "Erfolgreich übermittelt!",
+    "submission_failed": "Übermittlung fehlgeschlagen",
+    "network_error": "Netzwerkfehler während der Übermittlung",
+    "loading_error": "Fallstudien konnten nicht geladen werden. Bitte versuchen Sie es erneut."
+  },
+  "results": {
+    "title": "Untersuchung abgeschlossen",
+    "cases_count": "{{score}}/{{total}} Fälle",
+    "all_analyzed": "Sie haben alle KI-Fehlerfälle analysiert",
+    "strong_effort": "Starke Leistung! Noch ein Fall zu erledigen.",
+    "good_start": "Guter Anfang! Erkunden Sie weiter, um Ihr Verständnis zu vertiefen.",
+    "get_started": "Beginnen Sie, indem Sie Ihren ersten KI-Fehlerfall untersuchen.",
+    "continue": "Weiter lernen"
+  }
+}

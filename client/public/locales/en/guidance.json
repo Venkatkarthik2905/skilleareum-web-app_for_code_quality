@@ -1,0 +1,41 @@
+{
+  "title": "How Skilleareum Works",
+  "subtitle": "Step-by-Step Product Tour",
+  "intro": "This short guide explains how SkillEareum assesses your learning style and creates a personalized learning plan tailored just for you.",
+  "steps": {
+    "1": {
+      "title": "Login",
+      "description": "Access your account securely to begin the onboarding process. Your journey to personalized AI learning starts here."
+    },
+    "2": {
+      "title": "VARK Learning Assessment",
+      "description": "Identify your preferred learning style (Visual, Auditory, Read/Write, or Kinesthetic) to tailor content delivery to your unique way of absorbing information"
+    },
+    "3": {
+      "title": "Cognitive Style Profiling (CSP)",
+      "description": "Analyze how you process information, follow structure, and apply reasoning during learning to create an optimal experience."
+    },
+    "4": {
+      "title": "AI Knowledge Assessment",
+      "description": "Evaluate your current understanding of AI concepts to place you at the appropriate starting level and ensure content is neither too basic nor too advanced."
+    },
+    "5": {
+      "title": "37-Day Learning Roadmap",
+      "description": "A personalized curriculum roadmap is generated based on your assessment results, designed to take you from your current level to AI proficiency.",
+      "items": {
+        "pilot": "7 days Pilot program",
+        "genesis": "30 days - AI Genesis"
+      }
+    },
+    "6": {
+      "title": "Interactive Learning Activities",
+      "description": "Reinforce learning using short, interactive formats designed for engagement and retention. Make learning fun and effective."
+    }
+  },
+  "stepPrefix": "Step",
+  "footer": {
+    "title": "Start Your Journey",
+    "description": "Begin your personalized learning experience today and unlock your full potential in artificial intelligence.",
+    "button": "Begin my Assessment →"
+  }
+}

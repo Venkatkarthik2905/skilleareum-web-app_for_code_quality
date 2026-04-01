@@ -1,0 +1,292 @@
+
+> skilleareum@0.1.0 build
+> vite build
+
+vite v5.4.21 building for production...
+transforming...
+Browserslist: browsers data (caniuse-lite) is 8 months old. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+node_modules/viem/node_modules/ox/_esm/core/Address.js (6:21): A comment
+
+"/*#__PURE__*/"
+
+in "node_modules/viem/node_modules/ox/_esm/core/Address.js" contains an annotation that Rollup cannot interpret due to the position of the comment. The comment will be removed to avoid issues.
+node_modules/viem/node_modules/ox/_esm/core/internal/cursor.js (2:21): A comment
+
+"/*#__PURE__*/"
+
+in "node_modules/viem/node_modules/ox/_esm/core/internal/cursor.js" contains an annotation that Rollup cannot interpret due to the position of the comment. The comment will be removed to avoid issues.
+node_modules/@walletconnect/universal-provider/node_modules/ox/_esm/core/Address.js (6:21): A comment
+
+"/*#__PURE__*/"
+
+in "node_modules/@walletconnect/universal-provider/node_modules/ox/_esm/core/Address.js" contains an annotation that Rollup cannot interpret due to the position of the comment. The comment will be removed to avoid issues.
+node_modules/@walletconnect/universal-provider/node_modules/ox/_esm/core/internal/cursor.js (2:21): A comment
+
+"/*#__PURE__*/"
+
+in "node_modules/@walletconnect/universal-provider/node_modules/ox/_esm/core/internal/cursor.js" contains an annotation that Rollup cannot interpret due to the position of the comment. The comment will be removed to avoid issues.
+node_modules/@walletconnect/sign-client/node_modules/ox/_esm/core/Address.js (6:21): A comment
+
+"/*#__PURE__*/"
+
+in "node_modules/@walletconnect/sign-client/node_modules/ox/_esm/core/Address.js" contains an annotation that Rollup cannot interpret due to the position of the comment. The comment will be removed to avoid issues.
+node_modules/@walletconnect/sign-client/node_modules/ox/_esm/core/internal/cursor.js (2:21): A comment
+
+"/*#__PURE__*/"
+
+in "node_modules/@walletconnect/sign-client/node_modules/ox/_esm/core/internal/cursor.js" contains an annotation that Rollup cannot interpret due to the position of the comment. The comment will be removed to avoid issues.
+✓ 4210 modules transformed.
+rendering chunks...
+computing gzip size...
+build/assets/slick-BlzDm7g2.svg                         2.15 kB │ gzip:   0.91 kB
+build/assets/ajax-loader-BcnMEykj.gif                   4.18 kB
+build/index.html                                        4.93 kB │ gzip:   2.15 kB
+build/assets/Digital Dismay-C76RDrdb.otf               13.93 kB
+build/assets/Artemus-Dg45zEvy.otf                      18.38 kB
+build/assets/gilroy-regular-Bghgj_A6.ttf               84.30 kB
+build/assets/SkilleareumLitepaper-DdMjKT5M.pdf        783.47 kB
+build/assets/Dashboard-B30oY75I.css                     0.17 kB │ gzip:   0.15 kB
+build/assets/DashboardLayout-sH2LkXnr.css               0.50 kB │ gzip:   0.26 kB
+build/assets/style-D0R8kjzC.css                         0.63 kB │ gzip:   0.37 kB
+build/assets/slick-DFvY0fNF.css                         1.12 kB │ gzip:   0.46 kB
+build/assets/index-BK9sfADZ.css                        12.22 kB │ gzip:   3.50 kB
+build/assets/TaptoLearnWeb-13cgyVr5.css                13.19 kB │ gzip:   1.61 kB
+build/assets/Contact_us-Bbgo5x5y.css                   45.02 kB │ gzip:  24.62 kB
+build/assets/animate-BaVkx4tQ.css                      73.46 kB │ gzip:   5.38 kB
+build/assets/index-BLGI2ioz.css                       172.49 kB │ gzip:  25.66 kB
+build/assets/ConstantsUtil-Dmg8YACJ.js                  0.09 kB │ gzip:   0.11 kB
+build/assets/warning-Doafylla.js                        0.10 kB │ gzip:   0.11 kB
+build/assets/cursor-BAqIK3DI.js                         0.20 kB │ gzip:   0.19 kB
+build/assets/circle-DhVMFXKk.js                         0.24 kB │ gzip:   0.20 kB
+build/assets/chevron-left-B2Zz6ECR.js                   0.34 kB │ gzip:   0.25 kB
+build/assets/chevron-top-Pet4OyuS.js                    0.34 kB │ gzip:   0.25 kB
+build/assets/external-link-CAOBbPLW.js                  0.34 kB │ gzip:   0.25 kB
+build/assets/chevron-bottom-DMj3QihC.js                 0.34 kB │ gzip:   0.25 kB
+build/assets/chevron-right-Bg-WDUMh.js                  0.34 kB │ gzip:   0.25 kB
+build/assets/arrow-top-BszznaGl.js                      0.36 kB │ gzip:   0.26 kB
+build/assets/arrow-bottom-40lYq0aR.js                   0.36 kB │ gzip:   0.26 kB
+build/assets/arrow-left-J3uednHj.js                     0.36 kB │ gzip:   0.25 kB
+build/assets/arrow-right-BKc67UjT.js                    0.36 kB │ gzip:   0.26 kB
+build/assets/search-C7gbTPoI.js                         0.38 kB │ gzip:   0.27 kB
+build/assets/close-DDAxaNKr.js                          0.38 kB │ gzip:   0.26 kB
+build/assets/all-wallets-C6roQ317.js                    0.39 kB │ gzip:   0.23 kB
+build/assets/filters-CBLdeJHx.js                        0.39 kB │ gzip:   0.25 kB
+build/assets/info-circle-CYsx0KkC.js                    0.42 kB │ gzip:   0.27 kB
+build/assets/more-BaYZk6Tz.js                           0.43 kB │ gzip:   0.28 kB
+build/assets/refresh-DOwXabrN.js                        0.43 kB │ gzip:   0.29 kB
+build/assets/warning-circle-C49gWj6e.js                 0.44 kB │ gzip:   0.28 kB
+build/assets/coinPlaceholder-Db-U6BAl.js                0.45 kB │ gzip:   0.32 kB
+build/assets/compass-CSlGpM36.js                        0.47 kB │ gzip:   0.31 kB
+build/assets/swapVertical-D7bsCCbg.js                   0.49 kB │ gzip:   0.31 kB
+build/assets/swapHorizontal-9ovUc_FQ.js                 0.49 kB │ gzip:   0.30 kB
+build/assets/x-DxTwgDCS.js                              0.51 kB │ gzip:   0.36 kB
+build/assets/cursor-transparent-XllcW1R0.js             0.52 kB │ gzip:   0.33 kB
+build/assets/twitterIcon-CMb6tnUy.js                    0.53 kB │ gzip:   0.34 kB
+build/assets/mobile-B0GOYJFv.js                         0.54 kB │ gzip:   0.29 kB
+build/assets/checkmark-bold-DmMxXa9b.js                 0.59 kB │ gzip:   0.40 kB
+build/assets/etherscan-C8A-ppMY.js                      0.65 kB │ gzip:   0.41 kB
+build/assets/checkmark-Dtk3d142.js                      0.65 kB │ gzip:   0.44 kB
+build/assets/help-circle-CBgVzeJb.js                    0.66 kB │ gzip:   0.40 kB
+build/assets/wallet-CQjIv9mC.js                         0.66 kB │ gzip:   0.39 kB
+build/assets/axiosInstance-DvU_K_5I.js                  0.69 kB │ gzip:   0.44 kB
+build/assets/plus-D4uQSP_o.js                           0.71 kB │ gzip:   0.39 kB
+build/assets/verify-filled-B0w_YzHx.js                  0.71 kB │ gzip:   0.44 kB
+build/assets/add-B6GGIV0d.js                            0.71 kB │ gzip:   0.39 kB
+build/assets/x-mark-CN5vIJV0.js                         0.74 kB │ gzip:   0.40 kB
+build/assets/google-DsBFCMtc.js                         0.76 kB │ gzip:   0.42 kB
+build/assets/three-dots-Bxccz7eh.js                     0.78 kB │ gzip:   0.38 kB
+build/assets/clock-nOwgxp2m.js                          0.78 kB │ gzip:   0.44 kB
+build/assets/disconnect-Dx_QVDyV.js                     0.83 kB │ gzip:   0.47 kB
+build/assets/IslandLoader-B4zw7lZa.js                   0.83 kB │ gzip:   0.45 kB
+build/assets/twitch-D-ZcWR2q.js                         0.84 kB │ gzip:   0.47 kB
+build/assets/bank-DYUWnwo2.js                           0.89 kB │ gzip:   0.49 kB
+build/assets/apple-B2kXFfsC.js                          0.90 kB │ gzip:   0.50 kB
+build/assets/play-store-ChnNJQZe.js                     0.95 kB │ gzip:   0.49 kB
+build/assets/farcaster-C9h-F0PQ.js                      0.96 kB │ gzip:   0.50 kB
+build/assets/ref-CWWHxazA.js                            0.97 kB │ gzip:   0.52 kB
+build/assets/off-YIatcga6.js                            1.00 kB │ gzip:   0.52 kB
+build/assets/ethereum-Dylw5rnP.js                       1.04 kB │ gzip:   0.41 kB
+build/assets/arrow-bottom-circle-CI_71aXU.js            1.07 kB │ gzip:   0.50 kB
+build/assets/github-CXsk521b.js                         1.07 kB │ gzip:   0.57 kB
+build/assets/swapHorizontalBold-DlWIQYb3.js             1.11 kB │ gzip:   0.58 kB
+build/assets/transactions-BtYuLViz.js                   1.11 kB │ gzip:   0.64 kB
+build/assets/app-store-DSMeH2fp.js                      1.14 kB │ gzip:   0.64 kB
+build/assets/mail-Dx98EBQl.js                           1.15 kB │ gzip:   0.62 kB
+build/assets/facebook-CBcTPQV_.js                       1.18 kB │ gzip:   0.61 kB
+build/assets/index-GHGLtiHt.js                          1.20 kB │ gzip:   0.69 kB
+build/assets/wallet-placeholder-E5D_zZhj.js             1.21 kB │ gzip:   0.56 kB
+build/assets/desktop-DhAWceSS.js                        1.22 kB │ gzip:   0.61 kB
+build/assets/discord-DDnPnn2y.js                        1.24 kB │ gzip:   0.62 kB
+build/assets/swapHorizontalMedium-D0Xs50DM.js           1.25 kB │ gzip:   0.64 kB
+build/assets/recycle-horizontal-LFBre1wq.js             1.29 kB │ gzip:   0.66 kB
+build/assets/extension-DMfRn5Ic.js                      1.37 kB │ gzip:   0.66 kB
+build/assets/telegram-DfvskuXx.js                       1.40 kB │ gzip:   0.81 kB
+build/assets/swapHorizontalRoundedBold-t_eYYnKp.js      1.40 kB │ gzip:   0.73 kB
+build/assets/verify-R3QVUrVu.js                         1.42 kB │ gzip:   0.68 kB
+build/assets/index-QI06YxwD.js                          1.42 kB │ gzip:   0.74 kB
+build/assets/index-DPwWea3P.js                          1.43 kB │ gzip:   0.72 kB
+build/assets/qr-code-DiI9i2rm.js                        1.46 kB │ gzip:   0.49 kB
+build/assets/index-CUEWTksU.js                          1.47 kB │ gzip:   0.78 kB
+build/assets/browser-DTItnwV4.js                        1.52 kB │ gzip:   0.75 kB
+build/assets/network-placeholder-BoEXeACD.js            1.60 kB │ gzip:   0.70 kB
+build/assets/index-D2_AeQj4.js                          1.64 kB │ gzip:   0.78 kB
+build/assets/id-BkgPlPE9.js                             1.69 kB │ gzip:   0.78 kB
+build/assets/nftPlaceholder-D8wlY-vg.js                 1.69 kB │ gzip:   0.83 kB
+build/assets/index-BOu0xohv.js                          1.70 kB │ gzip:   0.93 kB
+build/assets/bin-CC7AEWsh.js                            1.71 kB │ gzip:   0.84 kB
+build/assets/index-BLgUqxO6.js                          1.75 kB │ gzip:   0.91 kB
+build/assets/index-DCPwByZi.js                          1.79 kB │ gzip:   0.86 kB
+build/assets/index-ZKu4VcDV.js                          1.97 kB │ gzip:   0.87 kB
+build/assets/bitcoin-BlCOJ0mv.js                        1.98 kB │ gzip:   1.07 kB
+build/assets/index-l8Q0MBxs.js                          2.00 kB │ gzip:   0.83 kB
+build/assets/CspJourneyStart-ZOe5mWix.js                2.07 kB │ gzip:   0.83 kB
+build/assets/Table-C4nq4BGv.js                          2.18 kB │ gzip:   0.85 kB
+build/assets/index-mlqleaBs.js                          2.19 kB │ gzip:   1.00 kB
+build/assets/info-Chuu1Xp2.js                           2.21 kB │ gzip:   1.10 kB
+build/assets/index-CdSfsVMJ.js                          2.30 kB │ gzip:   0.90 kB
+build/assets/White_paper-DR53SD8P.js                    2.33 kB │ gzip:   0.72 kB
+build/assets/AIExplorerbadgeWeb-qsgXWUHn.js             2.34 kB │ gzip:   1.09 kB
+build/assets/exclamation-triangle-DdyBvzN9.js           2.36 kB │ gzip:   1.09 kB
+build/assets/send-Ce53l4qo.js                           2.37 kB │ gzip:   1.24 kB
+build/assets/solana-DhRUrKjy.js                         2.49 kB │ gzip:   1.17 kB
+build/assets/card-E3MCHjDj.js                           2.53 kB │ gzip:   1.13 kB
+build/assets/chrome-store-CrtbW0Y2.js                   2.53 kB │ gzip:   0.98 kB
+build/assets/reown-logo-uYkfdLaV.js                     2.55 kB │ gzip:   1.03 kB
+build/assets/index-BvIOo12v.js                          2.64 kB │ gzip:   1.06 kB
+build/assets/lightbulb-DLkg2yqO.js                      2.66 kB │ gzip:   1.18 kB
+build/assets/PaymentConfirmWeb-UQevGhM9.js              2.71 kB │ gzip:   1.07 kB
+build/assets/VarkJourneyStart-DNxVTvLO.js               2.71 kB │ gzip:   0.88 kB
+build/assets/ForgotPasswordWeb-BSC3MaoP.js              2.78 kB │ gzip:   1.22 kB
+build/assets/EarnedWeb-DtM5fSKO.js                      2.80 kB │ gzip:   1.39 kB
+build/assets/TaskListWeb-BUDEj47h.js                    2.92 kB │ gzip:   1.36 kB
+build/assets/AIJourneyStart-BfqYw_YB.js                 3.04 kB │ gzip:   0.99 kB
+build/assets/UnlockAIGenesisWeb-JkVrnXGh.js             3.16 kB │ gzip:   1.43 kB
+build/assets/ChallengeMap_30Days-h4l7lN8M.js            3.22 kB │ gzip:   1.51 kB
+build/assets/SkillPointsEarned-CjsQs-1o.js              3.34 kB │ gzip:   1.19 kB
+build/assets/AdminLogin-DUfo6bz8.js                     3.36 kB │ gzip:   1.30 kB
+build/assets/ResultPage-D9pQ8WrD.js                     3.42 kB │ gzip:   1.36 kB
+build/assets/image-Cp-CB10P.js                          3.44 kB │ gzip:   1.47 kB
+build/assets/ResetPasswordWeb-Bo7qp5lt.js               3.44 kB │ gzip:   1.29 kB
+build/assets/index-DiGQlSgF.js                          3.60 kB │ gzip:   1.39 kB
+build/assets/AccomplishedWeb-CSOZQeaJ.js                3.68 kB │ gzip:   1.52 kB
+build/assets/WebUserguidance-B60XPl_i.js                3.71 kB │ gzip:   1.20 kB
+build/assets/copy-DefNQoWI.js                           3.76 kB │ gzip:   1.44 kB
+build/assets/Type1-BmEaHnqH.js                          3.81 kB │ gzip:   1.51 kB
+build/assets/walletconnect-CAJfhc5n.js                  4.00 kB │ gzip:   1.63 kB
+build/assets/Header-DIiO5Z9B.js                         4.01 kB │ gzip:   1.07 kB
+build/assets/Type4-DfT2TWU0.js                          4.07 kB │ gzip:   1.57 kB
+build/assets/AIAssessment-B4kcfRRW.js                   4.21 kB │ gzip:   1.70 kB
+build/assets/Header-C9JQnnQ1.js                         4.32 kB │ gzip:   1.10 kB
+build/assets/Type3-DKyNlHhZ.js                          4.35 kB │ gzip:   1.42 kB
+build/assets/index-BfohRPvq.js                          4.35 kB │ gzip:   1.75 kB
+build/assets/index-lDCN7O7O.js                          4.38 kB │ gzip:   1.21 kB
+build/assets/Header-yyWGUsFE.js                         4.45 kB │ gzip:   1.13 kB
+build/assets/index-CDC6pqgg.js                          4.47 kB │ gzip:   1.69 kB
+build/assets/VarkAssessment-lRfbkaxp.js                 4.47 kB │ gzip:   1.72 kB
+build/assets/index-QnOCpS6o.js                          4.61 kB │ gzip:   1.55 kB
+build/assets/MerchantLogin-C7SKdSZn.js                  4.64 kB │ gzip:   1.60 kB
+build/assets/Type2-BV_lb8Ub.js                          4.76 kB │ gzip:   1.46 kB
+build/assets/Header-Cq3buZ11.js                         4.79 kB │ gzip:   1.03 kB
+build/assets/ReportnAnalytics-BZ4nWbEu.js               5.25 kB │ gzip:   2.10 kB
+build/assets/Home-DeEmkw7w.js                           5.33 kB │ gzip:   1.12 kB
+build/assets/CspAssessment-DSs1qZ-N.js                  5.33 kB │ gzip:   2.02 kB
+build/assets/receive-Dev_Iz2C.js                        5.40 kB │ gzip:   2.03 kB
+build/assets/ReferralSubcription-Ctk592x7.js            5.48 kB │ gzip:   1.87 kB
+build/assets/ChallengePathWeb-ksybhcJm.js               5.52 kB │ gzip:   1.80 kB
+build/assets/MerchantForgotPassword-DbaNA5J7.js         5.57 kB │ gzip:   1.85 kB
+build/assets/SafeProvider-GQymhXnD.js                   5.65 kB │ gzip:   2.01 kB
+build/assets/index-3x4Stgki.js                          5.69 kB │ gzip:   1.70 kB
+build/assets/TaskWeb-DpeybUaR.js                        5.87 kB │ gzip:   2.41 kB
+build/assets/DailyBlogsWeb-Dn-jy94I.js                  5.96 kB │ gzip:   2.34 kB
+build/assets/DailyRewardWeb-rUu9XIid.js                 5.99 kB │ gzip:   1.96 kB
+build/assets/AILearningRoadmap-CsVjfF7W.js              6.20 kB │ gzip:   2.26 kB
+build/assets/index-Dfh0vF6o.js                          6.33 kB │ gzip:   1.78 kB
+build/assets/Dashboard-iWl9xNqf.js                      6.46 kB │ gzip:   2.09 kB
+build/assets/AssessmentIntroPage-DwkOYOie.js            6.67 kB │ gzip:   1.95 kB
+build/assets/ReferralInformation-Bcv-0GoP.js            6.68 kB │ gzip:   2.09 kB
+build/assets/index-FlEbEV8C.js                          6.85 kB │ gzip:   1.61 kB
+build/assets/SubPackWeb-BWnErXcn.js                     6.93 kB │ gzip:   1.50 kB
+build/assets/UserManagement-DWDeBkGT.js                 7.08 kB │ gzip:   1.72 kB
+build/assets/dayjs.min-DEXdPksG.js                      7.10 kB │ gzip:   3.09 kB
+build/assets/SKill_Login-Bdmiqef4.js                    7.15 kB │ gzip:   2.20 kB
+build/assets/CurrentProgram-WPW2ZStu.js                 7.20 kB │ gzip:   2.35 kB
+build/assets/ProfileInfo-DJclqzKK.js                    7.75 kB │ gzip:   2.23 kB
+build/assets/SupportTicket-BwXV9TVu.js                  7.84 kB │ gzip:   2.32 kB
+build/assets/InviteScreenWeb-BsoBKh6B.js                7.87 kB │ gzip:   2.55 kB
+build/assets/index-BweVgmoh.js                          7.94 kB │ gzip:   2.14 kB
+build/assets/index-BBMt7qlL.js                          8.07 kB │ gzip:   2.28 kB
+build/assets/Roadmap-gSAGs9BL.js                        8.08 kB │ gzip:   2.26 kB
+build/assets/ChallengeMapWeb-DU5wYAr4.js                8.29 kB │ gzip:   2.91 kB
+build/assets/DashboardLayout-E8rygDwc.js                8.29 kB │ gzip:   2.43 kB
+build/assets/AIFarmingWeb-Bxzt4-yA.js                   8.31 kB │ gzip:   2.56 kB
+build/assets/index-CBwaYvwV.js                          8.56 kB │ gzip:   2.57 kB
+build/assets/UserPerformance-C1M-B7i4.js                9.03 kB │ gzip:   2.47 kB
+build/assets/Progress-CcgLbpNw.js                       9.03 kB │ gzip:   2.08 kB
+build/assets/SkinChangeWeb-DTVy65Qd.js                  9.21 kB │ gzip:   2.04 kB
+build/assets/Sponsor-CC-sGxDh.js                        9.59 kB │ gzip:   2.47 kB
+build/assets/index-wFbufoxr.js                          9.60 kB │ gzip:   1.97 kB
+build/assets/AIEmojiWeb-BDoaGEPf.js                     9.64 kB │ gzip:   2.62 kB
+build/assets/ConfirmSubscribeWeb-BUU-0JaV.js           10.05 kB │ gzip:   4.20 kB
+build/assets/browser-ponyfill-B94QxfAA.js              10.26 kB │ gzip:   3.50 kB
+build/assets/AIGameWeb-DQWYsJJ9.js                     10.29 kB │ gzip:   2.26 kB
+build/assets/Dashboard-BJxo-3W3.js                     10.63 kB │ gzip:   3.09 kB
+build/assets/Dashboard-BnvzS5AD.js                     11.14 kB │ gzip:   2.71 kB
+build/assets/SubscriptionTracking-DAtVJ0KH.js          11.17 kB │ gzip:   2.60 kB
+build/assets/AIMythBreakerRules-C3gGTJ4B.js            11.36 kB │ gzip:   3.58 kB
+build/assets/FarmingWeb-Cf0KO05Y.js                    11.45 kB │ gzip:   2.81 kB
+build/assets/Activity-tteIB5jD.js                      11.63 kB │ gzip:   2.72 kB
+build/assets/Signup-CLSVQbUX.js                        12.27 kB │ gzip:   3.47 kB
+build/assets/FinancialReports-XIcRCo8J.js              12.80 kB │ gzip:   3.74 kB
+build/assets/UpgradeWeb-C2zKIvf_.js                    12.90 kB │ gzip:   4.03 kB
+build/assets/SubscriptionWeb-CseiuLAP.js               13.37 kB │ gzip:   2.51 kB
+build/assets/AIFactVaultWeb-CT1lQylA.js                13.49 kB │ gzip:   3.67 kB
+build/assets/embedded-wallet-BsV0JYbB.js               13.51 kB │ gzip:   4.03 kB
+build/assets/AIFailureFilesRules-DV60ABPu.js           14.05 kB │ gzip:   3.87 kB
+build/assets/BoostFinalWeb-DvjBd91f.js                 14.32 kB │ gzip:   2.67 kB
+build/assets/AISkillQuestWeb-BViTg5mP.js               14.51 kB │ gzip:   4.19 kB
+build/assets/AIToolArenaRules-CM1mmjeo.js              16.13 kB │ gzip:   4.57 kB
+build/assets/index-4GGMapBm.js                         16.19 kB │ gzip:   4.88 kB
+build/assets/ChallengeMap_7Days-CV2vxzn9.js            16.66 kB │ gzip:   5.28 kB
+build/assets/MyRewardsWeb-ekSHYTPS.js                  16.67 kB │ gzip:   4.33 kB
+build/assets/socials-BhLzg7Wo.js                       17.76 kB │ gzip:   4.69 kB
+build/assets/email--9YcyIr2.js                         20.69 kB │ gzip:   5.18 kB
+build/assets/index-VoLE0wj9.js                         21.48 kB │ gzip:   6.44 kB
+build/assets/index-BotAoTu9.js                         24.16 kB │ gzip:   6.84 kB
+build/assets/About_us-BBBSXBXJ.js                      25.09 kB │ gzip:   3.52 kB
+build/assets/onramp-DgVqJFpg.js                        26.17 kB │ gzip:   6.11 kB
+build/assets/Leaderboard-Dnjk70XY.js                   26.33 kB │ gzip:   3.59 kB
+build/assets/w3m-modal-Dix4vOKY.js                     27.88 kB │ gzip:   7.35 kB
+build/assets/UserDashboardWeb-Bxf67bcI.js              28.39 kB │ gzip:   8.01 kB
+build/assets/SpinWheelWeb-DnxH-14d.js                  29.02 kB │ gzip:   9.42 kB
+build/assets/index-U9tusT_2.js                         29.52 kB │ gzip:  11.57 kB
+build/assets/AILearningWeb-DAXoPKvY.js                 29.84 kB │ gzip:   6.08 kB
+build/assets/Community-CSEfUq42.js                     29.95 kB │ gzip:   3.74 kB
+build/assets/send-BECIR8Zw.js                          30.36 kB │ gzip:   6.64 kB
+build/assets/secp256k1-Be6-cgwN.js                     31.42 kB │ gzip:  12.55 kB
+build/assets/if-defined-lWeATHDp.js                    31.65 kB │ gzip:   7.97 kB
+build/assets/ABI-CEV_ioeP.js                           33.12 kB │ gzip:   9.96 kB
+build/assets/AISpaceWeb-fBm4cLa3.js                    45.27 kB │ gzip:  10.80 kB
+build/assets/index-CXTM0LWC.js                         46.00 kB │ gzip:  13.82 kB
+build/assets/index-dZR2B2R3.js                         46.88 kB │ gzip:  14.87 kB
+build/assets/swaps-W1KWqNtA.js                         50.91 kB │ gzip:   9.43 kB
+build/assets/DailyBonusWeb-DkO8rQop.js                 58.87 kB │ gzip:  14.76 kB
+build/assets/Contact_us-BwzFtr3X.js                    60.32 kB │ gzip:  20.54 kB
+build/assets/TaptoLearnWeb-BKsatSzE.js                 62.33 kB │ gzip:   9.75 kB
+build/assets/index-CUiPzfQg.js                         63.41 kB │ gzip:  16.61 kB
+build/assets/lodash-Cp6lpWaa.js                        71.79 kB │ gzip:  26.65 kB
+build/assets/index-CDF7H8bi.js                        114.17 kB │ gzip:  37.05 kB
+build/assets/AdminDashboard-w2DwxsTL.js               192.42 kB │ gzip:  43.47 kB
+build/assets/UserProfile-DarMmI_A.js                  201.02 kB │ gzip:  40.92 kB
+build/assets/index-B_Y5x33w.js                        242.06 kB │ gzip:  46.04 kB
+build/assets/xlsx-5_gWIQju.js                         282.78 kB │ gzip:  95.07 kB
+build/assets/Paperpdf-CB2qA74v.js                     404.63 kB │ gzip: 121.38 kB
+build/assets/react-apexcharts.min-D7zlXEjo.js         541.99 kB │ gzip: 143.11 kB
+build/assets/index-CuhZ1r4H.js                      2,134.87 kB │ gzip: 655.56 kB
+
+(!) Some chunks are larger than 500 kB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/configuration-options/#output-manualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+✓ built in 32.31s

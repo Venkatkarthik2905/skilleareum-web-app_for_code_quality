@@ -1,0 +1,22 @@
+{
+  "ui": {
+    "welcome_to": "Welcome To",
+    "fact_vault_title": "AI Fact Vault",
+    "get_started": "Get Started",
+    "yesterday": "Yesterday",
+    "summary": "Summary",
+    "facts_for_day": "AI Facts For The Day.",
+    "claim_reward": "Claim Reward",
+    "task_completed": "Task Completed👏",
+    "explore_facts": "Explore The Facts Of",
+    "learn_earn": "Learn More & Earn More",
+    "keep_learning": "Keep learning and earning",
+    "joyride": "Learn about AI History, Fun Fact, Future & Current Affairs and claim 250 Skill Points Every Day! 📈"
+  },
+  "categories": {
+    "history": "AI History",
+    "fun_fact": "AI Fun Fact",
+    "future": "AI Future",
+    "current_affairs": "AI Current Affair’s"
+  }
+}

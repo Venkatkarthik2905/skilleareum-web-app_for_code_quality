@@ -1,0 +1,10 @@
+{
+  "ui": {
+    "introduction": "प्रस्तावना",
+    "real_world_examples": "वास्तविक दुनिया के उदाहरण",
+    "fun_fact": "रोचक तथ्य",
+    "claim_points": "स्किल पॉइंट्स का दावा करें",
+    "task_completed": "कार्य पूरा हुआ 👏",
+    "error_something_wrong": "कुछ गलत हो गया!"
+  }
+}

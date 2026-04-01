@@ -1,0 +1,37 @@
+{
+  "ai_learning": {
+    "video_completed": "Video abgeschlossen👏.",
+    "failed_to_complete": "Quest konnte nicht abgeschlossen werden.",
+    "ai_learning_for_the_day": "KI-Lernen für heute.",
+    "welcome_to_day": "Willkommen zu Tag {{day}}",
+    "day": "Tag {{day}}",
+    "unlocks_in": "Wird freigeschaltet in",
+    "play": "Spielen",
+    "completed": "ABGESCHLOSSEN",
+    "video_day_label": "TAG {{day}} | Video {{day}}",
+    "browser_no_support": "Ihr Browser unterstützt das Video-Tag nicht.",
+    "watched_full": "🎉 Sie haben das vollständige Video gesehen!",
+    "reward_collected": "Belohnung gesammelt! 👏",
+    "failed_to_complete_try_again": "Quest konnte nicht abgeschlossen werden. Bitte versuchen Sie es erneut.",
+    "assessment": "Bewertung",
+    "submit": "ABSENDEN",
+    "next": "WEITER",
+    "replay": "WIEDERHOLEN",
+    "watch_fully_warning": "Sehen Sie sich das Video vollständig an, um die Bewertung freizuschalten und Skill-Punkte zu sammeln.",
+    "continue": "Weiter",
+    "exit_anyway": "Trotzdem beenden",
+    "skill_points": "SKILL-PUNKTE",
+    "earned": "VERDIENT",
+    "come_back_tomorrow": "KOMMEN SIE MORGEN WIEDER",
+    "try_again": "ERNEUT VERSUCHEN",
+    "collect": "Sammeln",
+    "exit": "Beenden",
+    "ai_learning_history": "KI-Lernverlauf",
+    "no_data_found": "Keine Daten gefunden",
+    "speak": {
+      "engage_tools": "Nutzen Sie diese Tools, um Skill-Punkte zu sammeln",
+      "play_more": "Mehr spielen, mehr lernen, mehr verdienen. Los geht's!",
+      "unlock_facts": "Schalten Sie coole KI-Fakten frei – Vergangenheit, Gegenwart und Zukunft"
+    }
+  }
+}

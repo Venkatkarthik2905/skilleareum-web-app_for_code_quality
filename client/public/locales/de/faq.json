@@ -1,0 +1,94 @@
+{
+  "title": "Haben Sie Fragen?",
+  "searchPlaceholder": "FAQ durchsuchen...",
+  "questions": [
+    {
+      "q": "Ist Skilleareum kostenlos nutzbar?",
+      "a": "Skilleareum ist nicht kostenlos nutzbar. Unsere Plattform bietet einen Basis-Abonnementplan namens 'AI Genesis' an, der Zugang zu allen exklusiven Funktionen von Skilleareum bietet und es ermöglicht, Skill Points in Echtzeit zu verdienen und eine Vielzahl von Möglichkeiten für Wachstum und Erfolg freizuschalten."
+    },
+    {
+      "q": "Was ist die Notwendigkeit für zK-Proof of Learning (PoL)?",
+      "a": "Im Gegensatz zu herkömmlichen Zertifizierungen stellt zK-PoL sicher, dass Ihr Fortschritt und Ihr Fachwissen auf einer sicheren, dezentralen Plattform aufgezeichnet werden, was sie unveränderlich und weltweit anerkannt macht."
+    },
+    {
+      "q": "Wie kann ich auf Skilleareum verdienen?",
+      "a": "Sie können Future Skill Token als Skill Points verdienen, indem Sie einfach auf der Plattform aktiv bleiben. Verdienen Sie Belohnungen durch das Abschließen von täglichen Skill-Building-Herausforderungen, das Spielen von Learn & Earn-Spielen, das Empfehlen von Freunden, die Nutzung von KI-Tools, das Erkunden von KI-Fakten und KI-Farming. Und das ist erst der Anfang – weitere spannende Aktivitäten folgen in Kürze!"
+    },
+    {
+      "q": "Ist Skilleareum für Lernende aller Altersgruppen und Kenntnisstufen geeignet?",
+      "a": "Die Plattform von Skilleareum ist für jeden mit einer Internetverbindung zugänglich und fördert Inklusivität. Sie richtet sich wahrscheinlich an Lernende verschiedener Altersgruppen, Hintergründe und Kenntnisstufen."
+    },
+    {
+      "q": "Wie kann ich Unterstützung oder Hilfe erhalten, wenn ich Probleme auf Skilleareum habe?",
+      "a": "Für Unterstützung oder Hilfe müssen sich Benutzer normalerweise an den Kundenservice oder das Support-Team von Skilleareum wenden."
+    },
+    {
+      "q": "Was sind reale Anwendungsfälle von Blockchain im E-Learning?",
+      "a": "Smart Contracts für Kurse und Aufgaben; Erhöhte Sicherheit, Authentifizierung und Vertrauen; P2P-Lernen und Teilen von Inhalten; Speicherung von Studentenakten mit Unveränderlichkeit; Kryptowährung für Belohnungen; Digitale Badges und Qualifikationen; Leichtere Zertifizierung; Authentizität und Urheberrechtsschutz; Reduzierte Reisekosten; Zeitersparnis; Universell weltweit zugänglich für alle."
+    },
+    {
+      "q": "Wie verbessert Skilleareum das Lernerlebnis?",
+      "a": "Skilleareum integriert technische Aspekte zur Validierung und Belohnung von Lernerfolgen und verbessert so das gesamte Lernerlebnis."
+    },
+    {
+      "q": "Was ist die Notwendigkeit für Proof of Learning (PoL)?",
+      "a": "Die Notwendigkeit für PoL liegt in der Gewährleistung der Transaktionsgültigkeit und Sicherheit von Fähigkeiten, wobei dieser einzigartige Konsensmechanismus auf den Bildungskontext zugeschnitten ist."
+    },
+    {
+      "q": "Wie validiert Skilleareum Lernerfolge?",
+      "a": "Skilleareum validiert Lernerfolge durch den innovativen Konsensmechanismus „Proof of Learning“ (PoL)."
+    },
+    {
+      "q": "Welche Rolle spielt generative KI in Skilleareum?",
+      "a": "Generative KI hilft beim Erwerb menschlicher Intelligenz auf der Skilleareum-Plattform."
+    },
+    {
+      "q": "Wie fördert Skilleareum das Nutzerengagement?",
+      "a": "Skilleareum fördert das Nutzerengagement durch sein Tokenised Smart Minting System (SMS)."
+    },
+    {
+      "q": "Welche Rolle spielt Blockchain in Skilleareum?",
+      "a": "Skilleareum nutzt Blockchain-Technologie zur weltweiten Validierung von Fähigkeiten."
+    },
+    {
+      "q": "Welche Rolle spielt Social-Fi DAO in Skilleareum?",
+      "a": "Social-Fi DAO wird von Skilleareum eingesetzt, um ethisches, persönliches und berufliches Wachstum zu fördern, indem es Governance-Abstimmungen und Entscheidungskapazitäten innerhalb der Community des Skilleareum-Ökosystems bietet."
+    },
+    {
+      "q": "Wie gewährleistet Skilleareum Inklusivität und Transparenz?",
+      "a": "Skilleareum gewährleistet Inklusivität durch sein gemeinschaftsorientiertes Modell und den Einsatz von Blockchain-Technologie."
+    },
+    {
+      "q": "Was ist die Vision von Skilleareum?",
+      "a": "Die Vision von Skilleareum ist es, ethisches, persönliches und berufliches Wachstum zu fördern und Inklusivität sowie Transparenz für Nutzer weltweit zu gewährleisten."
+    },
+    {
+      "q": "Was ist AI Genesis und warum sollte ich es abonnieren?",
+      "a": "AI Genesis ist unser Basis-Abonnementplan, der Ihnen vollen Zugriff auf die exklusiven Funktionen von Skilleareum gewährt, einschließlich des Verdienens von Skill Points, der Erkundung von Tokenisierung und des Zugriffs auf fortgeschrittene Lerntools. Es ist Ihr Tor, um das volle Potenzial der Skilleareum-Plattform auszuschöpfen."
+    },
+    {
+      "q": "Was ist Skilleareum?",
+      "a": "Ein spielerisches und incentiviertes KI-Lern-Socio-EduFi-Ökosystem, das auf Blockchain & Web3 (zK-POL & SMS) basiert."
+    },
+    {
+      "q": "Wie funktioniert zK-Proof of Learning?",
+      "a": "Eine spielerische Lernreise für alle Arten von Nutzern zum KI-Lernen, während Transparenz und Privatsphäre durch Zero-Knowledge-Proofs gewahrt bleiben."
+    },
+    {
+      "q": "Was ist der SKLRM-Token?",
+      "a": "Der SKLRM-Token dient als Utility-, Native- und Governance-Token innerhalb des Ökosystems. Er erleichtert Belohnungen und verwaltet Blockchain-basierte Transaktionen. Nutzer können Echtzeit-SKLRM-Token prägen, indem sie ihre intellektuelle Effizienz unter Beweis stellen."
+    },
+    {
+      "q": "Wer kann der Plattform beitreten?",
+      "a": "Jeder, der an der Plattform interessiert ist, kann als Miner beitreten, um Anreize zu verdienen. Dazu gehören Krypto-Enthusiasten, KI-Lernende, Gamer, Kinder und Erwachsene, Fachleute, Einzelpersonen, Unternehmen und Institutionen, die erschwingliche KI-Weiterbildung, Tool-Nutzung, Content-Erstellung und Validierung von eingereichten Inhalten suchen."
+    },
+    {
+      "q": "Wie wird das SMS (Smart Minting System) funktionieren?",
+      "a": "Das Smart Minting System (SMS) funktioniert in den folgenden Schritten:\n1. Lernen: Nutzer erwerben Wissen und Fähigkeiten.\n2. Testen: Das Wissen der Nutzer wird durch SMS bewertet.\n3. Nachweis der Effizienz: Das System validiert die Leistung der Nutzer, wenn sie Kompetenz zeigen.\n4. Token-Generierung: Nach der Validierung wird ein neuer Block erstellt und SKLRM-Token werden über das zK-POL-Protokoll geprägt.\n5. Verteilung von Anreizen: Die geprägten Token werden als Belohnungen an die Nutzer verteilt."
+    },
+    {
+      "q": "Wie hoch ist der tägliche Prozentsatz an Belohnungen oder Anreizen oder SKLRM-Token vom SMS?",
+      "a": "In den ersten fünf Jahren werden insgesamt 10 Millionen SKLRM-Token geprägt, wobei täglich 5.479 Token generiert werden. Dies umfasst sowohl die Token-Generierung als auch die Burning-Mechanismen. Nach den ersten fünf Jahren findet ein Halving-Event statt, das die tägliche Prägungsrate reduziert. Der Halving-Prozess wird über die nächsten 100 Jahre fortgesetzt. Die Token des jeweiligen Tages werden unter den aktiven Nutzern dieses Tages verteilt."
+    }
+  ]
+}

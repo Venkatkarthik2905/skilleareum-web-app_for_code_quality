@@ -1,0 +1,41 @@
+{
+  "title": "Cómo funciona Skilleareum",
+  "subtitle": "Recorrido por el producto paso a paso",
+  "intro": "Esta breve guía explica cómo SkillEareum evalúa su estilo de aprendizaje y crea un plan de aprendizaje personalizado adaptado solo para usted.",
+  "steps": {
+    "1": {
+      "title": "Iniciar sesión",
+      "description": "Acceda a su cuenta de forma segura para comenzar el proceso de incorporación. Su viaje hacia el aprendizaje de IA personalizado comienza aquí."
+    },
+    "2": {
+      "title": "Evaluación de aprendizaje VARK",
+      "description": "Identifique su estilo de aprendizaje preferido (visual, auditivo, lectura/escritura o kinestésico) para adaptar la entrega de contenido a su forma única de absorber información."
+    },
+    "3": {
+      "title": "Perfilado de estilo cognitivo (CSP)",
+      "description": "Analice cómo procesa la información, sigue la estructura y aplica el razonamiento durante el aprendizaje para crear una experiencia óptima."
+    },
+    "4": {
+      "title": "Evaluación de conocimientos de IA",
+      "description": "Evalúe su comprensión actual de los conceptos de IA para ubicarlo en el nivel inicial apropiado y asegurarse de que el contenido no sea ni demasiado básico ni demasiado avanzado."
+    },
+    "5": {
+      "title": "Hoja de ruta de aprendizaje de 37 días",
+      "description": "Se genera una hoja de ruta curricular personalizada basada en los resultados de su evaluación, diseñada para llevarlo desde su nivel actual hasta la competencia en IA.",
+      "items": {
+        "pilot": "Programa piloto de 7 días",
+        "genesis": "30 días - AI Genesis"
+      }
+    },
+    "6": {
+      "title": "Actividades de aprendizaje interactivas",
+      "description": "Refuerce el aprendizaje utilizando formatos cortos e interactivos diseñados para el compromiso y la retención. Haga que el aprendizaje sea divertido y efectivo."
+    }
+  },
+  "stepPrefix": "Paso",
+  "footer": {
+    "title": "Comience su viaje",
+    "description": "Comience hoy su experiencia de aprendizaje personalizada y libere todo su potencial en inteligencia artificial.",
+    "button": "Comenzar mi evaluación →"
+  }
+}

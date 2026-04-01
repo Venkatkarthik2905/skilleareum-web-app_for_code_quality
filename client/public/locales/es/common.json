@@ -1,0 +1,56 @@
+{
+  "loading": "Por favor espere, Cargando",
+  "home": "Inicio",
+  "aboutUs": "Sobre nosotros",
+  "community": "Comunidad",
+  "whitepaper": "Libro blanco",
+  "contactUs": "Contáctenos",
+  "signIn": "Iniciar sesión",
+  "joinNow": "Únete ahora",
+  "getStarted": "Comenzar",
+  "welcomeTo": "Bienvenido a",
+  "hiIAmYourSkillGene": "Hola, soy tu Skill Gene",
+  "footer": {
+    "followUs": "Síguenos en las redes sociales",
+    "links": {
+      "home": "Inicio",
+      "aboutUs": "Sobre nosotros",
+      "community": "Comunidad"
+    },
+    "subLinks": {
+      "futureBenefits": "Beneficios futuros",
+      "learnEarn": "Aprende y gana",
+      "features": "Características",
+      "visionMission": "Visión y misión",
+      "roadmap": "Hoja de ruta",
+      "tokenomics": "Tokenomics",
+      "explore": "Explorar",
+      "partnership": "Asociación",
+      "affiliateProgram": "Programa de afiliados"
+    },
+    "newsletter": {
+      "title": "Únete a nuestro boletín",
+      "subtitle": "Mantente al día con todo sobre Reflect",
+      "placeholder": "Introduce tu correo electrónico",
+      "subscribe": "Suscribirse",
+      "subscribing": "Suscribiendo..."
+    },
+    "rights": "@ Skilleareum {{year}}. Todos los derechos reservados.",
+    "version": "Versión {{version}}",
+    "privacyPolicy": "Política de privacidad",
+    "termsConditions": "Términos y condiciones",
+    "cookiePolicy": "Política de cookies"
+  },
+  "messages": {
+    "enterEmail": "Introduce tu correo electrónico.",
+    "thanksSubscription": "Gracias por la suscripción.",
+    "subscriptionDone": "Suscripción ya realizada."
+  },
+  "reward": {
+    "day_label": "DÍA {{day}}",
+    "skill_points": "PUNTOS DE HABILIDAD",
+    "earned": "GANADOS",
+    "come_back": "VUELVE MAÑANA",
+    "collect": "RECOGER"
+  }
+}

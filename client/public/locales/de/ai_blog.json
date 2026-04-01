@@ -1,0 +1,10 @@
+{
+  "ui": {
+    "introduction": "Einführung",
+    "real_world_examples": "Beispiele aus der Praxis",
+    "fun_fact": "Interessanter Fakt",
+    "claim_points": "Skill-Punkte beanspruchen",
+    "task_completed": "Aufgabe abgeschlossen 👏",
+    "error_something_wrong": "Etwas ist schief gelaufen!"
+  }
+}

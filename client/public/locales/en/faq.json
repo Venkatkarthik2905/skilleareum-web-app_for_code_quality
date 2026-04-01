@@ -1,0 +1,94 @@
+{
+  "title": "Have Any Questions in Mind?",
+  "searchPlaceholder": "Search FAQ...",
+  "questions": [
+    {
+      "q": "Is Skilleareum free to use?",
+      "a": "Skilleareum is not free to use. Our platform offers a basic subscription plan called 'AI Genesis,' which provides access to all the exclusive features of Skilleareum and start earning skill points in real time, unlocking a wide range of opportunities to grow and succeed."
+    },
+    {
+      "q": "What is the necessity for zK-Proof of Learning (PoL)?",
+      "a": "Unlike traditional certifications, zK-PoL ensures that your progress and expertise are recorded on a secure, decentralized platform, making them immutable and globally recognized."
+    },
+    {
+      "q": "How can I earn on Skilleareum?",
+      "a": "You can earn Future Skill Tokens as Skill Points by just staying active on the platform. Earn rewards by completing Skill-Building Daily Challenges, playing Learn & Earn games, referring friends, using AI tools, Exploring AI facts and AI Farming. And that's just the beginning—more exciting activities are coming soon!"
+    },
+    {
+      "q": "Is Skilleareum suitable for learners of all ages and skill levels?",
+      "a": "Skilleareum’s platform is accessible to anyone with an internet connection, promoting inclusivity. It likely caters to learners of various ages, backgrounds, and skill levels."
+    },
+    {
+      "q": "How can I get support or assistance if I encounter any issues on Skilleareum?",
+      "a": "For support or assistance, users would typically need to reach out to Skilleareum’s customer service or support team."
+    },
+    {
+      "q": "What are the real use cases of Blockchain in E-learning?",
+      "a": "Smart Contracts for Courses and Assignments Enhanced Security-Authentication-Trust P2P Learning and Content Sharing Student Record Keeping with Immutability Cryptocurrency for Rewards Digital Badges and Credentials Ease of Certification Authenticity and Copyrights Protection Reduced Travel Cost Time Convenient Universally Accessible by all"
+    },
+    {
+      "q": "How does Skilleareum enhance the learning experience?",
+      "a": "Skilleareum integrates technical aspects to validate and reward learning achievements, thereby enhancing the overall learning experience."
+    },
+    {
+      "q": "What is the necessity for Proof of Learning (PoL)?",
+      "a": "The necessity for PoL lies in ensuring transaction validity and security of skills, tailoring this unique consensus mechanism to the educational context."
+    },
+    {
+      "q": "How does Skilleareum validate learning achievements?",
+      "a": "Skilleareum validates learning achievements by utilizing the innovative “Proof of Learning” (PoL) consensus mechanism."
+    },
+    {
+      "q": "What is the role of generative AI in Skilleareum?",
+      "a": "Generative AI aids in acquiring human intelligence on the Skilleareum platform."
+    },
+    {
+      "q": "How does Skilleareum foster user engagement?",
+      "a": "Skilleareum fosters user engagement through its Tokenised Smart Minting System (SMS)."
+    },
+    {
+      "q": "What is the role of blockchain in Skilleareum?",
+      "a": "Skilleareum employs blockchain technology for global skill validation."
+    },
+    {
+      "q": "What is the role of Social-Fi DAO in Skilleareum?",
+      "a": "Social-Fi DAO is employed by Skilleareum to foster ethical, personal, and professional growth by providing voting governance and decision-making capacity within the community of Skilleareum ecosystem."
+    },
+    {
+      "q": "How does Skilleareum ensure inclusivity and Transparency?",
+      "a": "Skilleareum ensures inclusivity through its community-driven model and the use of blockchain technology."
+    },
+    {
+      "q": "What is the vision of Skilleareum?",
+      "a": "Skilleareum’s vision is to foster ethical, personal, and professional growth, ensuring inclusivity and transparency for users worldwide."
+    },
+    {
+      "q": "What is AI Genesis, and why should I subscribe?",
+      "a": "AI Genesis is our basic subscription plan that grants you full access to Skilleareum’s exclusive features, including earning skill points, exploring tokenization, and accessing advanced learning tools. It’s your gateway to unlocking the full potential of the Skilleareum platform."
+    },
+    {
+      "q": "What is Skilleareum?",
+      "a": "A gamified and incentivized AI learning Socio-EduFi ecosystem powered by blockchain & Web3 (zK-POL & SMS)."
+    },
+    {
+      "q": "How does zK-Proof of Learning work?",
+      "a": "A gamified learning journey set for all kinds of users for AI learning while maintaining transparency and privacy through zero-knowledge proofs."
+    },
+    {
+      "q": "What is SKLRM token?",
+      "a": "The SKLRM token serves as a utility, native, and governance token within the ecosystem. It facilitates rewards and manages blockchain-based transactions. Users can mint real-time SKLRM tokens by demonstrating their intellectual efficiency."
+    },
+    {
+      "q": "Who can join the platform?",
+      "a": "Anyone interested in the platform can join as a Miner to earn incentives. This includes crypto enthusiasts, AI learners, gamers, kids & adults, professionals, individuals, enterprises, and institutions seeking affordable AI upskilling, tool utilization, content creation, and validation of submitted content."
+    },
+    {
+      "q": "How will SMS (Smart Minting System) function?",
+      "a": "The Smart Minting System (SMS) works in the following steps:\n1. Learning: Users acquire knowledge and skills.\n2. Testing: Users' knowledge is evaluated through SMS.\n3. Proof of Efficiency: The system validates users' performance if they demonstrate proficiency.\n4. Token Generation: Upon validation, a new block is created, and SKLRM tokens are minted through the zK-POL protocol.\n5. Incentive Distribution: The minted tokens are distributed to users as rewards."
+    },
+    {
+      "q": "What is the daily % of rewards or incentives or SKLRM tokens from SMS?",
+      "a": "For the first five years, a total of 10 million SKLRM tokens will be minted, with 5,479 tokens generated daily. This includes both the token generation and burning mechanisms. After the initial five years, a halving event will occur, reducing the daily minting rate. The halving process will continue for the next 100 years. Each day's tokens are distributed among the active users for that day."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Póngase en contacto con nosotros.",
+  "subtitle": "Ya sea una consulta, una idea o comentarios, somos todo oídos.",
+  "form": {
+    "name": "Su nombre",
+    "email": "Correo electrónico",
+    "phone": "Número de teléfono (opcional)",
+    "message": "Mensaje",
+    "submit": "Déjanos un mensaje",
+    "sending": "Enviando..."
+  },
+  "validation": {
+    "nameRequired": "El nombre es obligatorio",
+    "emailRequired": "El correo es obligatorio",
+    "emailInvalid": "El correo no es válido",
+    "messageRequired": "El mensaje es obligatorio"
+  },
+  "messages": {
+    "success": "Mensaje enviado",
+    "error": "Error al enviar el mensaje."
+  }
+}

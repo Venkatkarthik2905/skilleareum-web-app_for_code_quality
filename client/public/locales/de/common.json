@@ -1,0 +1,56 @@
+{
+  "loading": "Bitte warten, Laden",
+  "home": "Startseite",
+  "aboutUs": "Über uns",
+  "community": "Community",
+  "whitepaper": "Whitepaper",
+  "contactUs": "Kontakt",
+  "signIn": "Anmelden",
+  "joinNow": "Jetzt beitreten",
+  "getStarted": "Erste Schritte",
+  "welcomeTo": "Willkommen bei",
+  "hiIAmYourSkillGene": "Hallo, ich bin Ihr Skill Gene",
+  "footer": {
+    "followUs": "Folgen Sie uns in den sozialen Medien",
+    "links": {
+      "home": "Startseite",
+      "aboutUs": "Über uns",
+      "community": "Community"
+    },
+    "subLinks": {
+      "futureBenefits": "Zukünftige Vorteile",
+      "learnEarn": "Lernen & Verdienen",
+      "features": "Funktionen",
+      "visionMission": "Vision und Mission",
+      "roadmap": "Roadmap",
+      "tokenomics": "Tokenomics",
+      "explore": "Erkunden",
+      "partnership": "Partnerschaft",
+      "affiliateProgram": "Partnerprogramm"
+    },
+    "newsletter": {
+      "title": "Melden Sie sich für unseren Newsletter an",
+      "subtitle": "Bleiben Sie über alles bei Reflect auf dem Laufenden",
+      "placeholder": "Geben Sie Ihre E-Mail ein",
+      "subscribe": "Abonnieren",
+      "subscribing": "Abonnieren..."
+    },
+    "rights": "@ Skilleareum {{year}}. Alle Rechte vorbehalten.",
+    "version": "Version {{version}}",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsConditions": "Allgemeine Geschäftsbedingungen",
+    "cookiePolicy": "Cookie-Richtlinie"
+  },
+  "messages": {
+    "enterEmail": "Geben Sie Ihre E-Mail ein.",
+    "thanksSubscription": "Vielen Dank für das Abonnement.",
+    "subscriptionDone": "Abonnement bereits abgeschlossen."
+  },
+  "reward": {
+    "day_label": "TAG {{day}}",
+    "skill_points": "SKILL PUNKTE",
+    "earned": "VERDIENT",
+    "come_back": "KOMMEN SIE MORGEN WIEDER",
+    "collect": "EIN sammeln"
+  }
+}

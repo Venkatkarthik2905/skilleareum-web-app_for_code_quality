@@ -1,0 +1,91 @@
+{
+  "section1": {
+    "vision": {
+      "title": "OUR VISION",
+      "desc1": "To create a world where ",
+      "highlight1": "AI education",
+      "desc2": " is accessible to all, combining gamified learning with real rewards to make upskilling effortless and exciting. ",
+      "highlight2": "Skilleareum ",
+      "desc3": "is building a sustainable, global ecosystem where anyone can learn AI easily, earn crypto tokens, and grow together through the power of Web3 and blockchain-driven innovation."
+    },
+    "mission": {
+      "title": "OUR MISSION",
+      "desc": "Our mission is to empower over 1 million learners worldwide by making AI education simple, accessible, and rewarding through gamified learning experiences and blockchain-powered incentives.",
+      "explore": "Explore"
+    },
+    "ecosystem": "ZK-POL ECOSYSTEM",
+    "incubating": {
+      "title": "Next-Level Features Incubating",
+      "explore": "Explore"
+    }
+  },
+  "section2": {
+    "title": "Founder’s & Team",
+    "subtitle": "Our Innovation speaks about us",
+    "roles": {
+      "ceo": "CEO & Co-Founder",
+      "mentor": "Chief Mentor",
+      "cmo": "CMO & Co-Founder",
+      "cto": "CTO",
+      "leadDev": "Lead Developer",
+      "smartContract": "Smart Contract Developer",
+      "uiux": "UI / UX Lead"
+    }
+  },
+  "section3": {
+    "title": "Our Roadmap",
+    "subtitle": "See the milestones that brought us here, and get a sneak peak of what’s next.",
+    "request": "Have some feature request? Join our Telegram and tell us more!",
+    "milestones": {
+      "m1": "Milestone 1",
+      "m2": "Milestone 2",
+      "m3": "Milestone 3",
+      "m4": "Milestone 4",
+      "premium": "Premium version"
+    },
+    "details": {
+      "v011": "Idea To Reach I Million Valuation",
+      "v022": "MVP Alpha Version, August 24",
+      "v033": "MVP Beta Version, September 24",
+      "v034": "Premium Version, December 24",
+      "comingSoon": "Coming soon",
+      "nft": "AI NFT Introduction, Q1 25",
+      "tge": "Token Generation Event, Q1 25"
+    }
+  },
+  "section4": {
+    "title": "Noteworthy Milestones",
+    "descriptionLabel": "Description",
+    "m1": {
+      "title": "The First Wave of Early Adopters and Premium Learners",
+      "desc": "Successfully onboarded over 2,000 active community members, with 30 paid learners joining our exclusive AI Genesis Plan. This marks the beginning of our mission to deliver accessible, gamified AI education and real-world crypto rewards through a thriving Web3 ecosystem."
+    },
+    "m2": {
+      "title": "Official Launch - Gamified Learning Goes Live",
+      "desc": "Activated the full Skilleareum platform, introducing interactive AI modules that transform traditional learning into a reward-driven experience, setting the stage for seamless Web3-powered upskilling."
+    },
+    "m3": {
+      "title": "Industry Recognition - Pioneering Web3 AI Education",
+      "desc": "Established Skilleareum as a recognized leader in gamified AI learning, delivering a unique blend of education, blockchain innovation, and real-time earning opportunities for a global user base."
+    },
+    "m4": {
+      "title": "Expansion Through Powerful Partnerships",
+      "desc": "Secured collaborations with 4 thriving communities, broadening our impact to reach to new audiences of AI learners and innovators fostering new channels for learners to connect, collaborate, and grow within the Skilleareum ecosystem."
+    }
+  },
+  "section5": {
+    "title": "Tokenomics",
+    "totalTokenSupply": "Total Token Supply",
+    "oneBillion": "1 Billion",
+    "distribution": {
+      "sms": "Smart Minting System",
+      "team": "Team, Board and Investors",
+      "marketing": "Marketing",
+      "liquidity": "Listing and Liquidity",
+      "ecosystem": "Ecosystem & Treasury",
+      "rewards": "Rewards and Airdrops",
+      "reserve": "Reserve",
+      "staking": "Staking"
+    }
+  }
+}

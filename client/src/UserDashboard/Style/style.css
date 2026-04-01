@@ -1,0 +1,5 @@
+.fa-gears, .fa-brain, .fa-vault, .fa-puzzle-piece{
+   background: -webkit-linear-gradient(left,#1EEF32,#0285FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+}

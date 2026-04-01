@@ -1,0 +1,37 @@
+{
+  "ai_learning": {
+    "video_completed": "ਵੀਡੀਓ ਪੂਰਾ ਹੋ ਗਿਆ👏।",
+    "failed_to_complete": "ਕੁਐਸਟ ਪੂਰਾ ਕਰਨ ਵਿੱਚ ਅਸਫਲ।",
+    "ai_learning_for_the_day": "ਦਿਨ ਲਈ AI ਲਰਨਿੰਗ।",
+    "welcome_to_day": "ਦਿਨ {{day}} ਵਿੱਚ ਤੁਹਾਡਾ ਸੁਆਗਤ ਹੈ",
+    "day": "ਦਿਨ {{day}}",
+    "unlocks_in": "ਇਸ ਵਿੱਚ ਅਨਲੌਕ ਹੋਵੇਗਾ",
+    "play": "ਖੇਡੋ",
+    "completed": "ਪੂਰਾ ਹੋ ਗਿਆ",
+    "video_day_label": "ਦਿਨ {{day}} | ਵੀਡੀਓ {{day}}",
+    "browser_no_support": "ਤੁਹਾਡਾ ਬ੍ਰਾਊਜ਼ਰ ਵੀਡੀਓ ਟੈਗ ਦਾ ਸਮਰਥਨ ਨਹੀਂ ਕਰਦਾ ਹੈ।",
+    "watched_full": "🎉 ਤੁਸੀਂ ਪੂਰਾ ਵੀਡੀਓ ਦੇਖ ਲਿਆ ਹੈ!",
+    "reward_collected": "ਇਨਾਮ ਮਿਲ ਗਿਆ! 👏",
+    "failed_to_complete_try_again": "ਕੁਐਸਟ ਪੂਰਾ ਕਰਨ ਵਿੱਚ ਅਸਫਲ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।",
+    "assessment": "ਮੁਲਾਂਕਣ",
+    "submit": "ਸਬਮਿਟ ਕਰੋ",
+    "next": "ਅੱਗੇ",
+    "replay": "ਦੁਬਾਰਾ ਦੇਖੋ",
+    "watch_fully_warning": "ਮੁਲਾਂਕਣ ਨੂੰ ਅਨਲੌਕ ਕਰਨ ਅਤੇ ਸਕਿੱਲ ਪੁਆਇੰਟਸ ਕਮਾਉਣ ਲਈ ਪੂਰਾ ਵੀਡੀਓ ਦੇਖੋ।",
+    "continue": "ਜਾਰੀ ਰੱਖੋ",
+    "exit_anyway": "ਫਿਰ ਵੀ ਬਾਹਰ ਨਿਕਲੋ",
+    "skill_points": "ਸਕਿੱਲ ਪੁਆਇੰਟਸ",
+    "earned": "ਕਮਾਏ",
+    "come_back_tomorrow": "ਕੱਲ੍ਹ ਵਾਪਸ ਆਓ",
+    "try_again": "ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ",
+    "collect": "ਇਕੱਠਾ ਕਰੋ",
+    "exit": "ਬਾਹਰ ਨਿਕਲੋ",
+    "ai_learning_history": "AI ਲਰਨਿੰਗ ਇਤਿਹਾਸ",
+    "no_data_found": "ਕੋਈ ਡੇਟਾ ਨਹੀਂ ਮਿਲਿਆ",
+    "speak": {
+      "engage_tools": "ਸਕਿੱਲ ਪੁਆਇੰਟਸ ਇਕੱਠੇ ਕਰਨ ਲਈ ਇਹਨਾਂ ਟੂਲਸ ਦੀ ਵਰਤੋਂ ਕਰੋ",
+      "play_more": "ਹੋਰ ਖੇਡੋ, ਹੋਰ ਸਿੱਖੋ, ਹੋਰ ਕਮਾਓ। ਅੱਗੇ ਵਧੋ!",
+      "unlock_facts": "AI ਦੇ ਸ਼ਾਨਦਾਰ ਤੱਥਾਂ ਨੂੰ ਅਨਲੌਕ ਕਰੋ—ਅਤੀਤ, ਵਰਤਮਾਨ ਅਤੇ ਭਵਿੱਖ"
+    }
+  }
+}

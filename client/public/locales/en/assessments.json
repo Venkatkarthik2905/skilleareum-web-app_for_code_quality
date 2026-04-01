@@ -1,0 +1,94 @@
+{
+  "intro": {
+    "title": "Personalized AI Learning Assessment",
+    "description": "Get ready to discover your learning style, thinking approach, and AI knowledge—all in one simple, guided flow.",
+    "start_button": "Start Assessment",
+    "types": {
+      "vark": {
+        "title": "VARK",
+        "description": "Discover the way you learn best: visually, by listening, reading, or hands-on. This helps us match you learning content formats that actually work for you."
+      },
+      "cps": {
+        "title": "CSP",
+        "description": "Understand your cognitive process: how you analyze, solve, and interpret. Shapes how we guide you through activities."
+      },
+      "ai_knowledge": {
+        "title": "AI Knowledge",
+        "description": "We check what you already know, so you start at the right level. No pressure—just quick questions to tailor your experience."
+      }
+    },
+    "how_it_works": {
+      "title": "How It Works",
+      "step1": "Go through short, scenario-based questions—each focused on a unique aspect of how you learn and think.",
+      "step2": "Complete everything in one seamless flow. There's no right or wrong: every answer shapes your personalized path.",
+      "step3": "Your instant results unlock a tailored AI learning journey built just for you."
+    },
+    "why_matters": {
+      "title": "Why This Matters",
+      "description": "Personalized learning is proven to boost retention and motivation."
+    },
+    "better_engagement": {
+      "title": "Better Engagement",
+      "description": "You get content that adapts to your needs, keeping you interested—not overwhelmed."
+    },
+    "faster_progress": {
+      "title": "Faster Progress",
+      "description": "No wasted steps. No repeating what you already know."
+    },
+    "ready_to_start": "Ready to Start?",
+    "ready_subtitle": "Take the assessment and see your personalized recommendations instantly.",
+    "vark_completed": "VARK Completed",
+    "cps_completed": "CSP Completed"
+  },
+  "common": {
+    "question_progress": "Question {{current}} of {{total}}",
+    "next": "Next",
+    "previous": "Previous",
+    "complete": "Complete",
+    "loading": "Loading assessment...",
+    "error_loading": "Failed to load assessment",
+    "submission_failed": "Submission failed",
+    "no_questions": "No questions available",
+    "submission_success": "Assessment submitted successfully!"
+  },
+  "journey_start": {
+    "title": "Personalize Your Learning Journey",
+    "cps_title": "How Do You Think and Solve Problems?",
+    "ai_title": "AI Knowledge Check",
+    "subtitle1": "Answer a few quick questions so we can tailor learning just for you.",
+    "cps_subtitle": "Next, we'll look at how you process information, approach challenges, and stay motivated while learning.",
+    "ai_subtitle": "This short assessment helps us understand your current familiarity with AI. Your responses will be used only to tailor the learning level and examples for you.",
+    "choose_most_like_you": "Just choose what feels most like you.",
+    "ai_points": {
+      "point1": "Maps your learning style, not your knowledge",
+      "point2": "Multiple-choice responses",
+      "point3": "Answer based on your current understanding",
+      "point4": "Simple, scenario-based questions"
+    },
+    "start_problem_scenarios": "Start Problem Scenarios",
+    "footer_note": "Your responses help us personalize your experience.",
+    "subtitle2": "Take this assessment to discover your AI learning style"
+  },
+  "ui": {
+    "answer_is": "Answer is",
+    "attempted_questions": "Attempted Questions",
+    "continue": "Continue",
+    "correct_answers": "Correct Answers",
+    "day": "Day",
+    "double_tap": "Double tap to flip",
+    "false": "False",
+    "gain_points": "Gain Skill Points for your AI Knowledge",
+    "go_to_dashboard": "Go to Dashboard",
+    "loading": "Loading...",
+    "next": "Next",
+    "no": "No",
+    "overall_result": "Overall Result",
+    "question_label": "Question",
+    "skill_points": "Skill Points",
+    "start_assessment": "Start Assessment",
+    "submit": "Submit",
+    "title": "AI Skill Quest",
+    "true": "True",
+    "yes": "Yes"
+  }
+}

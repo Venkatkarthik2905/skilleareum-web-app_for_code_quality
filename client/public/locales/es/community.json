@@ -1,0 +1,50 @@
+{
+  "section1": {
+    "title": "Explore el futuro de la IA con nosotros",
+    "subtitle": "Y sea parte de un ecosistema próspero",
+    "description": "donde el aprendizaje de IA se encuentra con oportunidades",
+    "description2": "ilimitadas de Web3.",
+    "labels": {
+      "affiliate": "AFILIADO",
+      "internship": "PASANTÍA",
+      "investment": "INVERSIÓN",
+      "career": "CARRERA"
+    }
+  },
+  "section2": {
+    "title": "Invierta en el futuro aprendiendo IA",
+    "description": "En Skilleareum, la inversión comienza con el aprendizaje. Para acceder a futuras recompensas en tokens SKLRM, primero debe participar en nuestro viaje de aprendizaje de IA. Al participar en desafíos impulsados por IA, completar misiones y ser validado a través de nuestra plataforma, gana Skill Points y desbloquea oportunidades de inversión en tokens SKLRM, posicionándose para el éxito futuro en la evolución de la economía Web3.",
+    "investNow": "Invertir ahora"
+  },
+  "section3": {
+    "title": "Potenciando el Crecimiento",
+    "subtitle": "A través de Asociaciones"
+  },
+  "section4": {
+    "title": "Sea parte de la visión: Conéctese para futuras pasantías",
+    "q1": "¿Busca iniciar su carrera en IA, Web3 e innovación en blockchain?",
+    "p1": "Aunque nuestro programa de pasantías no está abierto actualmente, siempre estamos ansiosos por conectarnos con estudiantes apasionados y futuros líderes que quieran ser parte del ecosistema de Skilleareum.",
+    "p2": "Póngase en contacto con nosotros para mantenerse informado sobre futuras vacantes, colaboraciones y formas de contribuir al viaje de Skilleareum. Juntos, estamos construyendo el futuro del aprendizaje de IA gamificado.",
+    "stayConnected": "Mantente conectado"
+  },
+  "section5": {
+    "title": "¡Gane con nosotros! Únase a nuestro programa de afiliados",
+    "description": "En Skilleareum, creemos que el crecimiento debe ser gratificante, no solo para nosotros, sino para cada socio que nos ayuda a construir el futuro de la educación impulsada por IA.",
+    "features": {
+      "highGrowth": "Mercado de alto crecimiento",
+      "unlimited": "Potencial de ganancias ilimitado",
+      "impact": "Ingresos pasivos impulsados por el impacto",
+      "milestone": "Bonos por hitos",
+      "referral": "Bono por referido directo",
+      "subscription": "Ganancias basadas en suscripciones"
+    },
+    "becomeAffiliate": "Hazte afiliado"
+  },
+  "section6": {
+    "title": "Ofertas de trabajo destacadas",
+    "applyBefore": "Aplicar antes de",
+    "jobTitle": "Diseñador de producto principal",
+    "jobDesc": "Únase a nuestro equipo como especialista en marketing por correo electrónico y lidere nuestros esfuerzos de alcance digital.",
+    "loading": "Cargando oportunidades... ¡Mantente atento!"
+  }
+}

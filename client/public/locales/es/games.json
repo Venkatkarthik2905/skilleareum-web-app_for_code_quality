@@ -1,0 +1,37 @@
+{
+  "ai_learning": {
+    "video_completed": "Video completado👏.",
+    "failed_to_complete": "Error al completar la misión.",
+    "ai_learning_for_the_day": "Aprendizaje de IA del día.",
+    "welcome_to_day": "Bienvenido al día {{day}}",
+    "day": "Día {{day}}",
+    "unlocks_in": "Se desbloquea en",
+    "play": "Jugar",
+    "completed": "COMPLETADO",
+    "video_day_label": "DÍA {{day}} | Video {{day}}",
+    "browser_no_support": "Su navegador no admite la etiqueta de video.",
+    "watched_full": "🎉 ¡Has visto el video completo!",
+    "reward_collected": "¡Recompensa recogida! 👏",
+    "failed_to_complete_try_again": "Error al completar la misión. Por favor, inténtelo de nuevo.",
+    "assessment": "Evaluación",
+    "submit": "ENVIAR",
+    "next": "SIGUIENTE",
+    "replay": "REPETIR",
+    "watch_fully_warning": "Vea el video completo para desbloquear la evaluación y ganar puntos de habilidad.",
+    "continue": "Continuar",
+    "exit_anyway": "Salir de todos modos",
+    "skill_points": "PUNTOS DE HABILIDAD",
+    "earned": "GANADOS",
+    "come_back_tomorrow": "VUELVE MAÑANA",
+    "try_again": "INTÉNTALO DE NUEVO",
+    "collect": "Recoger",
+    "exit": "Salir",
+    "ai_learning_history": "Historial de aprendizaje de IA",
+    "no_data_found": "No se encontraron datos",
+    "speak": {
+      "engage_tools": "Interactúa con estas herramientas para acumular puntos de habilidad",
+      "play_more": "Juega más, aprende más, gana más. ¡Adelante!",
+      "unlock_facts": "Desbloquea datos curiosos sobre IA: pasado, presente y futuro"
+    }
+  }
+}

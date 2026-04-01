@@ -1,0 +1,94 @@
+{
+  "intro": {
+    "title": "Personalisierte KI-Lernbewertung",
+    "description": "Machen Sie sich bereit, Ihren Lernstil, Ihren Denkansatz und Ihr KI-Wissen zu entdecken – alles in einem einfachen, geführten Ablauf.",
+    "start_button": "Bewertung starten",
+    "types": {
+      "vark": {
+        "title": "VARK",
+        "description": "Entdecken Sie, wie Sie am besten lernen: visuell, durch Zuhören, Lesen oder praktisch. Dies hilft uns, Ihnen Lernformate anzubieten, die für Sie wirklich funktionieren."
+      },
+      "cps": {
+        "title": "CSP",
+        "description": "Verstehen Sie Ihren kognitiven Prozess: wie Sie analysieren, lösen und interpretieren. Dies prägt, wie wir Sie durch die Aktivitäten führen."
+      },
+      "ai_knowledge": {
+        "title": "KI-Wissen",
+        "description": "Wir prüfen, was Sie bereits wissen, damit Sie auf dem richtigen Niveau beginnen. Kein Druck – nur kurze Fragen, um Ihr Erlebnis anzupassen."
+      }
+    },
+    "how_it_works": {
+      "title": "So funktioniert es",
+      "step1": "Gehen Sie kurze, szenariobasierte Fragen durch – jede konzentriert sich auf einen einzigartigen Aspekt Ihres Lernens und Denkens.",
+      "step2": "Schließen Sie alles in einem nahtlosen Ablauf ab. Es gibt kein Richtig oder Falsch: Jede Antwort prägt Ihren personalisierten Weg.",
+      "step3": "Ihre sofortigen Ergebnisse schalten eine maßgeschneiderte KI-Lernreise frei, die nur für Sie erstellt wurde."
+    },
+    "why_matters": {
+      "title": "Warum das wichtig ist",
+      "description": "Personalisiertes Lernen steigert nachweislich das Behalten und die Motivation."
+    },
+    "better_engagement": {
+      "title": "Besseres Engagement",
+      "description": "Sie erhalten Inhalte, die sich an Ihre Bedürfnisse anpassen und Ihr Interesse wachhalten – ohne Sie zu überfordern."
+    },
+    "faster_progress": {
+      "title": "Schnellerer Fortschritt",
+      "description": "Keine unnötigen Schritte. Keine Wiederholung dessen, was Sie bereits wissen."
+    },
+    "ready_to_start": "Bereit zum Start?",
+    "ready_subtitle": "Machen Sie die Bewertung und sehen Sie sofort Ihre personalisierten Empfehlungen.",
+    "vark_completed": "VARK abgeschlossen",
+    "cps_completed": "CSP abgeschlossen"
+  },
+  "common": {
+    "question_progress": "Frage {{current}} von {{total}}",
+    "next": "Weiter",
+    "previous": "Zurück",
+    "complete": "Abschließen",
+    "loading": "Bewertung wird geladen...",
+    "error_loading": "Bewertung konnte nicht geladen werden",
+    "submission_failed": "Übermittlung fehlgeschlagen",
+    "no_questions": "Keine Fragen verfügbar",
+    "submission_success": "Bewertung erfolgreich übermittelt!"
+  },
+  "journey_start": {
+    "title": "Personalisieren Sie Ihre Lernreise",
+    "cps_title": "Wie denken Sie und lösen Probleme?",
+    "ai_title": "KI-Wissenscheck",
+    "subtitle1": "Beantworten Sie ein paar kurze Fragen, damit wir das Lernen genau auf Sie zuschneiden können.",
+    "cps_subtitle": "Als Nächstes schauen wir uns an, wie Sie Informationen verarbeiten, an Herausforderungen herangehen und beim Lernen motiviert bleiben.",
+    "ai_subtitle": "Diese kurze Bewertung hilft uns zu verstehen, wie vertraut Sie derzeit mit KI sind. Ihre Antworten werden nur verwendet, um das Lernniveau und die Beispiele für Sie anzupassen.",
+    "choose_most_like_you": "Wählen Sie einfach das aus, was am ehesten auf Sie zutrifft.",
+    "ai_points": {
+      "point1": "Misst Ihren Lernstil, nicht Ihr Wissen",
+      "point2": "Multiple-Choice-Antworten",
+      "point3": "Antworten Sie basierend auf Ihrem aktuellen Verständnis",
+      "point4": "Einfache, szenariobasierte Fragen"
+    },
+    "start_problem_scenarios": "Problem-Szenarien starten",
+    "footer_note": "Ihre Antworten helfen uns, Ihr Erlebnis zu personalisieren.",
+    "subtitle2": "Machen Sie diese Bewertung, um Ihren KI-Lernstil zu entdecken"
+  },
+  "ui": {
+    "answer_is": "Antwort ist",
+    "attempted_questions": "Bearbeitete Fragen",
+    "continue": "Weiter",
+    "correct_answers": "Richtige Antworten",
+    "day": "Tag",
+    "double_tap": "Doppeltippen zum Umdrehen",
+    "false": "Falsch",
+    "gain_points": "Sammeln Sie Skill-Punkte für Ihr KI-Wissen",
+    "go_to_dashboard": "Zum Dashboard",
+    "loading": "Wird geladen...",
+    "next": "Weiter",
+    "no": "Nein",
+    "overall_result": "Gesamtergebnis",
+    "question_label": "Frage",
+    "skill_points": "Skill-Punkte",
+    "start_assessment": "Bewertung starten",
+    "submit": "Absenden",
+    "title": "KI Fähigkeiten Quest",
+    "true": "Richtig",
+    "yes": "Ja"
+  }
+}

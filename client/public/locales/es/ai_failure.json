@@ -1,0 +1,47 @@
+{
+  "rules": {
+    "title": "Cómo funciona la investigación",
+    "rule1": {
+      "title": "Lectura obligatoria",
+      "points": [
+        "Cada historia debe leerse por completo",
+        "Se aplica un tiempo mínimo de lectura o desplazamiento"
+      ]
+    },
+    "rule2": {
+      "title": "Pregunta de reflexión",
+      "points": [
+        "Una pregunta por historia: \"¿Por qué falló esta IA?\""
+      ]
+    },
+    "lets_begin": "Empecemos"
+  },
+  "game": {
+    "title": "Archivos de fallos de IA",
+    "failure_info": "Archivo de fallo {{current}} de {{total}}",
+    "question_header": "Análisis de caso {{number}}",
+    "submit_answer": "Enviar respuesta",
+    "correct_analysis": "Análisis correcto",
+    "incorrect": "Incorrecto",
+    "correct_answer": "Respuesta correcta: ",
+    "next_case": "SIGUIENTE CASO >>",
+    "view_results": "VER RESULTADOS >>",
+    "loading": "Cargando casos de fallos...",
+    "no_cases": "No hay casos de fallos disponibles.",
+    "claimed_redirect": "Has reclamado la recompensa. Redirigiendo...",
+    "submitting": "Enviando tus respuestas...",
+    "submitted": "¡Enviado con éxito!",
+    "submission_failed": "Error en el envío",
+    "network_error": "Error de red durante el envío",
+    "loading_error": "Error al cargar los estudios de caso. Inténtalo de nuevo."
+  },
+  "results": {
+    "title": "Investigación completada",
+    "cases_count": "{{score}}/{{total}} casos",
+    "all_analyzed": "Has analizado todos los casos de fallos de IA",
+    "strong_effort": "¡Buen esfuerzo! Queda un caso más.",
+    "good_start": "¡Buen comienzo! Sigue explorando para fortalecer tu comprensión.",
+    "get_started": "Empieza explorando tu primer caso de fallo de IA.",
+    "continue": "Continuar aprendiendo"
+  }
+}

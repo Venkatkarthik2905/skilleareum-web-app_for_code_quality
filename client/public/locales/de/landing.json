@@ -1,0 +1,152 @@
+{
+  "title": "Der intelligenteste Weg, KI zu lernen und sofortige Belohnungen zu verdienen",
+  "subtitle": "Die weltweit erste KI-Methode für spielerisches Lernen und incentiviertes Verdienen",
+  "description": "Gesteuert durch Zk-PoL und validiert durch das Smart Minting System",
+  "getStarted": "Erste Schritte",
+  "section2_title1": "Warum ",
+  "section2_title2": " für ",
+  "section2_title3": "Ihre „Incentivized Learning“-Reise wählen?",
+  "section2_cards": {
+    "play": {
+      "title": "Spielen",
+      "desc": "Erleben Sie tägliche Spannung durch interaktive Herausforderungen – vom Testen Ihres Glücks bei Spin to Win bis hin zu fesselnden Spielen wie Missing Letters, Jumble Letters, Perfect Match und Memory Game."
+    },
+    "learn": {
+      "title": "Lernen",
+      "desc": "Schalten Sie tägliche Einblicke durch KI-Fakten frei, arbeiten Sie mit echten Tools im AI Space und verbringen Sie 30 Tage damit, 30 unverzichtbare KI-Fachbegriffe mit einfachen, unterhaltsamen Bewertungen zu meistern."
+    },
+    "earn": {
+      "title": "Verdienen",
+      "desc": "Jede erledigte Aufgabe, jede gemeisterte Herausforderung und jeder Tag, an dem Sie teilnehmen, bringt Ihnen Skill Points (zukünftige SKLRM-Token) und sofortige Empfehlungsboni ein und gibt jedem Lernenden die Chance, Anstrengung in langfristige Belohnungen zu verwandeln."
+    },
+    "grow": {
+      "title": "Wachsen",
+      "desc": "Mit Beständigkeit kommt die Chance zu wachsen. Der tägliche Weg auf Ihrem personalisierten Lernpfad führt Sie von Grundlagenwissen zu fortgeschrittenem Verständnis und hilft Ihnen, KI-Fähigkeiten in dieser wettbewerbsorientierten, sich ständig verändernden Welt zu meistern."
+    },
+    "repeat": {
+      "title": "Wiederholen",
+      "desc": "Das Wachstum hört nicht auf, wenn Sie Fortschritte gemacht haben. Um an der Spitze zu bleiben und den Schwung beizubehalten, bleiben Sie über unsere neuesten Herausforderungen, neuen Updates sowie unsere sich entwickelnde Community von Mitlernern auf dem Laufenden."
+    },
+    "whatsNext": {
+      "title": "Was kommt als Nächstes?",
+      "desc": "Dies ist erst der Anfang. Machen Sie sich bereit für NFT-basiertes Lernen, fortgeschrittene Lernmodule und noch größere Belohnungen, die Ihnen helfen, an der Spitze zu bleiben."
+    }
+  },
+  "section3_title": "Zukünftige Vorteile (SKLRM-Token)",
+  "section3_benefits": {
+    "1": "Zugriff auf Premium-Funktionen, fortgeschrittene KI-Kurse und KI-Tools.",
+    "2": "Staken von Token, um Belohnungen und andere zusätzliche Vorteile zu verdienen.",
+    "3": "Prägen von Brainery NFTs, die Bildungsleistungen oder Ressourcen repräsentieren.",
+    "4": "Primärwährung für Transaktionen und Zahlungen innerhalb der Plattform nach der Veröffentlichung.",
+    "5": "Abstimmung über Plattformentscheidungen, Schaffung eines dezentralen Governance-Modells. (Nur für Token-Inhaber)"
+  },
+  "section4": {
+    "activeUsers": "{{count}} Aktive Benutzer",
+    "rewardedText": "Über {{amount}} Skill Points wurden bereits vergeben."
+  },
+  "section5": {
+    "tasks": {
+      "title1": "Erledigen Sie die",
+      "title2": "Aufgaben",
+      "subtitle": "Täglich spielen. Mehr verdienen.",
+      "desc": "Skilleareum macht KI-Lernen unterhaltsam, lohnend und zu einem Teil Ihres Alltags. In unserer Telegram Mini App geht es darum, täglich dabei zu sein und echten Wert freizuschalten, während Sie Ihre Fähigkeiten schärfen. Hier ist, was Sie erwartet:",
+      "games": {
+        "spin": "Drehen und Gewinnen,",
+        "missing": "Fehlende Buchstaben,",
+        "jumble": "Buchstaben mischen,",
+        "match": "Perfektes Match,",
+        "memory": "Gedächtnisspiel"
+      },
+      "cta": "Jetzt erkunden"
+    },
+    "skills": {
+      "title1": "Entwickeln Sie Ihre",
+      "title2": "Fähigkeiten",
+      "desc1": "Bei Skilleareum ist der Aufbau von Fähigkeiten nicht nur eine Option — er ist Teil Ihrer täglichen Reise. Durch fesselnde Herausforderungen, praktische Aufgaben und personalisierte Lernpfade verbessern Sie Ihr KI-Wissen Tag für Tag.",
+      "desc2": "Vom Meistern von KI-Fakten bis zum Absolvieren täglicher Skill Quests und dem Erkunden praktischer Tools im AI Space ist jeder Schritt darauf ausgelegt, Ihnen zu helfen, in der Welt der KI klüger, schneller und stärker zu werden — ganz ohne Programmierung.",
+      "cta": "Fähigkeiten entwickeln"
+    },
+    "rewards": {
+      "title1": "Schalten Sie Echtzeit-",
+      "title2": "Belohnungen frei",
+      "desc1": "Jede Handlung ist eine Chance, und sehen Sie zu, wie sich Ihre Bemühungen in echte Krypto-Belohnungen verwandeln.",
+      "desc2": "Während Sie Ihre Fähigkeiten entwickeln, verdienen Sie echte Skill Points, schalten Krypto-Belohnungen frei und verwandeln Ihr Engagement in SKLRM-Token, die weit über die Plattform hinaus Wert besitzen. Klettern Sie außerdem in der Bestenliste nach oben und nehmen Sie an exklusiven Wettbewerben und Events teil, um Bonus-Belohnungen freizuschalten. Je aktiver Sie sind, desto mehr verdienen Sie — so einfach ist das.",
+      "cta": "Belohnungen verdienen"
+    },
+    "referral": {
+      "title1": "Freunde & Familie",
+      "title2": "empfehlen",
+      "desc1": "Bei Skilleareum kommt Ihr Wachstum nicht nur Ihnen zugute — es bezahlt Sie auch. Laden Sie Ihre Freunde mit Ihrem persönlichen Empfehlungslink aus der Mini-App ein, vergrößern Sie die Community und sehen Sie zu, wie Ihre USDT-Belohnungen durch unser Echtzeit-Empfehlungssystem zusammen mit Bonus-Skill Points sofort eintreffen!",
+      "desc2": "Dies ist mehr als nur Teilen. Es geht darum, eine Gemeinschaft aufzubauen, in der jeder verdient, und Sie werden sofort dafür belohnt, dass Sie dies ermöglichen.",
+      "cta": "Freund empfehlen"
+    }
+  },
+  "section6": {
+    "title": "KI auf Ihre Weise lernen",
+    "genesisTitle": "KI Genesis",
+    "subscriptionPrice": "$15 Abonnement"
+  },
+  "section7": {
+    "incentivizedGaming": "Anreizbasiertes Spielen",
+    "more": "+Mehr",
+    "earlyAdopters": "Frühe Anwender",
+    "adoptersDesc": "Im November 2024 mit Tausenden von Benutzern an Bord gestartet, entwickelt sich das Ökosystem jeden Tag weiter.",
+    "telegramApp": "Telegram APP",
+    "telegramDesc": "Alle Vorteile des Web3-gestützten, incentivierten Lernens, jetzt verfügbar bei Telegram – dort, wo Sie bereits chatten, netzwerken und sich verbinden. Es ist leichtgewichtig, sofort einsatzbereit und für Benutzer konzipiert, die KI-Bildung unterwegs nutzen möchten — ohne schwere Apps oder komplizierte Systeme.",
+    "experienceNow": "JETZT erleben",
+    "telegramFooter": "Ihre Reise zum Skillionaire beginnt mit nur einem Klick innerhalb von Telegram."
+  },
+  "section9": {
+    "title": "Das sagt unser Team",
+    "team": {
+      "manju": {
+        "job": "CEO & Mitbegründer, Skilleareum",
+        "desc": "Stolz darauf, Bildung als eine grenzenlose, spielerische Reise neu zu definieren, bei der Fähigkeiten durch zk-Proof of Learning und Smart Minting zu echtem Wert werden."
+      },
+      "hudson": {
+        "job": "CMO & Mitbegründer, Skilleareum",
+        "desc": "Skilleareum ist eine KI-gesteuerte Web3-Plattform, auf der Benutzer gefragte Fähigkeiten erlernen, auf KI-gestützte Möglichkeiten zugreifen und Krypto-Belohnungen verdienen, während sie eine lebenslange Lerngemeinschaft fördern."
+      },
+      "sakthi": {
+        "job": "Chefmentor, Skilleareum",
+        "desc": "Skilleareum nutzt KI-gestützte personalisierte Lernpfade, um Benutzern zu helfen, ihre Fähigkeiten zu verbessern, in neuen Technologien führend zu bleiben und Belohnungen durch fähigkeitsbasierte Herausforderungen und Bewertungen zu verdienen."
+      },
+      "anup": {
+        "job": "CTO",
+        "desc": "Skilleareum macht das Lernen durch KI-gesteuerte Quizze, reale Projekte und On-Chain-Belohnungen spielerisch und sorgt dafür, dass der Aufbau von Fähigkeiten ansprechend und lohnend ist."
+      },
+      "dinesh": {
+        "job": "Smart Contract Entwickler",
+        "desc": "Skilleareum bringt Studenten, Mentoren und Branchenexperten zusammen und fördert die Zusammenarbeit, den Wissensaustausch und den beruflichen Aufstieg in einem dezentralen Raum."
+      },
+      "mani": {
+        "job": "Leitender Entwickler",
+        "desc": "Skilleareum definiert KI-Lernen neu, indem es Einzelpersonen ermöglicht, durch ein interaktives, belohnungsbasiertes globales Ökosystem an ihrem Fachwissen zu verdienen."
+      }
+    }
+  },
+  "section10": {
+    "learningHub": "Skilleareum KI Lern-HUB",
+    "gamifiedLearning": "Spielerisches Lernen",
+    "learnerA": "KI-Lernender A",
+    "learnerB": "KI-Lernender B",
+    "walletConnectivity": "Wallet-Konnektivität",
+    "tokenPurchase": "Token-Kauf",
+    "subscribesPackages": "Abonniert KI-Pakete",
+    "playLearn": "Spielen & Lernen",
+    "smartMinting": "Smart Minting System ZK - Proof of Learning",
+    "repeat": "Wiederholen",
+    "incentivizedEarning": "Incentiviertes Verdienen",
+    "web3Contributors": "Web 3 KI-Mitwirkende",
+    "toolDeveloper": "KI-Tool-Entwickler & Tool-Listing",
+    "contentCreator": "KI-Content-Ersteller",
+    "aiSme": "KI-Experte (SME)",
+    "aiTool": "KI-Tool",
+    "aiCourse": "KI-Kurs",
+    "mentorship": "Mentoring | Validator",
+    "grow": "Wachsen",
+    "contributorDesc": "Vom KI-Lernenden zum Skilleareum-Mitwirkenden",
+    "claimRewards": "Belohnungen beanspruchen",
+    "earn": "Verdienen"
+  }
+}

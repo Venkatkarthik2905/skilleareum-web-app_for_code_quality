@@ -1,0 +1,650 @@
+{
+  "voiceCommands": {
+    "navigatingTo": "Navigating to {{page}}",
+    "dashboard": "Dashboard",
+    "dailyBonus": "Daily Bonus",
+    "funAndLearn": "Fun and Learn",
+    "inviteSection": "Invite Section",
+    "wallet": "Wallet"
+  },
+  "referral": {
+    "message": "🌟 Welcome to Skilleareum! 🚀\n\nLearn, Earn, Grow & Repeat.\n\nStep into the Future of AI Learning & Earning!\n\n🎁 Join now and earn 1000 SkillPoints!\n🤝 Invite friends & get referral bonuses.\n📲 Complete social media quests for daily rewards!\n🎮 Level up your AI skills and become a Knowledge Champion!\n\nJoin Skilleareum and start your AI Learning journey today! 🚀✨"
+  },
+  "joyride": {
+    "skillpoints": "🎉 Track Your Skill Points & Progress",
+    "farming": "👤 Boost & Upgrade Your Learning Rewards 📈",
+    "topfeatures": "🎡 Access Top Features to AI Games, AI Tools, and Learning Modules here💰",
+    "spin": "🏆Spin the Lucky Wheel & Win Skill Points, Crypto Rewards & much more daily! 📊",
+    "skillquest": "🌱 Test & Prove Your Knowledge on AI, Gain 350 Skill Points for completing AI-Skill assessment 🌾",
+    "refbonus": "⚡ Refer your Friends to Get Bonus Skill Points and an instant 20% referral bonus as USDT 🚀"
+  },
+  "farming": {
+    "title": "AI Farming",
+    "lv": "LV.{{level}}",
+    "boost": "boost",
+    "upgrade": "upgrade",
+    "start": "Start Farming",
+    "status": {
+      "claimed": "Skill points claimed",
+      "wrongAnswer": "Wrong answer"
+    },
+    "earned": "Earned",
+    "farm": "Farm",
+    "startNow": "Start Farming Now!",
+    "upgradeNow": "Upgrade Now!",
+    "boostNow": "Boost Now!",
+    "goToFarm": "Go To Farm",
+    "harvestIn": "Harvest In",
+    "hrs": "Hrs",
+    "mins": "Mins",
+    "secs": "Secs",
+    "aiTrivia": "AI Trivia"
+  },
+  "stats": {
+    "tasks": "{{count}} tasks",
+    "completed": "{{count}} Completed"
+  },
+  "promos": {
+    "welcome": "Welcome, Your journey starts Here",
+    "subPackages": "Subscription Packages",
+    "aiGenesis": "Ai Genesis",
+    "off": "50% OFF"
+  },
+  "buttons": {
+    "track": "Track",
+    "subscribe": "Subscribe",
+    "connected": "Connected",
+    "upgrade": "upgrade"
+  },
+  "features": {
+    "title": "TOP features",
+    "spinToWin": "Spin to win",
+    "aiSkillQuest": "AI Rapid Fire Quest",
+    "referralBonus": "Referral Bonus",
+    "walletConnect": "Wallet Connect"
+  },
+  "sidebar": {
+    "menu": "MENU",
+    "home": "Home",
+    "dailyBonus": "Daily Bonus",
+    "aiGame": "AI Game",
+    "invite": "Invite",
+    "rewards": "Rewards",
+    "profile": "Profile"
+  },
+  "logout": {
+    "confirmTitle": "Confirm Logout",
+    "confirmMessage": "Are you sure you want to log out?",
+    "cancel": "Cancel",
+    "confirm": "Yes, Logout"
+  },
+  "skinChange": {
+    "titlePrefix": "Mascot",
+    "titleSuffix": "Skin Change",
+    "description": "Tap & Hold to change your mascot skin now.",
+    "buttons": {
+      "skip": "skip",
+      "select": "select",
+      "back": "Back",
+      "confirm": "Confirm"
+    },
+    "errors": {
+      "transitionNotFound": "Unable to find the transition for the selected video",
+      "confirmSelection": "Please confirm your selection"
+    }
+  },
+  "dailyReward": {
+    "title": "Daily Active Bonus",
+    "day": "Day {{day}}",
+    "claimed": "Claimed",
+    "skillPoints": "Skill points",
+    "claimedOn": "Claimed on: {{date}}",
+    "availableOn": "Available on: {{date}}",
+    "consecutiveBonus": "(7 Days Participation Consecutive Bonus)",
+    "tomorrowMessage": "Come back tomorrow! Your reward is waiting!",
+    "toastClaimed": "Day {{day}} Skill Point Claimed....."
+  },
+  "aiFarming": {
+    "level": "Farming Level",
+    "boost": "Boost",
+    "claim": "Claim",
+    "claiming": "Claiming...",
+    "errors": {
+      "failedToClaim": "Failed to claim rewards"
+    }
+  },
+  "boost": {
+    "title": "Choose Your Plan",
+    "expiresIn": "Expires In",
+    "pointsPerHour": "{{points}} Skill Points per hour",
+    "confirmTitle": "Are you Sure?",
+    "yes": "YES",
+    "no": "NO"
+  },
+  "upgrade": {
+    "title": "Upgrade",
+    "hours": "+{{time}}hrs",
+    "upgraded": "Upgraded",
+    "buyFor": "Buy For",
+    "description": "Get extra {{time}} hours for farming!",
+    "alreadyUpgraded": "Already Upgraded",
+    "upgradeNow": "Upgrade Now",
+    "scrollOptions": "Scroll for more options.",
+    "confirmTitle": "Apply interval of {{amt}} ?",
+    "yes": "YES",
+    "no": "NO"
+  },
+  "toasters": {
+    "comeBackTomorrow": "Come back tomorrow! 🌟",
+    "taskAlreadyCompleted": "You have already completed this task!"
+  },
+  "profile": {
+    "title": "Profile",
+    "avatarTitle": "Select an Avatar",
+    "categoryLabel": "Category",
+    "categoryValue": "Skill Learner",
+    "emailLabel": "Email id",
+    "emailAdd": "Add your email✎",
+    "emailChecking": "Check your email",
+    "emailPlaceholder": "Enter email",
+    "emailSame": "Same email.",
+    "emailInvalid": "Invalid email format",
+    "mailSent": "Mail Sent successfully",
+    "verifiedSuccessfully": "Verified Successfully",
+    "xUsernameLabel": "X Username",
+    "usernamePrompt": "Username✎",
+    "usernameEnter": "Enter your username",
+    "usernameAdded": "Username added...",
+    "updating": "Updating..",
+    "featuresTitle": "Features",
+    "aiMascotSkin": "AI Mascot Skin",
+    "leaderboard": "Leaderboard",
+    "tooltipCopy": "Click here to copy",
+    "tooltipCopied": "Copied!",
+    "unfreezAccount": "Unfreez Account",
+    "claimRewards": "Claim Rewards",
+    "music": "Music",
+    "soundFXs": "Sound FXs"
+  },
+  "invite": {
+    "title": "Invite Friends & Family!",
+    "subtitle": "You and your Friend will Receive Referral Skill Points",
+    "joyride": "Multiply Your Earnings with Every Referral",
+    "reward1": "Refer Reward #01",
+    "reward2": "Refer Reward #02",
+    "skillPoints": "skill points",
+    "reward1Desc": "Skill Points for you and your F/F Joined",
+    "reward2Desc": "Additional Skill Points for every 5 F&F Joined",
+    "button": "INvite friends",
+    "copied": "Copied",
+    "listTitle": "My F&F List",
+    "showMore": "Show More",
+    "showLess": "Show Less",
+    "noReferrals": "No F&F Referred"
+  },
+  "rewards": {
+    "title": "My rewards",
+    "walletLabel": "Wallet Address",
+    "breakdownTitle": "Value Breakdown",
+    "totalValueLabel": "Total Asset Value",
+    "liveFundsTitle": "Live Funds",
+    "liveFundsDesc": "Select the asset you wish to withdraw.",
+    "frozenFundsTitle": "Frozen Funds",
+    "frozenFundsDesc": "Subscribe to withdraw these funds.",
+    "noData": "No data available",
+    "messagesTitle": "Messages",
+    "noMessages": "No messages available",
+    "markAsRead": "Mark as Read",
+    "readed": "Readed",
+    "releasingSoon": "Releasing soon...",
+    "total": "Total",
+    "close": "Close",
+    "transactionHistory": "Transaction History",
+    "subscribeNow": "Subscribe now"
+  },
+  "leaderboard": {
+    "title": "Leaderboard",
+    "joyride": "Track Your Ranking Amongst Top Learners.",
+    "tabs": {
+      "dailyChallenge": "Daily Challenge",
+      "inviteFandF": "Invite F&F",
+      "skillPoints": "Skill Points"
+    },
+    "stats": {
+      "dailyStreak": "Daily Streak",
+      "referrals": "Referrals",
+      "skillPoints": "Skill Points",
+      "days": "Days",
+      "claims": "Claims"
+    },
+    "rankSuffix": {
+      "st": "st",
+      "nd": "nd",
+      "rd": "rd",
+      "th": "th"
+    },
+    "youSuffix": " (You)",
+    "day": "Day",
+    "days": "Days"
+  },
+  "dailyBonus": {
+    "title": "Daily Bonus",
+    "socialMediaMission": "Social Media Mission",
+    "showMore": "Show More",
+    "showLess": "Show Less",
+    "followX": "Follow Our X Account",
+    "joinTelegram": "Join Telegram Channel",
+    "addEmailTask": "Add your email",
+    "inviteFriends": "Invite 5 friends",
+    "inviteNextFriends": "Invite next 5 friends",
+    "skillQuestDay": "AI Skill Quest Day {{day}}",
+    "repostX": "X Repost {{date}}",
+    "expired": "Expired",
+    "repostAndEarn": "Repost and earn",
+    "goToPost": "Go to Post",
+    "recentActivity": "Recent Activity",
+    "noActivityFound": "No Activity Found",
+    "pointsAwarded": "Points awarded",
+    "collect": "Collect",
+    "explore": "explore",
+    "joinTelegramTitle": "Join our Telegram channel",
+    "joinXTitle": "Join our X channel",
+    "startAssessmentTitle": "Start your Assessment",
+    "startNow": "Start Now",
+    "joinNow": "Join Now",
+    "claimNow": "Claim Now",
+    "claimed": "Claimed",
+    "claim": "Claim",
+    "dayLabel": "DAY",
+    "activeBonus": "Daily active bonus",
+    "farming": "Farming",
+    "addEmail": {
+      "title": "Enter Details",
+      "emailLabel": "Email",
+      "emailPlaceholder": "Enter User Email",
+      "submit": "Submit",
+      "submitting": "Submitting..."
+    },
+    "toasters": {
+      "nextAssessment": "The next assessment will be available after 24 hours.",
+      "bonusClaimed": "Active bonus claimed.",
+      "addUsername": "Add username to claim.",
+      "mailSent": "Mail Sent successfully",
+      "errorUpdatingMail": "Error updating mail",
+      "errorCheckingEmail": "Error checking email existence"
+    },
+    "referralBonuses": {
+      "bonus5": "Referral Bonus 5",
+      "bonus5Desc": "You have received a referral bonus for 5",
+      "bonus10": "Referral Bonus 10",
+      "bonus10Desc": "You have received a referral bonus for 10",
+      "bonus25": "Referral Bonus 25",
+      "bonus25Desc": "You have received a referral bonus for 25",
+      "bonus50": "Referral Bonus 50",
+      "bonus50Desc": "You have received a referral bonus for 50",
+      "bonus100": "Referral Bonus 100",
+      "bonus100Desc": "You have received a referral bonus for 100"
+    }
+  },
+  "aiGames": {
+    "title": "Tap and Earn",
+    "farming": {
+      "title": "Skill AI Farming",
+      "subtitle": "Farm daily & earn more",
+      "button": "Activate"
+    },
+    "tap2Learn": {
+      "title": "AI Tap2Learn",
+      "subtitle": "Tap anytime & Learn daily",
+      "button": "let's play",
+      "rules": {
+        "howItWorks": "How This Challenge Works",
+        "letsBegin": "Let's Begin",
+        "missingLetters": {
+          "title": "Missing Letters Rules",
+          "rule1Title": "Find the Letters",
+          "rule1Point1": "Identify and fill in the missing letters to complete the word",
+          "rule3Title": "Time Limit",
+          "rule3Point1": "Easy: 90 seconds",
+          "rule3Point2": "Medium: 60 seconds",
+          "rule3Point3": "Hard: 30 seconds",
+          "rule4Title": "Use Clues Wisely",
+          "rule4Point1": "Read the clues carefully to help identify the correct word"
+        },
+        "jumbledLetters": {
+          "title": "Jumbled Letters Rules",
+          "rule1Title": "Unscramble the Word",
+          "rule1Point1": "Letters are mixed up - tap them in the correct order to form the word",
+          "rule2Title": "Use the Clue",
+          "rule2Point1": "Tap the hint button to see an image clue if you need help",
+          "rule3Title": "Time Limit",
+          "rule3Point1": "Easy: 90 seconds",
+          "rule3Point2": "Medium: 60 seconds",
+          "rule3Point3": "Hard: 30 seconds",
+          "rule4Title": "Complete the Word",
+          "rule4Point1": "Fill all boxes with correct letters to win and move to the next level"
+        },
+        "perfectMatch": {
+          "title": "Perfect Match Rules",
+          "rule1Title": "Match in Order",
+          "rule1Point1": "Tap letters in the exact sequence to match the hidden word",
+          "rule2Title": "Get It Right",
+          "rule2Point1": "Each letter must match the correct position - wrong letters won't be accepted",
+          "rule3Title": "Time Limit",
+          "rule3Point1": "Easy: 90 seconds",
+          "rule3Point2": "Medium: 60 seconds",
+          "rule3Point3": "Hard: 30 seconds",
+          "rule4Title": "Use Tools Wisely",
+          "rule4Point1": "Use undo, restart, or hint buttons if needed - complete before time runs out"
+        },
+        "memoryGame": {
+          "title": "Memory Game Rules",
+          "rule1Title": "Flip & Match",
+          "rule1Point1": "Flip cards to reveal and find matching pairs",
+          "rule2Title": "Time Limit",
+          "rule2Point1": "Complete the grid within the time limit",
+          "rule3Title": "Remember Positions",
+          "rule3Point1": "Keep track of card positions to make matches"
+        },
+        "default": {
+          "title": "Game Rules"
+        }
+      },
+      "levels": {
+        "title": "CHOOSE",
+        "easy": "EASY",
+        "medium": "MEDIUM",
+        "hard": "HARD",
+        "next": "NEXT",
+        "errorSelect": "Select a level to continue",
+        "noQuestions": "No more questions for today"
+      },
+      "games": {
+        "playAndLearn": "PLAY & LEARN",
+        "missingLetters": "Missing Letters",
+        "jumbleLetters": "Jumble Letters",
+        "perfectMatch": "Perfect Match",
+        "memoryGame": "Memory Game",
+        "play": "PLAY",
+        "chooseAny": "Choose any Games"
+      },
+      "common": {
+        "areYouSure": "Are you Sure?",
+        "yes": "Yes",
+        "no": "No",
+        "wordHint": "word hint",
+        "resume": "RESUME",
+        "timer": "TIMER",
+        "music": "Music",
+        "learnAndEarn": "learN & earn",
+        "collect": "COLLECT",
+        "tap": "TAP",
+        "skillPoints": "SKIll points",
+        "earned": "EARNED",
+        "exit": "EXIT",
+        "retry": "RETRY",
+        "next": "NEXT"
+      },
+      "memoryGame": {
+        "summary": "game summary",
+        "info": "game info",
+        "matchPair": "Match the relevant pair from the grid and keep learning as you play everyday.",
+        "letsPlay": "Let’s play!",
+        "categories": {
+          "title": "choose",
+          "mascot": "AI mascot",
+          "logos": "AI logos",
+          "letter": "AI letter",
+          "learning": "AI learning",
+          "funMatch": "AI FUN MATCH"
+        },
+        "errors": {
+          "selectGrid": "Please select a grid type first!"
+        }
+      }
+    },
+    "emoji": {
+      "title": "AI Emoji",
+      "subtitle": "Tap Emoji & Learn daily",
+      "gameTitle": "Guess the Emoji Name",
+      "button": "let's play",
+      "correctAnswer": "Correct Answer is",
+      "aiExample": "AI Example:",
+      "next": "Next emoji",
+      "retry": "Retry",
+      "submit": "submit",
+      "taskCompleted": "Task Completed 👏",
+      "selectOption": "Select an option"
+    },
+    "spinWheel": {
+      "title": "Spin To Win",
+      "spinsLeft": "Spins left :",
+      "buttonSpin": "SPIN",
+      "buttonSubscribe": "SUBSCRIBE",
+      "descriptionSubscribe": "subscribe now to unlock more spins and earn rewards daily.",
+      "prizes": {
+        "extraSpin": "Extra Spin",
+        "points500": "500 Skill Points",
+        "points1000": "1000 Skill Points",
+        "betterLuck": "Better luck next time",
+        "luckyDraw": "Lucky draw entry",
+        "aiFact": "AI Fact bonus",
+        "genesisDiscount": "50% off- AI Genesis program"
+      },
+      "descriptions": {
+        "aiFact": "Double your AI Fact points—claim within 1 hour!",
+        "luckyDraw": "Monthly Lucky Draw Entry – 10% of participants receive bonus SKLRM airdrops!",
+        "genesisDiscount": "50% Off – AI Genesis Program (valid for 1 week from onboarding; auto-expires from spin after that)"
+      },
+      "toasters": {
+        "outOfSpins": "😕 Out of spins!",
+        "limitExceeded": "Spin limit exceeded or user not found."
+      }
+    },
+    "tapToSet": {
+      "title": "Tap to Set",
+      "subtitle": "Tap anytime & earn daily",
+      "button": "coming soon"
+    }
+  },
+  "subscription": {
+    "packagesTitle": "Subscription Packages",
+    "aiGenesis": "Ai Genesis",
+    "blockLiteAlt": "Block Lite ALT",
+    "title": "Subscription",
+    "madeEasy": "We Made Learning - AI Easy For You",
+    "aiGenesisCaps": "AI GENESIS",
+    "chooseToken": "Choose a token",
+    "dailySpin": "Daily Spin",
+    "exploreSkillGame": "Explore Skill Game",
+    "startJourneyUpper": "START YOUR JOURNEY",
+    "subscribe": "SUBSCRIBE"
+  },
+  "pilot": {
+    "levels": {
+      "apprentice": "AI APPRENTICE",
+      "genesis": "AI GENESIS",
+      "lite": "AI LITE",
+      "pro": "AI PRO",
+      "master": "AI MASTER",
+      "elite": "AI ELITE"
+    },
+    "completeTasks": "Complete tasks to earn rewards and progress through your journey.",
+    "skillPoints": "Skill Points",
+    "skillionaireBadge": "Skillionaire Badge",
+    "aiExplorerBadge": "AI Explorer Badge",
+    "aiMastery": "AI Mastery",
+    "completeMastery": "Complete your AI mastery path",
+    "path": "Path"
+  },
+  "common": {
+    "comingSoon": "Coming Soon",
+    "launch": "Launch",
+    "claim": "Claim"
+  },
+  "tasks": {
+    "letsGo": "LET’S GO",
+    "list": {
+      "1": {
+        "title": "AI FlashLearn",
+        "desc": "Watch a 1-minute video and answer a question right to earn 120 Skill Points."
+      },
+      "2": {
+        "title": "AI RapidFire Quest",
+        "desc": "Complete your daily AI quest to earn 350 SP."
+      },
+      "3": {
+        "title": "AI Word Forge",
+        "desc": "Build AI Words at the Speed of Thought and earn 160 SP."
+      },
+      "4": {
+        "title": "AI Term Scramble",
+        "desc": "Reconstruct AI terms from scrambled letters and earn 160 SP."
+      },
+      "5": {
+        "title": "AI Concept Match",
+        "desc": "Match AI terms, symbols, or concepts and earn 200 SP."
+      },
+      "6": {
+        "title": "AI Memory Grid",
+        "desc": "Remember. Recall. Respond. Earn 200 SP."
+      },
+      "7": {
+        "title": "AI Insight Vault",
+        "desc": "Enhance your AI knowledge with facts and insights, earning 180 SP."
+      },
+      "8": {
+        "title": "AI Symbol Decode",
+        "desc": "Solve the emoji puzzle and earn 240 Skill Points (120 for each Word)"
+      },
+      "9": {
+        "title": "AI StoryLens",
+        "desc": "Read the quick 1-minute blog to understand the concept and earn 220 SP."
+      },
+      "10": {
+        "title": "AI Tool Missions",
+        "desc": "Follow the instruction given and use the AI tool to earn 500 Skill Points."
+      },
+      "11": {
+        "title": "AI Myth Breaker",
+        "desc": "Challenge false Beliefs and earn 150 SP."
+      },
+      "12": {
+        "title": "AI Failure Files",
+        "desc": "Learn AI by Understanding Where It Went Wrong and earn 280 SP."
+      },
+      "13": {
+        "title": "AI Tool Arena",
+        "desc": "Choose the Right Tool. Win the Battle. Earn 400 SP."
+      }
+    }
+  },
+  "challengeMap": {
+    "unlocksIn": "Unlocks in",
+    "claimBadge": "Claim your badge",
+    "welcomeDay": "Welcome to Day {{day}}",
+    "adventureBegins": "🎮 Your adventure begins here.",
+    "welcomeTo": "WELCOME TO",
+    "hereIsYour": "HERE IS YOUR",
+    "thirtyDaysChallenge": "30 DAYS CHALLENGE",
+    "dayMessages": {
+      "1": {
+        "title": "Welcome, Skillionaire! 🌟",
+        "message": "Your adventure begins now.",
+        "cta": ""
+      },
+      "2": {
+        "title": "Day 1? Conquered! 🔥",
+        "message": "Challenge yourself again, today’s level is ready!",
+        "cta": "Keep Going! 💪"
+      },
+      "3": {
+        "title": "Three steps closer to success.",
+        "message": "Stay focused!",
+        "cta": ""
+      },
+      "4": {
+        "title": "🏞️ Halfway Hero!",
+        "message": "You’re doing amazing. Tackle today’s challenge and make it count.",
+        "cta": ""
+      },
+      "5": {
+        "title": "🌱 You’re a Natural!",
+        "message": "Only a few more to go!",
+        "cta": ""
+      },
+      "6": {
+        "title": "🚀 So Close!",
+        "message": "You’re almost at the top. Let’s finish strong!",
+        "cta": ""
+      },
+      "7": {
+        "title": "🏆 Final Step!",
+        "message": "You’ve come so far. Claim your victory!",
+        "cta": ""
+      }
+    },
+    "activitiesCompleted": "Successfully you completed all 13 activities today!",
+    "seeYouTomorrow": "SEE YOU TOMORROW"
+  },
+  "tasksIntro": {
+    "instruction": "Start with the first task (number 1) and move forward, completing each task in order.",
+    "skillPointsEarned": "SKILL POINTS are earned for each Completed task.",
+    "treasureChests": "and don't forget treasure chests await if you want to extra rewards !"
+  },
+  "accomplished": {
+    "title": "Mission Accomplished,",
+    "subtitle": "Skillionaire!",
+    "youVe": "You’ve",
+    "completedMissions": "Completed - Missions and Challenges",
+    "earnedPoints": "Earned skill points while learning smarter than ever before",
+    "teaserTitle": "But what if we told you...",
+    "teaserDesc": "You’ve only scratched the surface of what you’re capable of?",
+    "continue": "continue"
+  },
+  "earned": {
+    "title": "YOU'VE PLAYED. YOU'VE EARNED.",
+    "claimTitle": "NOW, IT’S TIME TO CLAIM YOUR SEAT IN THE AI-POWERED FUTURE WITH <1>AI GENESIS</1>",
+    "items": {
+      "dailyQuests": "DAILY AI QUESTS",
+      "learnWithGames": "LEARN WITH GAMES",
+      "aiLearning": "AI LEARNING",
+      "factVault": "AI FACT VAULT",
+      "emojiGame": "AI EMOJI GAME",
+      "visualBlogs": "AI VISUAL BLOGS",
+      "aiSpace": "AI SPACE",
+      "spinWheel": "SPIN THE WHEEL.",
+      "farming": "AI FARMING.",
+      "referral": "REFERRAL BONUS"
+    },
+    "next": "next",
+    "aiGenesis": "AI GENESIS"
+  },
+  "unlockGenesis": {
+    "title": "UNLOCK AI GENESIS",
+    "price": "JUST $15/MONTH",
+    "provenCurious": "YOU’VE PROVEN YOU’RE NOT JUST CURIOUS,",
+    "committed": "YOU’RE COMMITTED.",
+    "tapToUpgrade": "TAP TO UPGRADE",
+    "futureWait": "BECAUSE THE FUTURE DOESN’T WAIT—AND NEITHER SHOULD YOU.",
+    "unlockBtn": "unlock ai GENESIS"
+  },
+  "badge": {
+    "youVeEarned": "YOU'VE EARNED",
+    "yourFirstBadge": "YOUR FIRST BADGE",
+    "badgeName": "AI EXPLORER!"
+  },
+  "home": "Home",
+  "aboutUs": "About Us",
+  "community": "Community",
+  "whitepaper": "Whitepaper",
+  "contactUs": "Contact Us",
+  "signIn": "Sign In",
+  "welcomeTo": "Welcome to",
+  "getStarted": "Get Started",
+  "hiIAmYourSkillGene": "Hi, I am your Skill Genie!",
+  "auth": {
+    "newPassword": "New Password",
+    "confirmNewPassword": "Confirm New Password"
+  }
+}

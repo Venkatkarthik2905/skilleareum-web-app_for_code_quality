@@ -1,0 +1,650 @@
+{
+  "voiceCommands": {
+    "navigatingTo": "Navegando a {{page}}",
+    "dashboard": "Panel de control",
+    "dailyBonus": "Bono diario",
+    "funAndLearn": "Diversión y aprendizaje",
+    "inviteSection": "Sección de invitación",
+    "wallet": "Billetera"
+  },
+  "referral": {
+    "message": "🌟 ¡Bienvenido a Skilleareum! 🚀\n\nAprende, Gana, Crece y Repite.\n\n¡Entra en el futuro del aprendizaje y las ganancias de IA!\n\n🎁 ¡Únete ahora y gana 1000 SkillPoints!\n🤝 Invita a tus amigos y obtén bonos por recomendación.\n📲 ¡Completa misiones de redes sociales para obtener recompensas diarias!\n🎮 ¡Sube de nivel tus habilidades de IA y conviértete en un campeón del conocimiento!\n\n¡Únete a Skilleareum y comienza tu viaje de aprendizaje de IA hoy mismo! 🚀✨"
+  },
+  "joyride": {
+    "skillpoints": "🎉 Sigue tus puntos de habilidad y progreso",
+    "farming": "👤 Potencia y mejora tus recompensas de aprendizaje 📈",
+    "topfeatures": "🎡 Accede a las mejores funciones de juegos de IA, herramientas de IA y módulos de aprendizaje aquí💰",
+    "spin": "🏆¡Gira la rueda de la suerte y gana puntos de habilidad, recompensas criptográficas y mucho más a diario! 📊",
+    "skillquest": "🌱 Prueba y demuestra tus conocimientos sobre IA, obtén 350 puntos de habilidad por completar la evaluación de habilidades de IA 🌾",
+    "refbonus": "⚡ Recomienda a tus amigos para obtener puntos de habilidad de bonificación y un bono de recomendación instantáneo del 20% en USDT 🚀"
+  },
+  "farming": {
+    "title": "Farming de IA",
+    "lv": "LV.{{level}}",
+    "boost": "potenciar",
+    "upgrade": "mejorar",
+    "start": "Empezar Farming",
+    "status": {
+      "claimed": "Puntos de habilidad reclamados",
+      "wrongAnswer": "Respuesta incorrecta"
+    },
+    "earned": "Ganado",
+    "farm": "Farmear",
+    "startNow": "¡Empieza a farmear ahora!",
+    "upgradeNow": "¡Mejorar ahora!",
+    "boostNow": "¡Potenciar ahora!",
+    "goToFarm": "Ir a la granja",
+    "harvestIn": "Cosechar en",
+    "hrs": "Hrs",
+    "mins": "Mins",
+    "secs": "Segs",
+    "aiTrivia": "Trivia de IA"
+  },
+  "stats": {
+    "tasks": "{{count}} tareas",
+    "completed": "{{count}} completadas"
+  },
+  "promos": {
+    "welcome": "Bienvenido, tu viaje comienza aquí",
+    "subPackages": "Paquetes de suscripción",
+    "aiGenesis": "IA Genesis",
+    "off": "50% DE DESCUENTO"
+  },
+  "buttons": {
+    "track": "Seguir",
+    "subscribe": "Suscribirse",
+    "connected": "Conectado",
+    "upgrade": "mejorar"
+  },
+  "features": {
+    "title": "Funciones TOP",
+    "spinToWin": "Gira para ganar",
+    "aiSkillQuest": "Misión de fuego rápido de IA",
+    "referralBonus": "Bono por recomendación",
+    "walletConnect": "Conectar billetera"
+  },
+  "sidebar": {
+    "menu": "MENÚ",
+    "home": "Inicio",
+    "dailyBonus": "Bono diario",
+    "aiGame": "Juego de IA",
+    "invite": "Invitar",
+    "rewards": "Recompensas",
+    "profile": "Perfil"
+  },
+  "logout": {
+    "confirmTitle": "Confirmar cierre de sesión",
+    "confirmMessage": "¿Estás seguro de que quieres cerrar sesión?",
+    "cancel": "Cancelar",
+    "confirm": "Sí, cerrar sesión"
+  },
+  "skinChange": {
+    "titlePrefix": "Mascota",
+    "titleSuffix": "Cambio de apariencia",
+    "description": "Mantén presionado para cambiar la apariencia de tu mascota ahora.",
+    "buttons": {
+      "skip": "omitir",
+      "select": "seleccionar",
+      "back": "Atrás",
+      "confirm": "Confirmar"
+    },
+    "errors": {
+      "transitionNotFound": "No se puede encontrar la transición para el video seleccionado",
+      "confirmSelection": "Por favor, confirma tu selección"
+    }
+  },
+  "dailyReward": {
+    "title": "Bono de actividad diaria",
+    "day": "Día {{day}}",
+    "claimed": "Reclamado",
+    "skillPoints": "Puntos de habilidad",
+    "claimedOn": "Reclamado el: {{date}}",
+    "availableOn": "Disponible el: {{date}}",
+    "consecutiveBonus": "(Bono consecutivo por participación de 7 días)",
+    "tomorrowMessage": "¡Vuelve mañana! ¡Tu recompensa te espera!",
+    "toastClaimed": "Punto de habilidad del día {{day}} reclamado....."
+  },
+  "aiFarming": {
+    "level": "Nivel de farming",
+    "boost": "Potenciar",
+    "claim": "Reclamar",
+    "claiming": "Reclamando...",
+    "errors": {
+      "failedToClaim": "Error al reclamar las recompensas"
+    }
+  },
+  "boost": {
+    "title": "Elige tu plan",
+    "expiresIn": "Expira en",
+    "pointsPerHour": "{{points}} puntos de habilidad por hora",
+    "confirmTitle": "¿Estás seguro?",
+    "yes": "SÍ",
+    "no": "NO"
+  },
+  "upgrade": {
+    "title": "Mejorar",
+    "hours": "+{{time}}hrs",
+    "upgraded": "Mejorado",
+    "buyFor": "Comprar por",
+    "description": "¡Obtén {{time}} horas extra para farmear!",
+    "alreadyUpgraded": "Ya mejorado",
+    "upgradeNow": "Mejorar ahora",
+    "scrollOptions": "Desplázate para más opciones.",
+    "confirmTitle": "¿Aplicar intervalo de {{amt}}?",
+    "yes": "SÍ",
+    "no": "NO"
+  },
+  "toasters": {
+    "comeBackTomorrow": "¡Vuelve mañana! 🌟",
+    "taskAlreadyCompleted": "¡Ya has completado esta tarea!"
+  },
+  "profile": {
+    "title": "Perfil",
+    "avatarTitle": "Selecciona un avatar",
+    "categoryLabel": "Categoría",
+    "categoryValue": "Aprendiz de habilidades",
+    "emailLabel": "ID de correo electrónico",
+    "emailAdd": "Añade tu correo✎",
+    "emailChecking": "Revisa tu correo",
+    "emailPlaceholder": "Introduce el correo",
+    "emailSame": "Mismo correo.",
+    "emailInvalid": "Formato de correo inválido",
+    "mailSent": "Correo enviado con éxito",
+    "verifiedSuccessfully": "Verificado con éxito",
+    "xUsernameLabel": "Nombre de usuario de X",
+    "usernamePrompt": "Nombre de usuario✎",
+    "usernameEnter": "Introduce tu nombre de usuario",
+    "usernameAdded": "Nombre de usuario añadido...",
+    "updating": "Actualizando..",
+    "featuresTitle": "Funciones",
+    "aiMascotSkin": "Apariencia de mascota de IA",
+    "leaderboard": "Clasificación",
+    "tooltipCopy": "Haz clic aquí para copiar",
+    "tooltipCopied": "¡Copiado!",
+    "unfreezAccount": "Descongelar cuenta",
+    "claimRewards": "Reclamar recompensas",
+    "music": "Música",
+    "soundFXs": "Efectos de sonido"
+  },
+  "invite": {
+    "title": "¡Invita a amigos y familiares!",
+    "subtitle": "Tú y tu amigo recibirán puntos de habilidad por recomendación",
+    "joyride": "Multiplica tus ganancias con cada recomendación",
+    "reward1": "Recompensa por recomendación #01",
+    "reward2": "Recompensa por recomendación #02",
+    "skillPoints": "puntos de habilidad",
+    "reward1Desc": "Puntos de habilidad para ti y tu amigo/familia unido",
+    "reward2Desc": "Puntos de habilidad adicionales por cada 5 amigos/familia unidos",
+    "button": "Invitar amigos",
+    "copied": "Copiado",
+    "listTitle": "Mi lista de amigos y familiares",
+    "showMore": "Mostrar más",
+    "showLess": "Mostrar menos",
+    "noReferrals": "Nadie recomendado aún"
+  },
+  "rewards": {
+    "title": "Mis recompensas",
+    "walletLabel": "Dirección de billetera",
+    "breakdownTitle": "Desglose del valor",
+    "totalValueLabel": "Valor total de los activos",
+    "liveFundsTitle": "Fondos disponibles",
+    "liveFundsDesc": "Selecciona el activo que deseas retirar.",
+    "frozenFundsTitle": "Fondos congelados",
+    "frozenFundsDesc": "Suscríbete para retirar estos fondos.",
+    "noData": "No hay datos disponibles",
+    "messagesTitle": "Mensajes",
+    "noMessages": "No hay mensajes disponibles",
+    "markAsRead": "Marcar como leído",
+    "readed": "Leído",
+    "releasingSoon": "Lanzamiento pronto...",
+    "total": "Total",
+    "close": "Cerrar",
+    "transactionHistory": "Historial de transacciones",
+    "subscribeNow": "Suscríbete ahora"
+  },
+  "leaderboard": {
+    "title": "Clasificación",
+    "joyride": "Sigue tu clasificación entre los mejores aprendices.",
+    "tabs": {
+      "dailyChallenge": "Desafío diario",
+      "inviteFandF": "Invitar amigos y familiares",
+      "skillPoints": "Puntos de habilidad"
+    },
+    "stats": {
+      "dailyStreak": "Racha diaria",
+      "referrals": "Recomendaciones",
+      "skillPoints": "Puntos de habilidad",
+      "days": "Días",
+      "claims": "Reclamaciones"
+    },
+    "rankSuffix": {
+      "st": "º",
+      "nd": "º",
+      "rd": "º",
+      "th": "º"
+    },
+    "youSuffix": " (Tú)",
+    "day": "Día",
+    "days": "Días"
+  },
+  "dailyBonus": {
+    "title": "Bono diario",
+    "socialMediaMission": "Misión de redes sociales",
+    "showMore": "Mostrar más",
+    "showLess": "Mostrar menos",
+    "followX": "Sigue nuestra cuenta de X",
+    "joinTelegram": "Únete al canal de Telegram",
+    "addEmailTask": "Añade tu correo",
+    "inviteFriends": "Invita a 5 amigos",
+    "inviteNextFriends": "Invita a los siguientes 5 amigos",
+    "skillQuestDay": "Misión de habilidad de IA día {{day}}",
+    "repostX": "X Repost {{date}}",
+    "expired": "Expirado",
+    "repostAndEarn": "Repostear y ganar",
+    "goToPost": "Ir a la publicación",
+    "recentActivity": "Actividad reciente",
+    "noActivityFound": "No se encontró actividad",
+    "pointsAwarded": "Puntos otorgados",
+    "collect": "Recoger",
+    "explore": "explorar",
+    "joinTelegramTitle": "Únete a nuestro canal de Telegram",
+    "joinXTitle": "Únete a nuestro canal de X",
+    "startAssessmentTitle": "Comienza tu evaluación",
+    "startNow": "Empezar ahora",
+    "joinNow": "Únete ahora",
+    "claimNow": "Reclamar ahora",
+    "claimed": "Reclamado",
+    "claim": "Reclamar",
+    "dayLabel": "DÍA",
+    "activeBonus": "Bono de actividad diaria",
+    "farming": "Farming",
+    "addEmail": {
+      "title": "Introduce los detalles",
+      "emailLabel": "Correo electrónico",
+      "emailPlaceholder": "Introduce el correo del usuario",
+      "submit": "Enviar",
+      "submitting": "Enviando..."
+    },
+    "toasters": {
+      "nextAssessment": "La siguiente evaluación estará disponible después de 24 horas.",
+      "bonusClaimed": "Bono activo reclamado.",
+      "addUsername": "Añade el nombre de usuario para reclamar.",
+      "mailSent": "Correo enviado con éxito",
+      "errorUpdatingMail": "Error al actualizar el correo",
+      "errorCheckingEmail": "Error al comprobar la existencia del correo"
+    },
+    "referralBonuses": {
+      "bonus5": "Bono por recomendación 5",
+      "bonus5Desc": "Has recibido un bono por recomendación de 5",
+      "bonus10": "Bono por recomendación 10",
+      "bonus10Desc": "Has recibido un bono por recomendación de 10",
+      "bonus25": "Bono por recomendación 25",
+      "bonus25Desc": "Has recibido un bono por recomendación de 25",
+      "bonus50": "Bono por recomendación 50",
+      "bonus50Desc": "Has recibido un bono por recomendación de 50",
+      "bonus100": "Bono por recomendación 100",
+      "bonus100Desc": "Has recibido un bono por recomendación de 100"
+    }
+  },
+  "aiGames": {
+    "title": "Tocar y ganar",
+    "farming": {
+      "title": "Farming de Habilidades IA",
+      "subtitle": "Farmea a diario y gana más",
+      "button": "Activar"
+    },
+    "tap2Learn": {
+      "title": "IA Tap2Learn",
+      "subtitle": "Toca en cualquier momento y aprende a diario",
+      "button": "vamos a jugar",
+      "rules": {
+        "howItWorks": "Cómo funciona este desafío",
+        "letsBegin": "Empecemos",
+        "missingLetters": {
+          "title": "Reglas de letras faltantes",
+          "rule1Title": "Encuentra las letras",
+          "rule1Point1": "Identifica y completa las letras que faltan para terminar la palabra",
+          "rule3Title": "Límite de tiempo",
+          "rule3Point1": "Fácil: 90 segundos",
+          "rule3Point2": "Medio: 60 segundos",
+          "rule3Point3": "Difícil: 30 segundos",
+          "rule4Title": "Usa las pistas sabiamente",
+          "rule4Point1": "Lee las pistas con atención para ayudar a identificar la palabra correcta"
+        },
+        "jumbledLetters": {
+          "title": "Reglas de letras mezcladas",
+          "rule1Title": "Descifra la palabra",
+          "rule1Point1": "Las letras están mezcladas: tócalas en el orden correcto para formar la palabra",
+          "rule2Title": "Usa la pista",
+          "rule2Point1": "Toca el botón de pista para ver una imagen como ayuda si la necesitas",
+          "rule3Title": "Límite de tiempo",
+          "rule3Point1": "Fácil: 90 segundos",
+          "rule3Point2": "Medio: 60 segundos",
+          "rule3Point3": "Difícil: 30 segundos",
+          "rule4Title": "Completa la palabra",
+          "rule4Point1": "Llena todos los cuadros con las letras correctas para ganar y pasar al siguiente nivel"
+        },
+        "perfectMatch": {
+          "title": "Reglas de combinación perfecta",
+          "rule1Title": "Combina en orden",
+          "rule1Point1": "Toca las letras en la secuencia exacta para que coincidan con la palabra oculta",
+          "rule2Title": "Hazlo bien",
+          "rule2Point1": "Cada letra debe coincidir con la posición correcta: no se aceptarán letras incorrectas",
+          "rule3Title": "Límite de tiempo",
+          "rule3Point1": "Fácil: 90 segundos",
+          "rule3Point2": "Medio: 60 segundos",
+          "rule3Point3": "Difícil: 30 segundos",
+          "rule4Title": "Usa las herramientas sabiamente",
+          "rule4Point1": "Usa los botones de deshacer, reiniciar o pista si es necesario; completa antes de que se agote el tiempo"
+        },
+        "memoryGame": {
+          "title": "Reglas del juego de memoria",
+          "rule1Title": "Girar y combinar",
+          "rule1Point1": "Gira las cartas para revelar y encontrar pares coincidentes",
+          "rule2Title": "Límite de tiempo",
+          "rule2Point1": "Completa la cuadrícula dentro del límite de tiempo",
+          "rule3Title": "Recuerda las posiciones",
+          "rule3Point1": "Lleva un registro de las posiciones de las cartas para hacer parejas"
+        },
+        "default": {
+          "title": "Reglas del juego"
+        }
+      },
+      "levels": {
+        "title": "ELEGIR",
+        "easy": "FÁCIL",
+        "medium": "MEDIO",
+        "hard": "DIFÍCIL",
+        "next": "SIGUIENTE",
+        "errorSelect": "Selecciona un nivel para continuar",
+        "noQuestions": "No hay más preguntas por hoy"
+      },
+      "games": {
+        "playAndLearn": "JUGAR Y APRENDER",
+        "missingLetters": "Letras faltantes",
+        "jumbleLetters": "Letras mezcladas",
+        "perfectMatch": "Combinación perfecta",
+        "memoryGame": "Juego de memoria",
+        "play": "JUGAR",
+        "chooseAny": "Elige cualquier juego"
+      },
+      "common": {
+        "areYouSure": "¿Estás seguro?",
+        "yes": "Sí",
+        "no": "No",
+        "wordHint": "pista de palabra",
+        "resume": "REANUDAR",
+        "timer": "TEMPORIZADOR",
+        "music": "Música",
+        "learnAndEarn": "Aprender y Ganar",
+        "collect": "RECOGER",
+        "tap": "TOCAR",
+        "skillPoints": "PUNTOS DE habilidad",
+        "earned": "GANADO",
+        "exit": "SALIR",
+        "retry": "REINTENTAR",
+        "next": "SIGUIENTE"
+      },
+      "memoryGame": {
+        "summary": "resumen del juego",
+        "info": "información del juego",
+        "matchPair": "Une el par relevante de la cuadrícula y sigue aprendiendo mientras juegas todos los días.",
+        "letsPlay": "¡Vamos a jugar!",
+        "categories": {
+          "title": "elegir",
+          "mascot": "Mascota de IA",
+          "logos": "Logos de IA",
+          "letter": "Letra de IA",
+          "learning": "Aprendizaje de IA",
+          "funMatch": "COMBINACIÓN DIVERTIDA IA"
+        },
+        "errors": {
+          "selectGrid": "¡Por favor, selecciona primero un tipo de cuadrícula!"
+        }
+      }
+    },
+    "emoji": {
+      "title": "IA Emoji",
+      "subtitle": "Toca el emoji y aprende a diario",
+      "gameTitle": "Adivina el nombre del emoji",
+      "button": "vamos a jugar",
+      "correctAnswer": "La respuesta correcta es",
+      "aiExample": "Ejemplo de IA:",
+      "next": "Siguiente emoji",
+      "retry": "Reintentar",
+      "submit": "enviar",
+      "taskCompleted": "Tarea completada 👏",
+      "selectOption": "Selecciona una opción"
+    },
+    "spinWheel": {
+      "title": "Gira para ganar",
+      "spinsLeft": "Giros restantes:",
+      "buttonSpin": "GIRAR",
+      "buttonSubscribe": "SUSCRIBIRSE",
+      "descriptionSubscribe": "suscríbete ahora para desbloquear más giros y ganar recompensas a diario.",
+      "prizes": {
+        "extraSpin": "Giro extra",
+        "points500": "500 puntos de habilidad",
+        "points1000": "1000 puntos de habilidad",
+        "betterLuck": "Mejor suerte la próxima vez",
+        "luckyDraw": "Entrada al sorteo",
+        "aiFact": "Bono de datos de IA",
+        "genesisDiscount": "50% de descuento - Programa AI Genesis"
+      },
+      "descriptions": {
+        "aiFact": "Duplica tus puntos por datos de IA: ¡reclámalos en 1 hora!",
+        "luckyDraw": "Entrada al sorteo mensual: ¡el 10% de los participantes reciben airdrops de bonificación de SKLRM!",
+        "genesisDiscount": "50% de descuento - Programa AI Genesis (válido por 1 semana desde la incorporación; expira automáticamente del giro después de eso)"
+      },
+      "toasters": {
+        "outOfSpins": "😕 ¡Sin giros!",
+        "limitExceeded": "Límite de giros excedido o usuario no encontrado."
+      }
+    },
+    "tapToSet": {
+      "title": "Toca para configurar",
+      "subtitle": "Toca en cualquier momento y gana a diario",
+      "button": "próximamente"
+    }
+  },
+  "subscription": {
+    "packagesTitle": "Paquetes de suscripción",
+    "aiGenesis": "IA Genesis",
+    "blockLiteAlt": "Block Lite ALT",
+    "title": "Suscripción",
+    "madeEasy": "Hicimos que aprender IA sea fácil para ti",
+    "aiGenesisCaps": "IA GENESIS",
+    "chooseToken": "Elige un token",
+    "dailySpin": "Giro diario",
+    "exploreSkillGame": "Explorar juego de habilidades",
+    "startJourneyUpper": "COMIENZA TU VIAJE",
+    "subscribe": "SUSCRIBIRSE"
+  },
+  "pilot": {
+    "levels": {
+      "apprentice": "APRENDIZ DE IA",
+      "genesis": "GÉNESIS DE IA",
+      "lite": "IA LITE",
+      "pro": "IA PRO",
+      "master": "MAESTRO DE IA",
+      "elite": "ELITE DE IA"
+    },
+    "completeTasks": "Completa tareas para ganar recompensas y progresar en tu viaje.",
+    "skillPoints": "Puntos de habilidad",
+    "skillionaireBadge": "Insignia Skillionaire",
+    "aiExplorerBadge": "Insignia Explorador de IA",
+    "aiMastery": "Maestría en IA",
+    "completeMastery": "Completa tu camino de maestría en IA",
+    "path": "Camino"
+  },
+  "common": {
+    "comingSoon": "Próximamente",
+    "launch": "Lanzar",
+    "claim": "Reclamar"
+  },
+  "tasks": {
+    "letsGo": "VAMOS",
+    "list": {
+      "1": {
+        "title": "FlashLearn IA",
+        "desc": "Mira un video de 1 minuto y responde correctamente una pregunta para ganar 120 puntos de habilidad."
+      },
+      "2": {
+        "title": "Búsqueda RapidFire IA",
+        "desc": "Completa tu misión de IA diaria para ganar 350 SP."
+      },
+      "3": {
+        "title": "Forja de Palabras IA",
+        "desc": "Construye palabras de IA a la velocidad del pensamiento y gana 160 SP"
+      },
+      "4": {
+        "title": "Revoltijo de Términos IA",
+        "desc": "Reconstruye términos de IA a partir de letras mezcladas usando lógica, memoria y velocidad y gana 160 SP."
+      },
+      "5": {
+        "title": "Combinación de Conceptos IA",
+        "desc": "Combina términos, símbolos o conceptos de IA con sus significados correctos y gana 200 SP."
+      },
+      "6": {
+        "title": "Cuadrícula de Memoria IA",
+        "desc": "Recuerda. Evoca. Responde. Gana 200 SP."
+      },
+      "7": {
+        "title": "Bóveda de Perspectivas IA",
+        "desc": "Mejora tus conocimientos de IA con datos y perspectivas, ganando 180 SP."
+      },
+      "8": {
+        "title": "Decodificación de Símbolos IA",
+        "desc": "Resuelve el rompecabezas de emojis y gana 240 puntos de habilidad (120 por cada palabra)."
+      },
+      "9": {
+        "title": "StoryLens IA",
+        "desc": "Lee el blog rápido de 1 minuto para comprender el concepto y ganar 220 SP."
+      },
+      "10": {
+        "title": "Misiones de Herramientas IA",
+        "desc": "Sigue las instrucciones dadas y usa la herramienta de IA para ganar 500 puntos de habilidad."
+      },
+      "11": {
+        "title": "Rompe Mitos IA",
+        "desc": "Desafía las falsas creencias. Fortalece tus fundamentos de IA y gana 150 SP"
+      },
+      "12": {
+        "title": "Archivos de Fallas IA",
+        "desc": "Aprende IA comprendiendo dónde falló y gana 280 SP"
+      },
+      "13": {
+        "title": "Arena de Herramientas IA",
+        "desc": "Elige la herramienta adecuada. Gana la batalla y obtén 400 SP."
+      }
+    }
+  },
+  "challengeMap": {
+    "unlocksIn": "Se desbloquea en",
+    "claimBadge": "Reclama tu insignia",
+    "welcomeDay": "Bienvenido al día {{day}}",
+    "adventureBegins": "🎮 Tu aventura comienza aquí.",
+    "welcomeTo": "BIENVENIDO A",
+    "hereIsYour": "AQUÍ ESTÁ TU",
+    "thirtyDaysChallenge": "DESAFÍO DE 30 DÍAS",
+    "dayMessages": {
+      "1": {
+        "title": "¡Bienvenido, Skillionaire! 🌟",
+        "message": "Tu aventura comienza ahora.",
+        "cta": ""
+      },
+      "2": {
+        "title": "¿Día 1? ¡Conquistado! 🔥",
+        "message": "Ponte a prueba de nuevo, ¡el nivel de hoy está listo!",
+        "cta": "¡Sigue adelante! 💪"
+      },
+      "3": {
+        "title": "Tres pasos más cerca del éxito.",
+        "message": "¡Mantente enfocado!",
+        "cta": ""
+      },
+      "4": {
+        "title": "🏞️ ¡Héroe del ecuador!",
+        "message": "Lo estás haciendo increíble. Afronta el desafío de hoy y haz que cuente.",
+        "cta": ""
+      },
+      "5": {
+        "title": "🌱 ¡Eres un talento natural!",
+        "message": "¡Solo quedan unos pocos más!",
+        "cta": ""
+      },
+      "6": {
+        "title": "🚀 ¡Tan cerca!",
+        "message": "Ya casi estás en la cima. ¡Terminemos con fuerza!",
+        "cta": ""
+      },
+      "7": {
+        "title": "🏆 ¡Paso final!",
+        "message": "Has llegado muy lejos. ¡Reclama tu victoria!",
+        "cta": ""
+      }
+    },
+    "activitiesCompleted": "¡Hoy completaste con éxito las 13 actividades!",
+    "seeYouTomorrow": "HASTA MAÑANA"
+  },
+  "tasksIntro": {
+    "instruction": "Comienza con la primera tarea (número 1) y avanza completando cada tarea en orden.",
+    "skillPointsEarned": "Se ganan PUNTOS DE HABILIDAD por cada tarea completada.",
+    "treasureChests": "¡y no olvides que te esperan cofres del tesoro si quieres recompensas extra!"
+  },
+  "accomplished": {
+    "title": "Misión cumplida,",
+    "subtitle": "¡Skillionaire!",
+    "youVe": "Has",
+    "completedMissions": "Misiones y desafíos completados",
+    "earnedPoints": "Ganado puntos de habilidad mientras aprendes de forma más inteligente que nunca",
+    "teaserTitle": "Pero, ¿y si te dijéramos...",
+    "teaserDesc": "¿Que solo has arañado la superficie de lo que eres capaz de hacer?",
+    "continue": "continuar"
+  },
+  "earned": {
+    "title": "HAS JUGADO. HAS GANADO.",
+    "claimTitle": "AHORA, ES MOMENTO DE RECLAMAR TU LUGAR EN EL FUTURO IMPULSADO POR IA CON <1>AI GENESIS</1>",
+    "items": {
+      "dailyQuests": "MISIONES DIARIAS DE IA",
+      "learnWithGames": "APRENDE JUGANDO",
+      "aiLearning": "APRENDIZAJE DE IA",
+      "factVault": "BÓVEDA DE DATOS DE IA",
+      "emojiGame": "JUEGO DE EMOJIS DE IA",
+      "visualBlogs": "BLOGS VISUALES DE IA",
+      "aiSpace": "ESPACIO DE IA",
+      "spinWheel": "GIRA LA RUEDA.",
+      "farming": "FARMING DE IA.",
+      "referral": "BONO POR RECOMENDACIÓN"
+    },
+    "next": "siguiente",
+    "aiGenesis": "IA GENESIS"
+  },
+  "unlockGenesis": {
+    "title": "DESBLOQUEAR AI GENESIS",
+    "price": "SOLO $15/MES",
+    "provenCurious": "HAS DEMOSTRADO QUE NO SOLO TIENES CURIOSIDAD,",
+    "committed": "SINO QUE ESTÁS COMPROMETIDO.",
+    "tapToUpgrade": "TOCA PARA MEJORAR",
+    "futureWait": "PORQUE EL FUTURO NO ESPERA, Y TÚ TAMPOCO DEBERÍAS HACERLO.",
+    "unlockBtn": "desbloquear ai GENESIS"
+  },
+  "badge": {
+    "youVeEarned": "HAS GANADO",
+    "yourFirstBadge": "TU PRIMERA INSIGNIA",
+    "badgeName": "¡EXPLORADOR DE IA!"
+  },
+  "home": "Inicio",
+  "aboutUs": "Sobre nosotros",
+  "community": "Comunidad",
+  "whitepaper": "Libro blanco",
+  "contactUs": "Contáctanos",
+  "signIn": "Iniciar sesión",
+  "welcomeTo": "Bienvenido a",
+  "getStarted": "Empezar",
+  "hiIAmYourSkillGene": "¡Hola, soy tu Genio de las Habilidades!",
+  "auth": {
+    "newPassword": "Nueva contraseña",
+    "confirmNewPassword": "Confirmar nueva contraseña"
+  }
+}

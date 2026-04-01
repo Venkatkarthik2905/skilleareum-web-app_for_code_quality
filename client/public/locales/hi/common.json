@@ -1,0 +1,56 @@
+{
+  "loading": "कृपया प्रतीक्षा करें, लोड हो रहा है",
+  "home": "होम",
+  "aboutUs": "हमारे बारे में",
+  "community": "समुदाय",
+  "whitepaper": "श्वेतपत्र (Whitepaper)",
+  "contactUs": "हमसे संपर्क करें",
+  "signIn": "साइन इन करें",
+  "joinNow": "अभी जुड़ें",
+  "getStarted": "शुरू करें",
+  "welcomeTo": "स्वागत है",
+  "hiIAmYourSkillGene": "नमस्ते मैं आपका स्किल जीन हूँ",
+  "footer": {
+    "followUs": "सोशल मीडिया पर हमें फॉलो करें",
+    "links": {
+      "home": "होम",
+      "aboutUs": "हमारे बारे में",
+      "community": "समुदाय"
+    },
+    "subLinks": {
+      "futureBenefits": "भविष्य के लाभ",
+      "learnEarn": "सीखें और कमाएं",
+      "features": "विशेषताएं",
+      "visionMission": "दृष्टि और मिशन",
+      "roadmap": "रोडमैप",
+      "tokenomics": "टोकनमिक्स",
+      "explore": "एक्सप्लोर करें",
+      "partnership": "साझेदारी",
+      "affiliateProgram": "एफिलिएट प्रोग्राम"
+    },
+    "newsletter": {
+      "title": "हमारे न्यूज़लेटर से जुड़ें",
+      "subtitle": "रिफ्लेक्ट की हर चीज़ से अपडेट रहें",
+      "placeholder": "अपना ईमेल दर्ज करें",
+      "subscribe": "सब्सक्राइब करें",
+      "subscribing": "सब्सक्राइब किया जा रहा है..."
+    },
+    "rights": "@ Skilleareum {{year}}. सर्वाधिकार सुरक्षित।",
+    "version": "संस्करण {{version}}",
+    "privacyPolicy": "गोपनीयता नीति",
+    "termsConditions": "नियम और शर्तें",
+    "cookiePolicy": "कुकी नीति"
+  },
+  "messages": {
+    "enterEmail": "अपना ईमेल दर्ज करें।",
+    "thanksSubscription": "सब्सक्रिप्शन के लिए धन्यवाद।",
+    "subscriptionDone": "सब्सक्रिप्शन पहले ही हो चुका है।"
+  },
+  "reward": {
+    "day_label": "दिन {{day}}",
+    "skill_points": "स्किल पॉइंट्स",
+    "earned": "अर्जित",
+    "come_back": "कल वापस आएं",
+    "collect": "एकत्र करें"
+  }
+}

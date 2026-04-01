@@ -1,0 +1,56 @@
+{
+  "rules": {
+    "title": "Cómo funciona este desafío",
+    "rule1": {
+      "title": "Formato de batalla",
+      "points": [
+        "Un caso de uso del mundo real",
+        "Dos herramientas de IA presentadas",
+        "Seleccione la mejor opción"
+      ]
+    },
+    "rule2": {
+      "title": "Límite de tiempo",
+      "points": [
+        "15 segundos por batalla"
+      ]
+    },
+    "rule3": {
+      "title": "Regla de puntuación",
+      "points": [
+        "Mínimo 4 de 5 respuestas correctas para superar el desafío de la arena."
+      ]
+    },
+    "lets_begin": "Empecemos"
+  },
+  "game": {
+    "title": "Arena de herramientas de IA",
+    "battle_info": "Batalla {{current}} de {{total}}",
+    "submit_answer": "Enviar respuesta",
+    "correct_insight": "Perspicacia correcta",
+    "incorrect": "Incorrecto",
+    "correct_answer": "Respuesta correcta: ",
+    "next_case": "SIGUIENTE CASO >>",
+    "view_results": "VER RESULTADOS >>",
+    "loading": "Cargando batallas...",
+    "redirecting": "Redirigiendo...",
+    "no_battles": "No hay batallas disponibles.",
+    "tool_label": "Herramienta {{id}}",
+    "reward_credited": "¡Recompensa acreditada!",
+    "submitted": "¡Enviado con éxito!",
+    "network_error": "Error de red",
+    "submitting": "Enviando..."
+  },
+  "results": {
+    "title": "Resultados de la Arena",
+    "pass": "Aprobado",
+    "fail": "Reprobado",
+    "perfect": "¡Puntuación perfecta! ¡Maestro de la IA!",
+    "battles_won": "Batallas ganadas",
+    "excellent": "¡Excelente trabajo! Analizaste correctamente todos los casos de uso de IA y elegiste las herramientas adecuadas cada vez.",
+    "misconceptions": "Identificaste y corregiste con éxito conceptos erróneos comunes sobre la IA.",
+    "good_progress": "¡Buen progreso! Estás entendiendo cómo elegir las herramientas de IA adecuadas, pero algunos casos necesitan más atención.",
+    "good_start": "Este es un buen comienzo. Vuelve a visitar los casos para entender mejor cuándo y cómo se debe usar la IA.",
+    "continue": "Continuar aprendiendo"
+  }
+}

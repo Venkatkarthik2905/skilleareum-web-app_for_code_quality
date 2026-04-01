@@ -1,0 +1,37 @@
+{
+  "ai_learning": {
+    "video_completed": "Video Completed👏.",
+    "failed_to_complete": "Failed to complete quest.",
+    "ai_learning_for_the_day": "AI Learning For The Day.",
+    "welcome_to_day": "Welcome to Day {{day}}",
+    "day": "Day {{day}}",
+    "unlocks_in": "Unlocks in",
+    "play": "Play",
+    "completed": "COMPLETED",
+    "video_day_label": "DAY {{day}} | Video {{day}}",
+    "browser_no_support": "Your browser does not support the video tag.",
+    "watched_full": "🎉 You have watched the full video!",
+    "reward_collected": "Reward collected! 👏",
+    "failed_to_complete_try_again": "Failed to complete quest. Please try again.",
+    "assessment": "Assessment",
+    "submit": "SUBMIT",
+    "next": "NEXT",
+    "replay": "REPLAY",
+    "watch_fully_warning": "Watch fully to unlock the assessment and earn skill points.",
+    "continue": "Continue",
+    "exit_anyway": "Exit Anyway",
+    "skill_points": "SKILL POINTS",
+    "earned": "EARNED",
+    "come_back_tomorrow": "COME BACK TOMORROW",
+    "try_again": "TRY AGAIN",
+    "collect": "Collect",
+    "exit": "Exit",
+    "ai_learning_history": "AI Learning History",
+    "no_data_found": "No Data Found",
+    "speak": {
+      "engage_tools": "Engage with these tools to rack up skill points",
+      "play_more": "Play more, learn more, earn more. Go for it",
+      "unlock_facts": "Unlock cool AI facts—past, present, and future"
+    }
+  }
+}

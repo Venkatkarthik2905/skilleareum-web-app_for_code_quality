@@ -1,0 +1,152 @@
+{
+  "title": "The Smartest Way to Learn Ai and Earn instant rewards",
+  "subtitle": "The World's First AI Way of Gamified Learning and Incentivized Earning",
+  "description": "Governed by Zk-PoL and Validated by Smart Minting System",
+  "getStarted": "Get started",
+  "section2_title1": "Why Choose ",
+  "section2_title2": " for ",
+  "section2_title3": "Your “Incentivized Learning” Journey",
+  "section2_cards": {
+    "play": {
+      "title": "Play",
+      "desc": "Experience daily excitement through interactive challenges from testing your luck with Spin to Win, to enjoying engaging games like Missing Letters, Jumble Letters, Perfect Match, and Memory Game."
+    },
+    "learn": {
+      "title": "Learn",
+      "desc": "Unlock daily insights through AI Facts, get hands-on with real tools in AI Space, and spend 30 days mastering 30 must-know AI Jargons with simple, fun assessments that keep you sharp."
+    },
+    "earn": {
+      "title": "Earn",
+      "desc": "Every task you complete, every challenge you master, every day you participate earns you Skill Points (Future SKLRM tokens) and Instant Referral Bonuses giving every learner the chance to turn effort into long-term rewards."
+    },
+    "grow": {
+      "title": "Grow",
+      "desc": "With consistency comes the opportunity to Grow. Following your personalized learning path every day will lead you from foundational knowledge to advanced understanding, helping you master AI skills in this competitive, ever-changing world."
+    },
+    "repeat": {
+      "title": "Repeat",
+      "desc": "Growth doesn't stop once you’ve made progress. To stay on top and to keep the momentum going, stay updated with our fresh challenges, new updates along with our evolving community of fellow learners."
+    },
+    "whatsNext": {
+      "title": "What’s Next?",
+      "desc": "This is just the beginning. Get Ready to experience NFT-based learning, Advanced learning modules, and even deeper rewards designed to help you stay ahead."
+    }
+  },
+  "section3_title": "Future Benefits (SKLRM Tokens)",
+  "section3_benefits": {
+    "1": "Access Premium Features, Advanced AI courses and AI tools.",
+    "2": "Stake tokens to earn rewards and other additional benefits.",
+    "3": "Mint Brainery NFTs, which represent educational achievements or resources.",
+    "4": "Primary currency for transactions and payments within the platform post-release.",
+    "5": "Vote on platform decisions, creating a decentralized governance model. (Only Token Holders)"
+  },
+  "section4": {
+    "activeUsers": "{{count}} Active Users",
+    "rewardedText": "Over {{amount}} Skill Points have been rewarded."
+  },
+  "section5": {
+    "tasks": {
+      "title1": "Complete The",
+      "title2": "Tasks",
+      "subtitle": "Play Daily. Earn More.",
+      "desc": "Skilleareum makes learning AI fun, rewarding, and part of your everyday routine. Inside our Telegram Mini App, it’s all about showing up daily and unlocking real value while sharpening your skills. Here’s what’s waiting for you:",
+      "games": {
+        "spin": "Spin to Win,",
+        "missing": "Missing Letters,",
+        "jumble": "Jumble Letters,",
+        "match": "Perfect Match,",
+        "memory": "Memory Game"
+      },
+      "cta": "Explore Now"
+    },
+    "skills": {
+      "title1": "Develop Your",
+      "title2": "Skills",
+      "desc1": "At Skilleareum, skill-building isn’t just an option — it’s part of your daily journey. Through engaging challenges, hands-on tasks, and personalized learning paths, you’ll level up your AI knowledge one day at a time.",
+      "desc2": "From mastering AI Facts to completing Daily Skill Quests and exploring practical tools in AI Space, every step is designed to help you grow smarter, faster, and stronger in the world of AI — no coding needed.",
+      "cta": "Develop Skills"
+    },
+    "rewards": {
+      "title1": "Unlock Real-Time",
+      "title2": "Rewards",
+      "desc1": "Every action is an opportunity and watch your efforts turn into real crypto rewards.",
+      "desc2": "As you develop your skills, you’re earning real Skill Points, unlocking crypto rewards, and turning your dedication into SKLRM tokens that hold value far beyond the platform. Also climb the leaderboard, participate in exclusive contests and events to unlock bonus rewards. The more active you are, the more you earn — it’s that simple.",
+      "cta": "Earn Rewards"
+    },
+    "referral": {
+      "title1": "Refer Friends &",
+      "title2": "Family",
+      "desc1": "Skilleareum, your growth doesn’t just benefit you — it pays you. Invite your friends with your unique referral link from the mini-app, grow the community, and watch your USDT rewards drop instantly through our real-time referral system along with bonus Skill Points!",
+      "desc2": "This is more than sharing. It’s about building a community where everyone earns, and you get rewarded instantly for making it happen.",
+      "cta": "Refer Friend"
+    }
+  },
+  "section6": {
+    "title": "Learn AI your Way",
+    "genesisTitle": "AI Genesis",
+    "subscriptionPrice": "$15 Subscription"
+  },
+  "section7": {
+    "incentivizedGaming": "Incentivized Gaming",
+    "more": "+More",
+    "earlyAdopters": "Early Adopters",
+    "adoptersDesc": "Launched in November 2024 with thousands of users already onboard, the ecosystem is evolving everyday.",
+    "telegramApp": "TelegrAM APP",
+    "telegramDesc": "All the benefits of Web3-powered, incentivized learning, now available at Telegram - where you already chat, network, and connect. It's lightweight, instant, and built for users who want AI education on the go — no heavy apps or complicated systems.",
+    "experienceNow": "experience NOW",
+    "telegramFooter": "Your journey to becoming a Skillionaire starts with just one click inside Telegram."
+  },
+  "section9": {
+    "title": "Let's Hear from our Team",
+    "team": {
+      "manju": {
+        "job": "CEO & Co-Founder, Skilleareum",
+        "desc": "Proud to redefine education as a borderless, gamified journey where skills become real value through zk-Proof of Learning and Smart Minting."
+      },
+      "hudson": {
+        "job": "CMO & Co-Founder, Skilleareum",
+        "desc": "Skilleareum is an AI-driven Web3 platform where users learn in-demand skills, access AI-powered opportunities, and earn crypto rewards while fostering a lifelong learning community."
+      },
+      "sakthi": {
+        "job": "Chief Mentor, Skilleareum",
+        "desc": "Skilleareum leverages AI-powered personalized learning paths to help users enhance their skills, stay ahead in emerging technologies, and earn rewards through skill-based challenges and assessments."
+      },
+      "anup": {
+        "job": "CTO",
+        "desc": "Skilleareum gamifies learning with AI-driven quizzes, real-world projects, and on-chain rewards, making skill growth engaging and rewarding."
+      },
+      "dinesh": {
+        "job": "Smart Contract Developer",
+        "desc": "Skilleareum brings together students, mentors, and industry professionals, encouraging collaboration, knowledge exchange, and career advancement in a decentralized space."
+      },
+      "mani": {
+        "job": "Lead Developer",
+        "desc": "Skilleareum redefines AI learning by enabling individuals to earn from their expertise through an interactive, reward-based global ecosystem."
+      }
+    }
+  },
+  "section10": {
+    "learningHub": "Skilleareum AI Learning HUB",
+    "gamifiedLearning": "Gamified Learning",
+    "learnerA": "AI Learner A",
+    "learnerB": "AI Learner B",
+    "walletConnectivity": "Wallet Connectivity",
+    "tokenPurchase": "Token Purchase",
+    "subscribesPackages": "Subscribes AI Packages",
+    "playLearn": "Play & Learn",
+    "smartMinting": "Smart Minting System ZK - Proof of Learning",
+    "repeat": "repeat",
+    "incentivizedEarning": "incentivized earning",
+    "web3Contributors": "Web 3 AI Contributors",
+    "toolDeveloper": "AI Tool Developer & Tool Listing",
+    "contentCreator": "AI Content Creator",
+    "aiSme": "AI SME",
+    "aiTool": "AI Tool",
+    "aiCourse": "AI Course",
+    "mentorship": "Mentorship | Validator",
+    "grow": "grow",
+    "contributorDesc": "AI Learner Become Skilleareum Contributor",
+    "claimRewards": "Claim Rewards",
+    "earn": "Earn"
+  }
+}

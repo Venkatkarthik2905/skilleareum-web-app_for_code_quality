@@ -1,0 +1,50 @@
+{
+  "section1": {
+    "title": "Explore the Future of AI with Us",
+    "subtitle": "And Be part of a thriving ecosystem",
+    "description": "where AI learning meets limitless Web3",
+    "description2": "opportunities.",
+    "labels": {
+      "affiliate": "AFFILIATE",
+      "internship": "INTERNSHIP",
+      "investment": "INVESTMENT",
+      "career": "CAREER"
+    }
+  },
+  "section2": {
+    "title": "Invest in the Future by Learning AI",
+    "description": "At Skilleareum, investment starts with learning. To access future SKLRM token rewards, you must first engage in our AI learning journey. By participating in AI-powered challenges, completing quests, and getting validated through our platform, you earn Skill Points and unlock investment opportunities in SKLRM tokens — positioning yourself for future success in the evolving Web3 economy.",
+    "investNow": "Invest Now"
+  },
+  "section3": {
+    "title": "Empowering Growth",
+    "subtitle": "Through Partnerships"
+  },
+  "section4": {
+    "title": "Be Part of the Vision: Connect for Future Internships",
+    "q1": "Looking to kickstart your career in AI, Web3, and blockchain innovation?",
+    "p1": "While our internship program is not currently open, we’re always eager to connect with passionate learners and future leaders who want to be part of the Skilleareum ecosystem.",
+    "p2": "Reach out to us to stay informed about future openings, collaborations, and ways to contribute to the Skilleareum journey. Together, we’re building the future of gamified AI learning.",
+    "stayConnected": "Stay Connected"
+  },
+  "section5": {
+    "title": "Earn with Us! Join Our Affiliate Program",
+    "description": "At Skilleareum, we believe that growth should be rewarding — not just for us, but for every partner who helps us build the future of AI-powered education.",
+    "features": {
+      "highGrowth": "High-Growth Market",
+      "unlimited": "Unlimited Earning Potential",
+      "impact": "Impact-Driven Passive Income",
+      "milestone": "Milestone Bonuses",
+      "referral": "Direct Referral Bonus",
+      "subscription": "Subscription-Based Earnings"
+    },
+    "becomeAffiliate": "Become an Affiliate"
+  },
+  "section6": {
+    "title": "Featured Job Openings",
+    "applyBefore": "Apply before",
+    "jobTitle": "Lead Product Designer",
+    "jobDesc": "Join our team as an Email Marketing Specialist and lead our digital outreach efforts.",
+    "loading": "Opportunities Loading... Stay Tuned!"
+  }
+}

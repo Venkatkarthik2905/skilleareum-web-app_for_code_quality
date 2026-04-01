@@ -1,0 +1,22 @@
+{
+  "ui": {
+    "welcome_to": "ਸੁਆਗਤ ਹੈ",
+    "fact_vault_title": "AI ਫੈਕਟ ਵਾਲਿਟ",
+    "get_started": "ਸ਼ੁਰੂ ਕਰੋ",
+    "yesterday": "ਕੱਲ੍ਹ",
+    "summary": "ਸਾਰਾਂਸ਼",
+    "facts_for_day": "ਦਿਨ ਦੇ AI ਫੈਕਟਸ।",
+    "claim_reward": "ਇਨਾਮ ਦਾ ਦਾਅਵਾ ਕਰੋ",
+    "task_completed": "ਕੰਮ ਪੂਰਾ ਹੋਇਆ👏",
+    "explore_facts": "ਇਸ ਦੇ ਤੱਥਾਂ ਨੂੰ ਐਕਸਪਲੋਰ ਕਰੋ",
+    "learn_earn": "ਹੋਰ ਸਿੱਖੋ ਅਤੇ ਹੋਰ ਕਮਾਓ",
+    "keep_learning": "ਸਿੱਖਣਾ ਅਤੇ ਕਮਾਉਣਾ ਜਾਰੀ ਰੱਖੋ",
+    "joyride": "AI ਇਤਿਹਾਸ, ਮਜ਼ੇਦਾਰ ਤੱਥਾਂ, ਭਵਿੱਖ ਅਤੇ ਮੌਜੂਦਾ ਮਾਮਲਿਆਂ ਬਾਰੇ ਜਾਣੋ ਅਤੇ ਹਰ ਦਿਨ 250 ਸਕਿੱਲ ਪੁਆਇੰਟਸ ਦਾ ਦਾਅਵਾ ਕਰੋ! 📈"
+  },
+  "categories": {
+    "history": "AI ਇਤਿਹਾਸ",
+    "fun_fact": "AI ਮਜ਼ੇਦਾਰ ਤੱਥ",
+    "future": "AI ਭਵਿੱਖ",
+    "current_affairs": "AI ਵਰਤਮਾਨ ਮਾਮਲੇ"
+  }
+}

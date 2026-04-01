@@ -1,0 +1,650 @@
+{
+  "voiceCommands": {
+    "navigatingTo": "Navigieren zu {{page}}",
+    "dashboard": "Dashboard",
+    "dailyBonus": "Täglicher Bonus",
+    "funAndLearn": "Spaß und Lernen",
+    "inviteSection": "Einladungsbereich",
+    "wallet": "Wallet"
+  },
+  "referral": {
+    "message": "🌟 Willkommen bei Skilleareum! 🚀\n\nLernen, Verdienen, Wachsen & Wiederholen.\n\nTreten Sie ein in die Zukunft des KI-Lernens und -Verdienens!\n\n🎁 Melden Sie sich jetzt an und verdienen Sie 1000 SkillPoints!\n🤝 Laden Sie Freunde ein und erhalten Sie Empfehlungsboni.\n📲 Schließen Sie Social-Media-Quests für tägliche Belohnungen ab!\n🎮 Steigern Sie Ihre KI-Fähigkeiten und werden Sie ein Wissenschampion!\n\nKommen Sie zu Skilleareum und starten Sie noch heute Ihre KI-Lernreise! 🚀✨"
+  },
+  "joyride": {
+    "skillpoints": "🎉 Verfolgen Sie Ihre Skill-Punkte & Fortschritte",
+    "farming": "👤 Steigern & Verbessern Sie Ihre Lernbelohnungen 📈",
+    "topfeatures": "🎡 Greifen Sie hier auf Top-Features zu KI-Spielen, KI-Tools und Lernmodulen zu💰",
+    "spin": "🏆Drehen Sie das Glücksrad & gewinnen Sie täglich Skill-Punkte, Krypto-Belohnungen & vieles mehr! 📊",
+    "skillquest": "🌱 Testen & Beweisen Sie Ihr Wissen über KI, erhalten Sie 350 Skill-Punkte für den Abschluss der KI-Fähigkeitsbewertung 🌾",
+    "refbonus": "⚡ Empfehlen Sie Ihre Freunde, um Bonus-Skill-Punkte und einen sofortigen 20% Empfehlungsbonus als USDT zu erhalten 🚀"
+  },
+  "farming": {
+    "title": "KI-Farming",
+    "lv": "LV.{{level}}",
+    "boost": "Boost",
+    "upgrade": "Upgrade",
+    "start": "Farming starten",
+    "status": {
+      "claimed": "Skill-Punkte beansprucht",
+      "wrongAnswer": "Falsche Antwort"
+    },
+    "earned": "Verdient",
+    "farm": "Farmen",
+    "startNow": "Jetzt mit dem Farmen beginnen!",
+    "upgradeNow": "Jetzt upgraden!",
+    "boostNow": "Jetzt boosten!",
+    "goToFarm": "Zur Farm gehen",
+    "harvestIn": "Ernte in",
+    "hrs": "Std.",
+    "mins": "Min.",
+    "secs": "Sek.",
+    "aiTrivia": "KI-Trivia"
+  },
+  "stats": {
+    "tasks": "{{count}} Aufgaben",
+    "completed": "{{count}} Abgeschlossen"
+  },
+  "promos": {
+    "welcome": "Willkommen, Ihre Reise beginnt hier",
+    "subPackages": "Abonnement-Pakete",
+    "aiGenesis": "KI Genesis",
+    "off": "50% RABATT"
+  },
+  "buttons": {
+    "track": "Verfolgen",
+    "subscribe": "Abonnieren",
+    "connected": "Verbunden",
+    "upgrade": "Upgrade"
+  },
+  "features": {
+    "title": "TOP-Features",
+    "spinToWin": "Drehen und gewinnen",
+    "aiSkillQuest": "KI-Schnellfeuer-Quest",
+    "referralBonus": "Empfehlungsbonus",
+    "walletConnect": "Wallet verbinden"
+  },
+  "sidebar": {
+    "menu": "MENÜ",
+    "home": "Startseite",
+    "dailyBonus": "Täglicher Bonus",
+    "aiGame": "KI-Spiel",
+    "invite": "Einladen",
+    "rewards": "Belohnungen",
+    "profile": "Profil"
+  },
+  "logout": {
+    "confirmTitle": "Abmeldung bestätigen",
+    "confirmMessage": "Sind Sie sicher, dass Sie sich abmelden möchten?",
+    "cancel": "Abbrechen",
+    "confirm": "Ja, abmelden"
+  },
+  "skinChange": {
+    "titlePrefix": "Maskottchen",
+    "titleSuffix": "Skin-Wechsel",
+    "description": "Tippen und halten Sie, um jetzt Ihren Maskottchen-Skin zu ändern.",
+    "buttons": {
+      "skip": "Überspringen",
+      "select": "Auswählen",
+      "back": "Zurück",
+      "confirm": "Bestätigen"
+    },
+    "errors": {
+      "transitionNotFound": "Übergang für das ausgewählte Video konnte nicht gefunden werden",
+      "confirmSelection": "Bitte bestätigen Sie Ihre Auswahl"
+    }
+  },
+  "dailyReward": {
+    "title": "Täglicher Aktivitätsbonus",
+    "day": "Tag {{day}}",
+    "claimed": "Beansprucht",
+    "skillPoints": "Skill-Punkte",
+    "claimedOn": "Beansprucht am: {{date}}",
+    "availableOn": "Verfügbar am: {{date}}",
+    "consecutiveBonus": "(Teilnahmebonus für 7 aufeinanderfolgende Tage)",
+    "tomorrowMessage": "Kommen Sie morgen wieder! Ihre Belohnung wartet!",
+    "toastClaimed": "Tag {{day}} Skill-Punkt beansprucht....."
+  },
+  "aiFarming": {
+    "level": "Farming-Level",
+    "boost": "Boost",
+    "claim": "Beanspruchen",
+    "claiming": "Wird beansprucht...",
+    "errors": {
+      "failedToClaim": "Belohnungen konnten nicht beansprucht werden"
+    }
+  },
+  "boost": {
+    "title": "Wählen Sie Ihren Plan",
+    "expiresIn": "Läuft ab in",
+    "pointsPerHour": "{{points}} Skill-Punkte pro Stunde",
+    "confirmTitle": "Sind Sie sicher?",
+    "yes": "JA",
+    "no": "NEIN"
+  },
+  "upgrade": {
+    "title": "Upgrade",
+    "hours": "+{{time}}Std.",
+    "upgraded": "Verbessert",
+    "buyFor": "Kaufen für",
+    "description": "Erhalten Sie zusätzliche {{time}} Stunden zum Farmen!",
+    "alreadyUpgraded": "Bereits verbessert",
+    "upgradeNow": "Jetzt upgraden",
+    "scrollOptions": "Scrollen Sie für weitere Optionen.",
+    "confirmTitle": "Intervall von {{amt}} anwenden?",
+    "yes": "JA",
+    "no": "NEIN"
+  },
+  "toasters": {
+    "comeBackTomorrow": "Kommen Sie morgen wieder! 🌟",
+    "taskAlreadyCompleted": "Sie haben diese Aufgabe bereits abgeschlossen!"
+  },
+  "profile": {
+    "title": "Profil",
+    "avatarTitle": "Wählen Sie einen Avatar",
+    "categoryLabel": "Kategorie",
+    "categoryValue": "Skill-Lerner",
+    "emailLabel": "E-Mail-ID",
+    "emailAdd": "E-Mail hinzufügen✎",
+    "emailChecking": "E-Mail prüfen",
+    "emailPlaceholder": "E-Mail eingeben",
+    "emailSame": "Gleiche E-Mail.",
+    "emailInvalid": "Ungültiges E-Mail-Format",
+    "mailSent": "E-Mail erfolgreich gesendet",
+    "verifiedSuccessfully": "Erfolgreich verifiziert",
+    "xUsernameLabel": "X-Benutzername",
+    "usernamePrompt": "Benutzername✎",
+    "usernameEnter": "Geben Sie Ihren Benutzernamen ein",
+    "usernameAdded": "Benutzername hinzugefügt...",
+    "updating": "Wird aktualisiert..",
+    "featuresTitle": "Funktionen",
+    "aiMascotSkin": "KI-Maskottchen-Skin",
+    "leaderboard": "Bestenliste",
+    "tooltipCopy": "Klicken Sie hier zum Kopieren",
+    "tooltipCopied": "Kopiert!",
+    "unfreezAccount": "Konto entsperren",
+    "claimRewards": "Belohnungen beanspruchen",
+    "music": "Musik",
+    "soundFXs": "Sound-Effekte"
+  },
+  "invite": {
+    "title": "Laden Sie Freunde und Familie ein!",
+    "subtitle": "Sie und Ihr Freund erhalten Empfehlungs-Skill-Punkte",
+    "joyride": "Vervielfachen Sie Ihren Verdienst mit jeder Empfehlung",
+    "reward1": "Empfehlungsbelohnung #01",
+    "reward2": "Empfehlungsbelohnung #02",
+    "skillPoints": "Skill-Punkte",
+    "reward1Desc": "Skill-Punkte für Sie und Ihre beigetretenen Freunde/Familie",
+    "reward2Desc": "Zusätzliche Skill-Punkte für jeweils 5 beigetretene Freunde/Familie",
+    "button": "Freunde einladen",
+    "copied": "Kopiert",
+    "listTitle": "Meine F&F-Liste",
+    "showMore": "Mehr anzeigen",
+    "showLess": "Weniger anzeigen",
+    "noReferrals": "Keine Freunde/Familie empfohlen"
+  },
+  "rewards": {
+    "title": "Meine Belohnungen",
+    "walletLabel": "Wallet-Adresse",
+    "breakdownTitle": "Wertaufschlüsselung",
+    "totalValueLabel": "Gesamtvermögenswert",
+    "liveFundsTitle": "Verfügbares Guthaben",
+    "liveFundsDesc": "Wählen Sie das Asset aus, das Sie abheben möchten.",
+    "frozenFundsTitle": "Gesperrtes Guthaben",
+    "frozenFundsDesc": "Abonnieren Sie, um dieses Guthaben abzuheben.",
+    "noData": "Keine Daten verfügbar",
+    "messagesTitle": "Nachrichten",
+    "noMessages": "Keine Nachrichten verfügbar",
+    "markAsRead": "Als gelesen markieren",
+    "readed": "Gelesen",
+    "releasingSoon": "Wird bald veröffentlicht...",
+    "total": "Gesamt",
+    "close": "Schließen",
+    "transactionHistory": "Transaktionsverlauf",
+    "subscribeNow": "Jetzt abonnieren"
+  },
+  "leaderboard": {
+    "title": "Bestenliste",
+    "joyride": "Verfolgen Sie Ihr Ranking unter den Top-Lernern.",
+    "tabs": {
+      "dailyChallenge": "Tägliche Herausforderung",
+      "inviteFandF": "Freunde & Familie einladen",
+      "skillPoints": "Skill-Punkte"
+    },
+    "stats": {
+      "dailyStreak": "Tägliche Serie",
+      "referrals": "Empfehlungen",
+      "skillPoints": "Skill-Punkte",
+      "days": "Tage",
+      "claims": "Ansprüche"
+    },
+    "rankSuffix": {
+      "st": ".",
+      "nd": ".",
+      "rd": ".",
+      "th": "."
+    },
+    "youSuffix": " (Du)",
+    "day": "Tag",
+    "days": "Tage"
+  },
+  "dailyBonus": {
+    "title": "Täglicher Bonus",
+    "socialMediaMission": "Social-Media-Mission",
+    "showMore": "Mehr anzeigen",
+    "showLess": "Weniger anzeigen",
+    "followX": "Folgen Sie unserem X-Konto",
+    "joinTelegram": "Telegram-Kanal beitreten",
+    "addEmailTask": "E-Mail hinzufügen",
+    "inviteFriends": "5 Freunde einladen",
+    "inviteNextFriends": "Nächste 5 Freunde einladen",
+    "skillQuestDay": "KI-Skill-Quest Tag {{day}}",
+    "repostX": "X-Repost {{date}}",
+    "expired": "Abgelaufen",
+    "repostAndEarn": "Reposten und verdienen",
+    "goToPost": "Zum Beitrag gehen",
+    "recentActivity": "Letzte Aktivitäten",
+    "noActivityFound": "Keine Aktivitäten gefunden",
+    "pointsAwarded": "Punkte vergeben",
+    "collect": "Sammeln",
+    "explore": "Erkunden",
+    "joinTelegramTitle": "Treten Sie unserem Telegram-Kanal bei",
+    "joinXTitle": "Treten Sie unserem X-Kanal bei",
+    "startAssessmentTitle": "Starten Sie Ihre Bewertung",
+    "startNow": "Jetzt starten",
+    "joinNow": "Jetzt beitreten",
+    "claimNow": "Jetzt beanspruchen",
+    "claimed": "Beansprucht",
+    "claim": "Beanspruchen",
+    "dayLabel": "TAG",
+    "activeBonus": "Täglicher Aktivitätsbonus",
+    "farming": "Farming",
+    "addEmail": {
+      "title": "Details eingeben",
+      "emailLabel": "E-Mail",
+      "emailPlaceholder": "Benutzer-E-Mail eingeben",
+      "submit": "Absenden",
+      "submitting": "Wird übermittelt..."
+    },
+    "toasters": {
+      "nextAssessment": "Die nächste Bewertung ist in 24 Stunden verfügbar.",
+      "bonusClaimed": "Aktiver Bonus beansprucht.",
+      "addUsername": "Benutzernamen zum Beanspruchen hinzufügen.",
+      "mailSent": "E-Mail erfolgreich gesendet",
+      "errorUpdatingMail": "Fehler beim Aktualisieren der E-Mail",
+      "errorCheckingEmail": "Fehler beim Prüfen der E-Mail-Existenz"
+    },
+    "referralBonuses": {
+      "bonus5": "Empfehlungsbonus 5",
+      "bonus5Desc": "Sie haben einen Empfehlungsbonus für 5 Personen erhalten",
+      "bonus10": "Empfehlungsbonus 10",
+      "bonus10Desc": "Sie haben einen Empfehlungsbonus für 10 Personen erhalten",
+      "bonus25": "Empfehlungsbonus 25",
+      "bonus25Desc": "Sie haben einen Empfehlungsbonus für 25 Personen erhalten",
+      "bonus50": "Empfehlungsbonus 50",
+      "bonus50Desc": "Sie haben einen Empfehlungsbonus für 50 Personen erhalten",
+      "bonus100": "Empfehlungsbonus 100",
+      "bonus100Desc": "Sie haben einen Empfehlungsbonus für 100 Personen erhalten"
+    }
+  },
+  "aiGames": {
+    "title": "Tippen und verdienen",
+    "farming": {
+      "title": "Skill-KI-Farming",
+      "subtitle": "Täglich farmen & mehr verdienen",
+      "button": "Aktivieren"
+    },
+    "tap2Learn": {
+      "title": "KI Tap2Learn",
+      "subtitle": "Jederzeit tippen & täglich lernen",
+      "button": "Lass uns spielen",
+      "rules": {
+        "howItWorks": "Wie diese Herausforderung funktioniert",
+        "letsBegin": "Lass uns anfangen",
+        "missingLetters": {
+          "title": "Regeln für fehlende Buchstaben",
+          "rule1Title": "Finde die Buchstaben",
+          "rule1Point1": "Identifiziere und fülle die fehlenden Buchstaben aus, um das Wort zu vervollständigen",
+          "rule3Title": "Zeitlimit",
+          "rule3Point1": "Einfach: 90 Sekunden",
+          "rule3Point2": "Mittel: 60 Sekunden",
+          "rule3Point3": "Schwer: 30 Sekunden",
+          "rule4Title": "Hinweise klug nutzen",
+          "rule4Point1": "Lies die Hinweise sorgfältig, um das richtige Wort zu finden"
+        },
+        "jumbledLetters": {
+          "title": "Regeln für Buchstabensalat",
+          "rule1Title": "Wort entwirren",
+          "rule1Point1": "Buchstaben sind vermischt – tippe sie in der richtigen Reihenfolge an, um das Wort zu bilden",
+          "rule2Title": "Hinweis nutzen",
+          "rule2Point1": "Tippe auf die Hinweis-Schaltfläche, um ein Bild als Hilfe zu sehen",
+          "rule3Title": "Zeitlimit",
+          "rule3Point1": "Einfach: 90 Sekunden",
+          "rule3Point2": "Mittel: 60 Sekunden",
+          "rule3Point3": "Schwer: 30 Sekunden",
+          "rule4Title": "Wort vervollständigen",
+          "rule4Point1": "Fülle alle Felder mit den richtigen Buchstaben, um zu gewinnen und zum nächsten Level zu gelangen"
+        },
+        "perfectMatch": {
+          "title": "Regeln für Perfect Match",
+          "rule1Title": "In Reihenfolge zuordnen",
+          "rule1Point1": "Tippe Buchstaben in der exakten Reihenfolge an, um das versteckte Wort zu finden",
+          "rule2Title": "Richtig machen",
+          "rule2Point1": "Jeder Buchstabe muss an der richtigen Position stehen – falsche Buchstaben werden nicht akzeptiert",
+          "rule3Title": "Zeitlimit",
+          "rule3Point1": "Einfach: 90 Sekunden",
+          "rule3Point2": "Mittel: 60 Sekunden",
+          "rule3Point3": "Schwer: 30 Sekunden",
+          "rule4Title": "Tools klug nutzen",
+          "rule4Point1": "Nutze Rückgängig, Neustart oder Hinweise bei Bedarf – schließe es ab, bevor die Zeit abläuft"
+        },
+        "memoryGame": {
+          "title": "Regeln für Memory",
+          "rule1Title": "Umdrehen & Zuordnen",
+          "rule1Point1": "Drehe Karten um, um passende Paare zu finden",
+          "rule2Title": "Zeitlimit",
+          "rule2Point1": "Vervollständige das Gitter innerhalb des Zeitlimits",
+          "rule3Title": "Positionen merken",
+          "rule3Point1": "Merke dir die Positionen der Karten, um Paare zu bilden"
+        },
+        "default": {
+          "title": "Spielregeln"
+        }
+      },
+      "levels": {
+        "title": "WÄHLEN",
+        "easy": "EINFACH",
+        "medium": "MITTEL",
+        "hard": "SCHWER",
+        "next": "WEITER",
+        "errorSelect": "Wählen Sie ein Level aus, um fortzufahren",
+        "noQuestions": "Keine weiteren Fragen für heute"
+      },
+      "games": {
+        "playAndLearn": "SPIELEN & LERNEN",
+        "missingLetters": "Fehlende Buchstaben",
+        "jumbleLetters": "Buchstabensalat",
+        "perfectMatch": "Perfektes Match",
+        "memoryGame": "Memory-Spiel",
+        "play": "SPIELEN",
+        "chooseAny": "Wählen Sie ein Spiel"
+      },
+      "common": {
+        "areYouSure": "Sind Sie sicher?",
+        "yes": "Ja",
+        "no": "Nein",
+        "wordHint": "Wort-Hinweis",
+        "resume": "FORTSETZEN",
+        "timer": "TIMER",
+        "music": "Musik",
+        "learnAndEarn": "Lernen & Verdienen",
+        "collect": "SAMMELN",
+        "tap": "TIPPEN",
+        "skillPoints": "Skill-Punkte",
+        "earned": "VERDIENT",
+        "exit": "BEENDEN",
+        "retry": "WIEDERHOLEN",
+        "next": "WEITER"
+      },
+      "memoryGame": {
+        "summary": "Spielzusammenfassung",
+        "info": "Spielinfo",
+        "matchPair": "Finden Sie die passenden Paare im Gitter und lernen Sie jeden Tag spielend dazu.",
+        "letsPlay": "Lass uns spielen!",
+        "categories": {
+          "title": "wählen",
+          "mascot": "KI-Maskottchen",
+          "logos": "KI-Logos",
+          "letter": "KI-Buchstabe",
+          "learning": "KI-Lernen",
+          "funMatch": "KI FUN MATCH"
+        },
+        "errors": {
+          "selectGrid": "Bitte wählen Sie zuerst einen Gittertyp aus!"
+        }
+      }
+    },
+    "emoji": {
+      "title": "KI-Emoji",
+      "subtitle": "Emoji tippen & täglich lernen",
+      "gameTitle": "Errate den Emoji-Namen",
+      "button": "Lass uns spielen",
+      "correctAnswer": "Die richtige Antwort ist",
+      "aiExample": "KI-Beispiel:",
+      "next": "Nächstes Emoji",
+      "retry": "Wiederholen",
+      "submit": "Absenden",
+      "taskCompleted": "Aufgabe abgeschlossen 👏",
+      "selectOption": "Wählen Sie eine Option"
+    },
+    "spinWheel": {
+      "title": "Drehen und Gewinnen",
+      "spinsLeft": "Verbleibende Spins:",
+      "buttonSpin": "DREHEN",
+      "buttonSubscribe": "ABONNIEREN",
+      "descriptionSubscribe": "Abonnieren Sie jetzt, um mehr Spins freizuschalten und täglich Belohnungen zu erhalten.",
+      "prizes": {
+        "extraSpin": "Extra-Spin",
+        "points500": "500 Skill-Punkte",
+        "points1000": "1000 Skill-Punkte",
+        "betterLuck": "Viel Glück beim nächsten Mal",
+        "luckyDraw": "Teilnahme an der Verlosung",
+        "aiFact": "KI-Fakten-Bonus",
+        "genesisDiscount": "50% Rabatt - AI Genesis Programm"
+      },
+      "descriptions": {
+        "aiFact": "Verdoppeln Sie Ihre KI-Fakten-Punkte – beanspruchen Sie diese innerhalb von 1 Stunde!",
+        "luckyDraw": "Monatliche Verlosungsteilnahme – 10% der Teilnehmer erhalten Bonus-SKLRM-Airdrops!",
+        "genesisDiscount": "50% Rabatt – AI Genesis Programm (gültig für 1 Woche ab Onboarding; erlischt danach automatisch aus dem Rad)"
+      },
+      "toasters": {
+        "outOfSpins": "😕 Keine Spins mehr!",
+        "limitExceeded": "Spin-Limit überschritten oder Benutzer nicht gefunden."
+      }
+    },
+    "tapToSet": {
+      "title": "Tippen zum Einstellen",
+      "subtitle": "Jederzeit tippen & täglich verdienen",
+      "button": "Demnächst verfügbar"
+    }
+  },
+  "subscription": {
+    "packagesTitle": "Abonnement-Pakete",
+    "aiGenesis": "KI Genesis",
+    "blockLiteAlt": "Block Lite ALT",
+    "title": "Abonnement",
+    "madeEasy": "Wir haben das KI-Lernen – einfach für Sie gemacht",
+    "aiGenesisCaps": "KI GENESIS",
+    "chooseToken": "Wählen Sie einen Token",
+    "dailySpin": "Täglicher Spin",
+    "exploreSkillGame": "Skill-Spiel erkunden",
+    "startJourneyUpper": "STARTEN SIE IHRE REISE",
+    "subscribe": "ABONNIEREN"
+  },
+  "pilot": {
+    "levels": {
+      "apprentice": "KI-LEHRLING",
+      "genesis": "KI-GENESIS",
+      "lite": "KI-LITE",
+      "pro": "KI-PRO",
+      "master": "KI-MEISTER",
+      "elite": "KI-ELITE"
+    },
+    "completeTasks": "Schließen Sie Aufgaben ab, um Belohnungen zu verdienen und in Ihrer Reise voranzukommen.",
+    "skillPoints": "Skill-Punkte",
+    "skillionaireBadge": "Skillionaire-Abzeichen",
+    "aiExplorerBadge": "KI-Entdecker-Abzeichen",
+    "aiMastery": "KI-Meisterschaft",
+    "completeMastery": "Vervollständigen Sie Ihren KI-Meisterschaftspfad",
+    "path": "Pfad"
+  },
+  "common": {
+    "comingSoon": "Demnächst",
+    "launch": "Starten",
+    "claim": "Beanspruchen"
+  },
+  "tasks": {
+    "letsGo": "LOS GEHT'S",
+    "list": {
+      "1": {
+        "title": "KI FlashLearn",
+        "desc": "Sehen Sie sich ein 1-minütiges Video an und beantworten Sie eine Frage richtig, um 120 Skill-Punkte zu verdienen."
+      },
+      "2": {
+        "title": "KI RapidFire Quest",
+        "desc": "Schließen Sie Ihren täglichen KI-Quest ab, um 350 SP zu verdienen."
+      },
+      "3": {
+        "title": "KI Word Forge",
+        "desc": "Bauen Sie KI-Wörter in Gedankenschnelle und verdienen Sie 160 SP"
+      },
+      "4": {
+        "title": "KI Term Scramble",
+        "desc": "Rekonstruieren Sie KI-Begriffe aus vermischten Buchstaben und verdienen Sie 160 SP."
+      },
+      "5": {
+        "title": "KI Concept Match",
+        "desc": "Ordnen Sie KI-Begriffe, Symbole oder Konzepte zu und verdienen Sie 200 SP."
+      },
+      "6": {
+        "title": "KI Memory Grid",
+        "desc": "Merken. Erinnern. Antworten. Verdienen Sie 200 SP."
+      },
+      "7": {
+        "title": "KI Insight Vault",
+        "desc": "Erweitern Sie Ihr KI-Wissen mit Fakten und Erkenntnissen und verdienen Sie 180 SP."
+      },
+      "8": {
+        "title": "KI Symbol Decode",
+        "desc": "Lösen Sie das Emoji-Rätsel und verdienen Sie 240 Skill-Punkte (120 für jedes Wort)."
+      },
+      "9": {
+        "title": "KI StoryLens",
+        "desc": "Lesen Sie den kurzen 1-minütigen Blog, um das Konzept zu verstehen, und verdienen Sie 220 SP."
+      },
+      "10": {
+        "title": "KI Tool Missions",
+        "desc": "Folgen Sie den Anweisungen und nutzen Sie das KI-Tool, um 500 Skill-Punkte zu verdienen."
+      },
+      "11": {
+        "title": "KI Myth Breaker",
+        "desc": "Fordern Sie falsche Überzeugungen heraus und verdienen Sie 150 SP."
+      },
+      "12": {
+        "title": "KI Failure Files",
+        "desc": "Lernen Sie KI, indem Sie verstehen, was schief gelaufen ist, und verdienen Sie 280 SP."
+      },
+      "13": {
+        "title": "KI Tool Arena",
+        "desc": "Wählen Sie das richtige Tool. Gewinnen Sie den Kampf. Verdienen Sie 400 SP."
+      }
+    }
+  },
+  "challengeMap": {
+    "unlocksIn": "Wird freigeschaltet in",
+    "claimBadge": "Beanspruchen Sie Ihr Abzeichen",
+    "welcomeDay": "Willkommen zu Tag {{day}}",
+    "adventureBegins": "🎮 Dein Abenteuer beginnt hier.",
+    "welcomeTo": "WILLKOMMEN BEI",
+    "hereIsYour": "HIER IST DEIN",
+    "thirtyDaysChallenge": "30-TAGE-HERAUSFORDERUNG",
+    "dayMessages": {
+      "1": {
+        "title": "Willkommen, Skillionaire! 🌟",
+        "message": "Dein Abenteuer beginnt jetzt.",
+        "cta": ""
+      },
+      "2": {
+        "title": "Tag 1? Gemeistert! 🔥",
+        "message": "Fordere dich erneut heraus, das heutige Level ist bereit!",
+        "cta": "Weiter so! 💪"
+      },
+      "3": {
+        "title": "Drei Schritte näher zum Erfolg.",
+        "message": "Bleib fokussiert!",
+        "cta": ""
+      },
+      "4": {
+        "title": "🏞️ Halbzeit-Held!",
+        "message": "Du machst das großartig. Packe die heutige Herausforderung an und lass sie zählen.",
+        "cta": ""
+      },
+      "5": {
+        "title": "🌱 Du bist ein Naturtalent!",
+        "message": "Nur noch ein paar Schritte!",
+        "cta": ""
+      },
+      "6": {
+        "title": "🚀 So kurz davor!",
+        "message": "Du bist fast am Ziel. Lass uns stark abschließen!",
+        "cta": ""
+      },
+      "7": {
+        "title": "🏆 Der letzte Schritt!",
+        "message": "Du bist so weit gekommen. Beanspruche deinen Sieg!",
+        "cta": ""
+      }
+    },
+    "activitiesCompleted": "Sie haben heute alle 13 Aktivitäten erfolgreich abgeschlossen!",
+    "seeYouTomorrow": "BIS MORGEN"
+  },
+  "tasksIntro": {
+    "instruction": "Beginnen Sie mit der ersten Aufgabe (Nummer 1) und arbeiten Sie sich der Reihe nach durch jede Aufgabe.",
+    "skillPointsEarned": "Für jede abgeschlossene Aufgabe werden SKILL-PUNKTE vergeben.",
+    "treasureChests": "Und vergiss nicht: Schatzkisten warten auf dich, wenn du zusätzliche Belohnungen willst!"
+  },
+  "accomplished": {
+    "title": "Mission erfüllt,",
+    "subtitle": "Skillionaire!",
+    "youVe": "Du hast",
+    "completedMissions": "Missionen und Herausforderungen abgeschlossen",
+    "earnedPoints": "Skill-Punkte verdient und dabei smarter gelernt als je zuvor",
+    "teaserTitle": "Aber was, wenn wir dir sagen würden...",
+    "teaserDesc": "Dass du bisher nur an der Oberfläche dessen gekratzt hast, was du leisten kannst?",
+    "continue": "weiter"
+  },
+  "earned": {
+    "title": "GEPIELT. VERDIENT.",
+    "claimTitle": "JETZT IST ES AN DER ZEIT, DEINEN PLATZ IN DER KI-GESTEUERTEN ZUKUNFT MIT <1>AI GENESIS</1> EINZUNEHMEN",
+    "items": {
+      "dailyQuests": "TÄGLICHE KI-QUESTS",
+      "learnWithGames": "LERNEN MIT SPIELEN",
+      "aiLearning": "KI-LERNEN",
+      "factVault": "KI-FAKTEN-TRESOR",
+      "emojiGame": "KI-EMOJI-SPIEL",
+      "visualBlogs": "KI-VISUELLE BLOGS",
+      "aiSpace": "KI-SPACE",
+      "spinWheel": "DREHE DAS RAD.",
+      "farming": "KI-FARMING.",
+      "referral": "EMPFEHLUNGSBONUS"
+    },
+    "next": "weiter",
+    "aiGenesis": "KI GENESIS"
+  },
+  "unlockGenesis": {
+    "title": "KI GENESIS FREISCHALTEN",
+    "price": "NUR 15 $/MONAT",
+    "provenCurious": "DU HAST BEWIESEN, DASS DU NICHT NUR NEUGIERIG BIST,",
+    "committed": "SONDERN DASS DU ES ERNST MEINST.",
+    "tapToUpgrade": "ZUM UPGRADEN TIPPEN",
+    "futureWait": "WEIL DIE ZUKUNFT NICHT WARTET – UND DU AUCH NICHT SOLLTEST.",
+    "unlockBtn": "KI GENESIS FREISCHALTEN"
+  },
+  "badge": {
+    "youVeEarned": "DU HAST DIR VERDIENT",
+    "yourFirstBadge": "DEIN ERSTES ABZEICHEN",
+    "badgeName": "KI-ENTDECKER!"
+  },
+  "home": "Startseite",
+  "aboutUs": "Über uns",
+  "community": "Community",
+  "whitepaper": "Whitepaper",
+  "contactUs": "Kontakt",
+  "signIn": "Anmelden",
+  "welcomeTo": "Willkommen bei",
+  "getStarted": "Jetzt loslegen",
+  "hiIAmYourSkillGene": "Hi, ich bin dein Skill Genie!",
+  "auth": {
+    "newPassword": "Neues Passwort",
+    "confirmNewPassword": "Neues Passwort bestätigen"
+  }
+}

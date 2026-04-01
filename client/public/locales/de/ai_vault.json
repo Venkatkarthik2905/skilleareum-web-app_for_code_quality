@@ -1,0 +1,22 @@
+{
+  "ui": {
+    "welcome_to": "Willkommen im",
+    "fact_vault_title": "KI-Faktentresor",
+    "get_started": "Jetzt loslegen",
+    "yesterday": "Gestern",
+    "summary": "Zusammenfassung",
+    "facts_for_day": "KI-Fakten für den Tag.",
+    "claim_reward": "Belohnung beanspruchen",
+    "task_completed": "Aufgabe abgeschlossen👏",
+    "explore_facts": "Erkunden Sie die Fakten von",
+    "learn_earn": "Mehr lernen & Mehr verdienen",
+    "keep_learning": "Lerne und verdiene weiter",
+    "joyride": "Lernen Sie jeden Tag etwas über KI-Geschichte, interessante Fakten, Zukunft & aktuelle Angelegenheiten und beanspruchen Sie 250 Skill-Punkte! 📈"
+  },
+  "categories": {
+    "history": "KI-Geschichte",
+    "fun_fact": "Interessanter KI-Fakt",
+    "future": "KI-Zukunft",
+    "current_affairs": "Aktuelle KI-Angelegenheiten"
+  }
+}

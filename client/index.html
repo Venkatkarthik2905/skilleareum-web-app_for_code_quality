@@ -1,0 +1,123 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="/favicon.png" />
+    <link
+      rel="stylesheet prefetch"
+      href="https://gist.githubusercontent.com/mfd/614e2e80a22b878bde63cb471cbe677e/raw/eef2aabfd0d588d43285431186a0cf70305ceb80/sanfrancisco-font.css"
+    />
+    <link rel="canonical" href="https://skilleareum.ai/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="google-site-verification"
+      content="YsV8oBEOZEjcj6U-Rz0Z6aSYzEcP4Dx7DB-PS4M0xm4"
+    />
+    <meta
+      name="description"
+      content="Join Skilleareum, the ultimate
+      AI-powered platform for gamified and personalized education
+      experiences. Upgrade your skills today! "
+    />
+    <meta
+      property="og:title"
+      content="Skilleareum – AI Gamified
+    Learning"
+    />
+    <meta
+      property="og:description"
+      content="Learn faster with
+    Skilleareum’s AI-based gamified platform. Personalized learning made
+    easy."
+    />
+    <meta property="og:url" content="https://skilleareum.ai/" />
+    <meta
+      property="og:image"
+      content="https://skilleareumimages.s3.ap-south-1.amazonaws.com/assets/LOGO_Icon_GIF.gif"
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:updated_time" content="2025-04-28T00:00:00+00:00" />
+    <link rel="apple-touch-icon" href="/favicon.png" />
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="/manifest.json" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+      integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>Skilleareum – AI-Powered Gamified Learning Platform</title>
+
+    <script src="https://cdn.jsdelivr.net/npm/eruda"></script>
+    <script>
+      // Conditionally load Eruda if the "debug=true" parameter is present in the URL
+      if (window.location.search.includes("debug=true")) {
+        eruda.init();
+      }
+    </script>
+
+    <!-- Google Analytics -->
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root">
+      <nav style="display: none">
+        <a href="/">Home</a>
+        <a href="/Aboutus">About Us</a>
+        <a href="/Contactus">Contact Us</a>
+        <a href="/Whitepaper">Whitepaper</a>
+        <a href="/Community">Community</a>
+        <a href="https://t.me/SKLRM_bot">Telegram</a>
+      </nav>
+      <h1 style="display: none">
+        The Smartest Way to Learn Ai and Earn instant rewards The World's First
+        AI Way of Gamified Learning and Incentivized Earning Governed by Zk-PoL
+        and Validated by Smart Minting System
+      </h1>
+      <h2 style="display: none">Skilleareum AI learning platform</h2>
+      <h2 style="display: none">Gamified learning platform</h2>
+      <h2 style="display: none">Learn with AI</h2>
+    </div>
+    <script>
+      // Extract chatId and referralCode from the URL path
+      const urlParts = window.location.pathname.split("/");
+      const chatId = urlParts[2];
+      const referralCode = urlParts[3];
+
+      // Display chatId and referralCode in the HTML
+      document.getElementById("chatId").textContent = chatId;
+      document.getElementById("referralCode").textContent =
+        referralCode || "No referral code provided";
+    </script>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+    <script src="https://telegram.org/js/telegram-web-app.js"></script>
+    <script>
+      window.Telegram.WebApp.ready();
+      window.Telegram.WebApp.expand();
+    </script>
+    <script type="module" src="/src/index.jsx"></script>
+  </body>
+</html>

@@ -1,0 +1,91 @@
+{
+  "section1": {
+    "vision": {
+      "title": "UNSERE VISION",
+      "desc1": "Eine Welt zu schaffen, in der ",
+      "highlight1": "KI-Bildung",
+      "desc2": " für alle zugänglich ist, indem wir spielerisches Lernen mit echten Belohnungen kombinieren, um die Weiterbildung mühelos und spannend zu gestalten. ",
+      "highlight2": "Skilleareum ",
+      "desc3": "baut ein nachhaltiges, globales Ökosystem auf, in dem jeder KI leicht lernen, Krypto-Token verdienen und gemeinsam durch die Kraft von Web3 und Blockchain-gesteuerten Innovationen wachsen kann."
+    },
+    "mission": {
+      "title": "UNSERE MISSION",
+      "desc": "Unsere Mission ist es, über 1 Million Lernende weltweit zu befähigen, indem wir KI-Bildung durch spielerische Lernerfahrungen und Blockchain-gestützte Anreize einfach, zugänglich und lohnend machen.",
+      "explore": "Erkunden"
+    },
+    "ecosystem": "ZK-POL ÖKOSYSTEM",
+    "incubating": {
+      "title": "Nächste Generation von Funktionen in Entwicklung",
+      "explore": "Erkunden"
+    }
+  },
+  "section2": {
+    "title": "Gründer & Team",
+    "subtitle": "Unsere Innovation spricht für uns",
+    "roles": {
+      "ceo": "CEO & Mitbegründer",
+      "mentor": "Chefmentor",
+      "cmo": "CMO & Mitbegründer",
+      "cto": "CTO",
+      "leadDev": "Leitender Entwickler",
+      "smartContract": "Smart Contract Entwickler",
+      "uiux": "UI / UX Leitung"
+    }
+  },
+  "section3": {
+    "title": "Unsere Roadmap",
+    "subtitle": "Sehen Sie sich die Meilensteine an, die uns hierher geführt haben, und werfen Sie einen Blick auf das, was als Nächstes kommt.",
+    "request": "Haben Sie einen Funktionswunsch? Treten Sie unserem Telegram bei und erzählen Sie uns mehr!",
+    "milestones": {
+      "m1": "Meilenstein 1",
+      "m2": "Meilenstein 2",
+      "m3": "Meilenstein 3",
+      "m4": "Meilenstein 4",
+      "premium": "Premium-Version"
+    },
+    "details": {
+      "v011": "Idee zum Erreichen einer 1-Million-Bewertung",
+      "v022": "MVP Alpha Version, August 24",
+      "v033": "MVP Beta Version, September 24",
+      "v034": "Premium Version, Dezember 24",
+      "comingSoon": "Demnächst",
+      "nft": "Einführung von KI-NFT, Q1 25",
+      "tge": "Token Generation Event, Q1 25"
+    }
+  },
+  "section4": {
+    "title": "Bemerkenswerte Meilensteine",
+    "descriptionLabel": "Beschreibung",
+    "m1": {
+      "title": "Die erste Welle von frühen Anwendern und Premium-Lernenden",
+      "desc": "Über 2.000 aktive Community-Mitglieder erfolgreich onboarded, wobei 30 zahlende Lernende unserem exklusiven AI Genesis Plan beigetreten sind. Dies markiert den Beginn unserer Mission, zugängliche, spielerische KI-Bildung und echte Krypto-Belohnungen durch ein florierendes Web3-Ökosystem bereitzustellen."
+    },
+    "m2": {
+      "title": "Offizieller Start - Spielerisches Lernen geht live",
+      "desc": "Aktivierung der vollständigen Skilleareum-Plattform mit interaktiven KI-Modulen, die traditionelles Lernen in ein belohnungsorientiertes Erlebnis verwandeln und die Grundlage für eine nahtlose Web3-gestützte Weiterbildung schaffen."
+    },
+    "m3": {
+      "title": "Branchenanerkennung - Pionierarbeit in der Web3-KI-Bildung",
+      "desc": "Skilleareum als anerkannten Marktführer im Bereich spielerisches KI-Lernen etabliert, mit einer einzigartigen Mischung aus Bildung, Blockchain-Innovation und Echtzeit-Verdienstmöglichkeiten für eine globale Nutzerbasis."
+    },
+    "m4": {
+      "title": "Expansion durch starke Partnerschaften",
+      "desc": "Zusammenarbeit mit 4 florierenden Communities gesichert, wodurch unser Einfluss auf neue Zielgruppen von KI-Lernenden und Innovatoren ausgeweitet wurde und neue Kanäle für Lernende geschaffen wurden, um sich innerhalb des Skilleareum-Ökosystems zu vernetzen, zusammenzuarbeiten und zu wachsen."
+    }
+  },
+  "section5": {
+    "title": "Tokenomics",
+    "totalTokenSupply": "Gesamt-Token-Vorrat",
+    "oneBillion": "1 Milliarde",
+    "distribution": {
+      "sms": "Smart Minting System",
+      "team": "Team, Vorstand und Investoren",
+      "marketing": "Marketing",
+      "liquidity": "Listing und Liquidität",
+      "ecosystem": "Ökosystem & Treasury",
+      "rewards": "Belohnungen und Airdrops",
+      "reserve": "Reserve",
+      "staking": "Staking"
+    }
+  }
+}

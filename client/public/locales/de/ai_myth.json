@@ -1,0 +1,51 @@
+{
+  "rules": {
+    "title": "Wie diese Herausforderung funktioniert",
+    "rule1": {
+      "title": "Fragenformat",
+      "points": ["Sie werden 5 KI-Mythen beantworten", "Jeder Mythos ist Richtig oder Falsch"]
+    },
+    "rule2": {
+      "title": "Zeitlimit",
+      "points": [
+        "10 Sekunden pro Mythos",
+        "Der Timer startet automatisch für jede Frage"
+      ]
+    },
+    "rule3": {
+      "title": "Bewertungsregel",
+      "points": ["Sie müssen mindestens 4 von 5 Fragen richtig beantworten, um zu bestehen"]
+    },
+    "lets_begin": "Lass uns anfangen"
+  },
+  "game": {
+    "title": "KI-MYTHEN-HERAUSFORDERUNG",
+    "myth_info": "Mythos {{current}} von {{total}}",
+    "question": "Frage {{number}}",
+    "true": "Richtig",
+    "false": "Falsch",
+    "correct": "Richtig",
+    "incorrect": "Falsch",
+    "correct_answer": "Richtige Antwort: ",
+    "next": "WEITER >>",
+    "loading": "Fragen werden geladen...",
+    "error_loading": "Fehler beim Laden der Fragen",
+    "no_questions": "Keine Fragen verfügbar.",
+    "submitting": "Ihre Antworten werden übermittelt...",
+    "submitted": "Erfolgreich übermittelt!",
+    "submission_failed": "Übermittlung fehlgeschlagen",
+    "network_error": "Netzwerkfehler während der Übermittlung",
+    "claimed_redirect": "Belohnung beansprucht. Weiterleitung..."
+  },
+  "results": {
+    "title": "Herausforderung abgeschlossen",
+    "pass": "Bestanden",
+    "fail": "Nicht bestanden",
+    "perfect": "Perfekte Punktzahl! KI-Meister!",
+    "myths_correct": "Mythen richtig beantwortet",
+    "outstanding": "Hervorragend! Sie haben ein umfassendes Verständnis der KI-Konzepte und -Mythen.",
+    "great_job": "Gute Arbeit! Sie haben ein solides Verständnis der KI-Konzepte.",
+    "reinforcement": "Sie sind auf dem richtigen Weg, aber einige KI-Konzepte müssen gefestigt werden.",
+    "continue": "Weiter lernen"
+  }
+}

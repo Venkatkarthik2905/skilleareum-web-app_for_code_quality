@@ -1,0 +1,117 @@
+{
+  "title": "Ihr Lernarchetyp",
+  "next_steps": {
+    "title": "Was kommt als Nächstes?",
+    "description": {
+      "type1": "Nachdem wir nun wissen, wie Sie lernen, lassen Sie uns feststellen, wie vertraut Sie mit KI-Konzepten sind. Dies hilft uns, Ihre Lernreise noch besser zu personalisieren.",
+      "type2": "Bevor wir Ihre personalisierte Roadmap erstellen, bewerten wir Ihr aktuelles KI-Wissen, um es an Ihr Tempo und Ihre Motivation anzupassen.",
+      "type3": "Wir werden Ihr KI-Wissen bewerten, um Herausforderungen zu erstellen, die Ihrem Tempo und Ihrem aufgabenorientierten Lernstil entsprechen.",
+      "type4": "Wir werden Ihr KI-Wissen bewerten, um Herausforderungen zu erstellen, die Ihrem Tempo und Ihrem aufgabenorientierten Lernstil entsprechen."
+    },
+    "start_journey": "Starten Sie Ihre Reise"
+  },
+  "how_you_learn": "Wie Sie am besten lernen",
+  "behavior_breakdown": "Aufschlüsselung des Lernverhaltens",
+  "learning_identity": "Lernidentität",
+  "what_happens_next": "Was passiert als Nächstes?",
+  "labels": {
+    "visual": "Visuell",
+    "analytical": "Analytisch",
+    "sequential": "Sequentiell",
+    "accuracy": "Genauigkeit",
+    "task_driven": "Aufgabenorientiert",
+    "intuitive": "Intuitiv",
+    "speed_focused": "Geschwindigkeitsorientiert",
+    "reward_driven": "Belohnungsorientiert",
+    "exploratory": "Erkundend",
+    "kinesthetic": "Kinästhetisch",
+    "reward": "Belohnung"
+  },
+  "features": {
+    "analytical_thinking": "Analytisches Denken",
+    "goal_oriented": "Zielorientiert",
+    "accuracy_first": "Genauigkeit zuerst",
+    "step_by_step": "Schritt-für-Schritt-Lernen"
+  },
+  "behaviors": {
+    "see": {
+      "title": "Sehen",
+      "desc": "Visuelle Muster helfen Ihnen, Konzepte schnell zu erfassen."
+    },
+    "follow": {
+      "title": "Folgen",
+      "desc": "Eine klare Abfolge hält das Lernen angenehm und fokussiert."
+    },
+    "act_fast": {
+      "title": "Schnell handeln",
+      "desc": "Sie bevorzugen schnelle Entscheidungen und rasche Fortschritte."
+    },
+    "get_rewarded": {
+      "title": "Belohnt werden",
+      "desc": "Visuelle Muster helfen Ihnen, Konzepte schnell zu erfassen."
+    }
+  },
+  "descriptions": {
+    "type1": "Sie bevorzugen Lernerfahrungen, die strukturiert, logisch und gut organisiert sind. Sie erbringen die besten Leistungen, wenn Konzepte Schritt für Schritt in kleine Teile zerlegt werden, was Zeit für tiefes Verständnis und Genauigkeit lässt. Sie sind eher durch sinnvollen Fortschritt und klare Ziele motiviert als durch Geschwindigkeit oder externe Belohnungen.",
+    "type2": "Sie gedeihen in Lernumgebungen, die visuelle Klarheit mit logischem Denken und realen Aufgaben verbinden. Sie bevorzugen es, sich schnell zu bewegen und durch klar definierte Aktionen und Ergebnisse produktiv zu bleiben.",
+    "type3": "Sie gedeihen in Lernumgebungen, die visuelle Klarheit mit logischem Denken und realen Aufgaben verbinden. Sie bevorzugen es, sich schnell zu bewegen und durch klar definierte Aktionen und Ergebnisse produktiv zu bleiben.",
+    "type4": "Sie gedeihen in Lernumgebungen, die visuelle Klarheit mit logischem Denken und realen Aufgaben verbinden. Sie bevorzugen es, sich schnell zu bewegen und durch klar definierte Aktionen und Ergebnisse produktiv zu bleiben."
+  },
+  "roadmap": {
+    "title": "Ihre personalisierte KI-Lern-Roadmap",
+    "subtitle": "Ein Schritt-für-Schritt-Plan, der darauf ausgelegt ist, wie Sie am besten lernen",
+    "loading": "Ihre personalisierte Roadmap wird geladen...",
+    "how_it_works": {
+      "title": "Wie diese Roadmap funktioniert",
+      "description": "Diese Roadmap organisiert Lernaktivitäten in einer Reihenfolge, die Ihrem Lernstil und Ihrer KI-Bereitschaft entspricht. Jede Aktivität baut auf der vorherigen auf, um Klarheit, Behalten und Vertrauen zu gewährleisten."
+    },
+    "learning_journey": "Ihre Lernreise",
+    "step_label": "Schritt {{step}}",
+    "goal_label": "Ziel: {{goal}}",
+    "ai_assessment_result": "Ergebnis des KI-Wissenschecks",
+    "foundational": "Grundlegend",
+    "foundational_desc": "Basierend auf Ihren Antworten in der Bewertung verfügen Sie derzeit über ein grundlegendes Verständnis von KI-Konzepten. Diese Phase konzentriert sich auf den Aufbau von Klarheit, Genauigkeit und Vertrauen durch strukturiertes Lernen.",
+    "beginner": "Anfänger",
+    "beginner_desc": "Basierend auf Ihren Antworten in der Bewertung verfügen Sie derzeit über ein Anfängerverständnis von KI-Konzepten. Diese Phase konzentriert sich auf die Erweiterung Ihres Wissens und die praktische Einarbeitung in KI-Tools.",
+    "intermediate": "Mittelstufe",
+    "intermediate_desc": "Basierend auf Ihren Antworten in der Bewertung verfügen Sie derzeit über ein mäßiges Verständnis von KI-Konzepten. Diese Phase konzentriert sich auf die Vertiefung Ihres technischen Verständnisses und die Anwendung von KI in der realen Welt.",
+    "advanced": "Fortgeschritten",
+    "advanced_desc": "Basierend auf Ihren Antworten in der Bewertung verfügen Sie derzeit über ein fortgeschrittenes Verständnis von KI-Konzepten. Diese Phase konzentriert sich auf komplexe Problemlösungen sowie fortgeschrittene KI-Strategien und -Implementierungen.",
+    "what_this_means": {
+      "title": "Was das bedeutet",
+      "description": "In dieser Phase bauen Sie eine starke Grundlage in KI-Konzepten auf. Sie lernen am besten, wenn Inhalte logisch aufeinanderfolgen, klar erklärt und durch Handeln untermauert werden."
+    },
+    "typically": "Sie tun normalerweise Folgendes:",
+    "typically_points": [
+      "Verständnis Schritt für Schritt aufbauen",
+      "Bevorzugen Anleitung vor Erkundung",
+      "Lernen durch gemeinsames Sehen, Hören, Lesen und Handeln"
+    ],
+    "duration_roadmap": "{{days}}-Tage KI-Lern-Roadmap",
+    "phase_label": "Phase {{step}} — ",
+    "start_ai_journey": "Starten Sie Ihre KI-Reise",
+    "steps": {
+      "f1": {
+        "title": "KI-Grundlagen",
+        "goal": "Grundlegendes Bewusstsein und mentale Modelle aufbauen"
+      },
+      "f2": {
+        "title": "Wie KI funktioniert & wo sie eingesetzt wird",
+        "goal": "KI konzeptionell ohne technische Tiefe verstehen"
+      },
+      "f3": {
+        "title": "Effektive Interaktion mit KI",
+        "goal": "Vertrauen in die korrekte Nutzung von KI aufbauen"
+      },
+      "f4": {
+        "title": "Verantwortungsbewusste & praktische Anwendung",
+        "goal": "KI bedacht und verantwortungsbewusst einsetzen"
+      }
+    },
+    "tooltips": {
+      "best_for": "Am besten für",
+      "what_you_do": "Was Sie tun",
+      "why_it_matters": "Warum es wichtig ist"
+    }
+  }
+}

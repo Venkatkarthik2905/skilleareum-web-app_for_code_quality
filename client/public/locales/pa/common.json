@@ -1,0 +1,56 @@
+{
+  "loading": "ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ, ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ",
+  "home": "ਹੋਮ",
+  "aboutUs": "ਸਾਡੇ ਬਾਰੇ",
+  "community": "ਭਾਈਚਾਰਾ",
+  "whitepaper": "ਵਾਈਟ ਪੇਪਰ (Whitepaper)",
+  "contactUs": "ਸਾਡੇ ਨਾਲ ਸੰਪਰਕ ਕਰੋ",
+  "signIn": "ਸਾਈਨ ਇਨ ਕਰੋ",
+  "joinNow": "ਹੁਣੇ ਜੁੜੋ",
+  "getStarted": "ਸ਼ੁਰੂ ਕਰੋ",
+  "welcomeTo": "ਸੁਆਗਤ ਹੈ",
+  "hiIAmYourSkillGene": "ਨਮਸਤੇ ਮੈਂ ਤੁਹਾਡਾ ਸਕਿੱਲ ਜੀਨ ਹਾਂ",
+  "footer": {
+    "followUs": "ਸੋਸ਼ਲ ਮੀਡੀਆ 'ਤੇ ਸਾਨੂੰ ਫਾਲੋ ਕਰੋ",
+    "links": {
+      "home": "ਹੋਮ",
+      "aboutUs": "ਸਾਡੇ ਬਾਰੇ",
+      "community": "ਭਾਈਚਾਰਾ"
+    },
+    "subLinks": {
+      "futureBenefits": "ਭਵਿੱਖ ਦੇ ਲਾਭ",
+      "learnEarn": "ਸਿੱਖੋ ਅਤੇ ਕਮਾਓ",
+      "features": "ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ",
+      "visionMission": "ਦ੍ਰਿਸ਼ਟੀ ਅਤੇ ਮਿਸ਼ਨ",
+      "roadmap": "ਰੋਡਮੈਪ",
+      "tokenomics": "ਟੋਕਨਮਿਕਸ",
+      "explore": "ਐਕਸਪਲੋਰ ਕਰੋ",
+      "partnership": "ਭਾਈਵਾਲੀ",
+      "affiliateProgram": "ਐਫੀਲੀਏਟ ਪ੍ਰੋਗਰਾਮ"
+    },
+    "newsletter": {
+      "title": "ਸਾਡੇ ਨਿਊਜ਼ਲੈਟਰ ਨਾਲ ਜੁੜੋ",
+      "subtitle": "ਰਿਫਲੈਕਟ ਦੀ ਹਰ ਚੀਜ਼ ਨਾਲ ਅਪਡੇਟ ਰਹੋ",
+      "placeholder": "ਆਪਣਾ ਈਮੇਲ ਦਰਜ ਕਰੋ",
+      "subscribe": "ਸਬਸਕ੍ਰਾਈਬ ਕਰੋ",
+      "subscribing": "ਸਬਸਕ੍ਰਾਈਬ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ..."
+    },
+    "rights": "@ Skilleareum {{year}}. ਸਾਰੇ ਹੱਕ ਰਾਖਵੇਂ ਹਨ।",
+    "version": "ਸੰਸਕਰਣ {{version}}",
+    "privacyPolicy": "ਗੋਪਨੀਯਤਾ ਨੀਤੀ",
+    "termsConditions": "ਨਿਯਮ ਅਤੇ ਸ਼ਰਤਾਂ",
+    "cookiePolicy": "ਕੂਕੀ ਨੀਤੀ"
+  },
+  "messages": {
+    "enterEmail": "ਆਪਣਾ ਈਮੇਲ ਦਰਜ ਕਰੋ।",
+    "thanksSubscription": "ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਲਈ ਧੰਨਵਾਦ।",
+    "subscriptionDone": "ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਪਹਿਲਾਂ ਹੀ ਹੋ ਚੁੱਕੀ ਹੈ।"
+  },
+  "reward": {
+    "day_label": "ਦਿਨ {{day}}",
+    "skill_points": "ਸਕਿੱਲ ਪੁਆਇੰਟਸ",
+    "earned": "ਕਮਾਏ",
+    "come_back": "ਕੱਲ੍ਹ ਵਾਪਸ ਆਓ",
+    "collect": "ਇਕੱਠਾ ਕਰੋ"
+  }
+}
